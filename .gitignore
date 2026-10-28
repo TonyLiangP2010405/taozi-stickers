@@ -1,0 +1,13 @@
+/.DS_Store
+**/.DS_Store
+/*.png
+/catalog-root.json
+/catalog-a.json
+/catalog-b.json
+/catalog-c.json
+/progress-*.json
+/prompts-*.json
+/*.zip
+/调研与创作说明.md
+/output/
+__pycache__/

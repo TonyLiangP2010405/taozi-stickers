@@ -1,0 +1,106 @@
+{
+  "target": 500,
+  "completed": 10,
+  "items": [
+    {
+      "id": 1,
+      "caption": "头部主播",
+      "series": "首批主播梗",
+      "path": "stickers/001-头部主播.png",
+      "scene": "",
+      "sha256": "c30ab51a2972ed35065c651f8d5d04112c7fc48b4e6fa06c0c8d3af37199dfe3",
+      "bytes": 1750841,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 2,
+      "caption": "五冠王",
+      "series": "首批主播梗",
+      "path": "stickers/002-五冠王.png",
+      "scene": "",
+      "sha256": "97a21aa596bf866d9ff9d763cea0a2a4e72143e0220053f0e999fb480b62eb1c",
+      "bytes": 1505893,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 3,
+      "caption": "师傅救我",
+      "series": "首批主播梗",
+      "path": "stickers/003-师傅救我.png",
+      "scene": "",
+      "sha256": "666ec8b477d3d5af7fef4c8d56d9b0746c2ac75ffb74065963076699cf026785",
+      "bytes": 1804661,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 4,
+      "caption": "大出货哇",
+      "series": "首批主播梗",
+      "path": "stickers/004-大出货哇.png",
+      "scene": "",
+      "sha256": "475949c830a11c5b69b562dab3fd3f5300e5397b5a4b1072207ea5897070fb1d",
+      "bytes": 1702829,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 5,
+      "caption": "无情钓鱼机器",
+      "series": "首批主播梗",
+      "path": "stickers/005-无情钓鱼机器.png",
+      "scene": "",
+      "sha256": "993e898782dbb9ec3d2318b95ac6199161ad708bd81d242dab5b2737777fa08c",
+      "bytes": 1475356,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 6,
+      "caption": "又是老演员",
+      "series": "首批主播梗",
+      "path": "stickers/006-又是老演员.png",
+      "scene": "",
+      "sha256": "3f763521e81fa16fb19edd9d6d7e5d26c2d95e8bb428bd8c30149cf3d86f70e6",
+      "bytes": 1617423,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 7,
+      "caption": "黑桃包围了",
+      "series": "首批主播梗",
+      "path": "stickers/007-黑桃包围了.png",
+      "scene": "",
+      "sha256": "9316ba38d11044587471463eae3d05937eae5885be1bd393670729efd3b7818b",
+      "bytes": 1778137,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 8,
+      "caption": "好穷啊",
+      "series": "首批主播梗",
+      "path": "stickers/008-好穷啊.png",
+      "scene": "",
+      "sha256": "d1ed5c7030f5028fc3f2f4f77957e4809e50660b1c3641608f681123b401a3c8",
+      "bytes": 1568387,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 9,
+      "caption": "怎么还有一关",
+      "series": "首批主播梗",
+      "path": "stickers/009-怎么还有一关.png",
+      "scene": "",
+      "sha256": "fc8996293c81077a8fc9193fed53f8307a4f087bc50598df59c0d29d96d6b51c",
+      "bytes": 1887826,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 10,
+      "caption": "主播困了",
+      "series": "首批主播梗",
+      "path": "stickers/010-主播困了.png",
+      "scene": "",
+      "sha256": "3ff9ecab429699ecb8ea56cb6c7c508def765a7fff6303fab5dbbdba0eea5c25",
+      "bytes": 1596569,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    }
+  ]
+}

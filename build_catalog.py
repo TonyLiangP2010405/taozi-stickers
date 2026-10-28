@@ -1,0 +1,87 @@
+"""Build the public catalog from the numbered PNG files that actually exist."""
+import hashlib
+import html
+import json
+import re
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent
+TARGET = 500
+
+
+def build():
+    planned = {}
+    for name in ['catalog-root.json', 'catalog-a.json', 'catalog-b.json', 'catalog-c.json']:
+        source = ROOT / name
+        if not source.exists():
+            continue
+        for item in json.loads(source.read_text()):
+            number = int(item['id'])
+            assert 1 <= number <= TARGET, number
+            assert number not in planned, f'Duplicate ID {number}'
+            planned[number] = item
+    complete = []
+    seen_ids = set()
+    seen_hashes = set()
+    for file in sorted((ROOT / 'stickers').glob('*.png')):
+        match = re.fullmatch(r'(\d{3})-(.+)\.png', file.name)
+        assert match, f'Unexpected filename: {file.name}'
+        number = int(match[1])
+        assert number not in seen_ids, f'Duplicate image number {number}'
+        assert number in planned, f'Image missing catalog entry: {file.name}'
+        item = planned[number]
+        assert match[2] == item['caption'], f'Caption mismatch: {file.name}'
+        data = file.read_bytes()
+        assert data.startswith(b'\x89PNG\r\n\x1a\n'), file
+        digest = hashlib.sha256(data).hexdigest()
+        assert digest not in seen_hashes, f'Duplicate PNG: {file.name}'
+        seen_ids.add(number)
+        seen_hashes.add(digest)
+        complete.append({
+            'id': number, 'caption': item['caption'],
+            'series': item['series'], 'path': file.relative_to(ROOT).as_posix(),
+            'scene': item.get('scene', item.get('visual', '')),
+            'sha256': digest, 'bytes': len(data),
+            'text_type': '粉丝二创文案，非全部主播逐字语录',
+        })
+    result = {'target': TARGET, 'completed': len(complete), 'items': complete}
+    (ROOT / 'catalog.json').write_text(json.dumps(result, ensure_ascii=False, indent=2) + '\n')
+    cards = []
+    for item in complete:
+        caption = html.escape(item['caption'])
+        series = html.escape(item['series'])
+        path = html.escape(item['path'], quote=True)
+        cards.append(f'<a class="card" href="{path}" download data-search="{caption} {series}"><img loading="lazy" src="{path}" alt="{caption}"><span>{item["id"]:03d} · {caption}</span><small>{series}</small></a>')
+    page = '''<!doctype html><html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>小小桃纸哟 · 表情包</title><style>*{box-sizing:border-box}body{margin:0;background:#fff5eb;color:#5a3128;font-family:-apple-system,BlinkMacSystemFont,"PingFang SC",sans-serif}main{max-width:1500px;margin:auto;padding:30px}h1{font-size:30px;margin:0 0 8px}.sub,small{color:#916b5d}input{width:100%;padding:13px 16px;margin:20px 0;border:1px solid #e4bca7;border-radius:14px;background:#fffcf8;font:inherit;color:inherit}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:14px}.card{display:block;padding:10px;border-radius:20px;background:#fffcf8;border:1px solid #f1dfd1;text-align:center;color:inherit;text-decoration:none}.card img{display:block;width:100%;aspect-ratio:1;object-fit:contain}.card span,.card small{display:block;margin:6px 0}.card[hidden]{display:none}footer{margin-top:24px;color:#916b5d;font-size:13px}</style><main><h1>小小桃纸哟 · 表情包</h1><div class="sub">已完成 COMPLETE / 500 张 · 点击图片下载透明 PNG</div><input id="search" aria-label="搜索文案或主题" placeholder="搜索文案或主题，例如：钓鱼、晚安、黑桃"><div class="grid">CARDS</div><footer>粉丝二创，非主播官方出品。文案为公开内容启发的创作，不全部作为主播原话。<a href="docs/research.md">调研与来源</a> · <a href="catalog.json">图片索引</a></footer></main><script>const cards=[...document.querySelectorAll('.card')];document.querySelector('#search').addEventListener('input',e=>{const q=e.target.value.trim().toLowerCase();cards.forEach(c=>c.hidden=!c.dataset.search.toLowerCase().includes(q));});</script></html>'''
+    (ROOT / 'index.html').write_text(page.replace('COMPLETE', str(len(complete))).replace('CARDS', ''.join(cards)))
+    preview = '\n'.join(f'| {i["id"]:03d} {i["caption"]} | ![{i["caption"]}]({i["path"]}) |' for i in complete[:10])
+    state = '已完成' if len(complete) == TARGET else '制作中'
+    readme = f'''# 小小桃纸哟表情包
+
+围绕 [小小桃纸哟（UID 6867955）](https://space.bilibili.com/6867955) 公开内容创作的 Q 版透明表情包。
+
+**{state}：{len(complete)} / {TARGET} 张。** 每张独立绘制，统一橘发蓝眼、白领粉衣小熊形象。图片以实际落盘文件计数。
+
+- [全部图片](stickers/)：三位编号 + 中文文案，透明 PNG。
+- [完整索引](catalog.json)：文案、主题、路径、SHA-256 校验值。
+- [预览画廊](index.html)：下载仓库后，用浏览器打开，可按文案和主题筛选。
+- [调研与创作说明](docs/research.md)：公开来源及文案边界。
+
+## 首批预览
+
+| 文案 | 图片 |
+|---|---|
+{preview}
+
+## 说明
+
+这是粉丝二创项目，非主播官方出品。文案包含有出处的历史梗及主题原创短句，不全部作为主播逐字原话。角色、头像及主播相关权益归相应权利人；本仓库不宣称获得主播背书或授予相关第三方权益。
+
+制作：2026-10-28。使用内置 ImageGen 逐张生成。
+'''
+    (ROOT / 'README.md').write_text(readme)
+    print(json.dumps({'planned': len(planned), 'completed': len(complete), 'target': TARGET}))
+
+
+if __name__ == '__main__':
+    build()
