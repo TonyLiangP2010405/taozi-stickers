@@ -1,6 +1,6 @@
 {
   "target": 500,
-  "completed": 71,
+  "completed": 103,
   "items": [
     {
       "id": 1,
@@ -303,6 +303,116 @@
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {
+      "id": 31,
+      "caption": "图鉴加一",
+      "series": "图鉴收集",
+      "path": "stickers/031-图鉴加一.png",
+      "scene": "开心翻开图鉴，指向新的小蝴蝶贴纸",
+      "sha256": "09036b0c3d392d0684205ed62818e80d5f8d7242f43b1e7a49415316c3ab1b4a",
+      "bytes": 1908071,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 32,
+      "caption": "这个没见过",
+      "series": "图鉴收集",
+      "path": "stickers/032-这个没见过.png",
+      "scene": "捧着奇特发光小海螺，眼睛睁得圆圆",
+      "sha256": "9d2d51051103992680df39d9ebdf73e9462c877b4ee3db6de7e081d586256fd2",
+      "bytes": 1948687,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 33,
+      "caption": "差最后一个",
+      "series": "图鉴收集",
+      "path": "stickers/033-差最后一个.png",
+      "scene": "紧盯收藏册唯一空格，咬手帕着急",
+      "sha256": "96ae335e1746a3ed8c5445d723aaf5d6c3756ee9dfb6b533f91453da132f3cd8",
+      "bytes": 1842326,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 34,
+      "caption": "重复的别来",
+      "series": "图鉴收集",
+      "path": "stickers/034-重复的别来.png",
+      "scene": "捧三只一模一样的小蘑菇，半眯眼嫌弃",
+      "sha256": "d13a88dd79dfbcd790f38e1e6630bf18e645fd72d53c238a35cc12530ccde793",
+      "bytes": 1816969,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 35,
+      "caption": "收集欲犯了",
+      "series": "图鉴收集",
+      "path": "stickers/035-收集欲犯了.png",
+      "scene": "张开双臂抱住一堆小收藏盒，兴奋脸红",
+      "sha256": "46c5e2297155afb9855b968a730722e7baefe6b738f119d44b9293cf7957c09f",
+      "bytes": 2032290,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 36,
+      "caption": "全都想要",
+      "series": "图鉴收集",
+      "path": "stickers/036-全都想要.png",
+      "scene": "双手伸向三种可爱小玩具，眼冒小星星",
+      "sha256": "6f3e5c005bc710e33e96f8469284e6d64eb5a6378c2b41292ef9ba13ffe8361e",
+      "bytes": 1941659,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 37,
+      "caption": "新物种发现",
+      "series": "图鉴收集",
+      "path": "stickers/037-新物种发现.png",
+      "scene": "用捕虫网小心托着陌生小昆虫，得意宣布",
+      "sha256": "1c76d684a46901aab99fbfb4039e0ae514decb16af95f540b480436695c64597",
+      "bytes": 2018253,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 38,
+      "caption": "别急我记一下",
+      "series": "图鉴收集",
+      "path": "stickers/038-别急我记一下.png",
+      "scene": "拿铅笔快速记小本本，严肃抿嘴",
+      "sha256": "1d8b15c05c016dc56f96fa23c3e5da9eebaa1fd6927b01dca4a813fd3ddd0d77",
+      "bytes": 1792965,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 39,
+      "caption": "收藏家上线",
+      "series": "图鉴收集",
+      "path": "stickers/039-收藏家上线.png",
+      "scene": "戴单片放大镜抱展示盒，骄傲抬下巴",
+      "sha256": "ffe6f75326bc752ba253651d46da64b1328890864713ebfd1ceb53a8ce0ec5a0",
+      "bytes": 1833306,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 40,
+      "caption": "这也能收集",
+      "series": "图鉴收集",
+      "path": "stickers/040-这也能收集.png",
+      "scene": "举起一颗奇怪小石头，不可思议指着它",
+      "sha256": "05000a4021ffe95c2855fc4037541d4cb54c2e01a62178a3bd2029bfcd551f5e",
+      "bytes": 1773332,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 41,
+      "caption": "装修启动",
+      "series": "家园装修",
+      "path": "stickers/041-装修启动.png",
+      "scene": "戴工具腰包举小锤，元气满满",
+      "sha256": "69ecf8fe300613c6969b5ac1c1bf4332493d55b69a2fc4496b59d7f0dd4bbe9f",
+      "bytes": 1825826,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
       "id": 171,
       "caption": "桃纸上线啦",
       "series": "开播",
@@ -513,6 +623,96 @@
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {
+      "id": 192,
+      "caption": "我看见你啦",
+      "series": "弹幕互动",
+      "path": "stickers/192-我看见你啦.png",
+      "scene": "point cheerfully at the viewer through a small toy telescope",
+      "sha256": "d287db2b7d160593d7ca304072f68cf6020ee62d917bd0ff8b9254c18d8582e8",
+      "bytes": 1625634,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 193,
+      "caption": "这条我来答",
+      "series": "弹幕互动",
+      "path": "stickers/193-这条我来答.png",
+      "scene": "raise one hand eagerly and hold a question card in the other",
+      "sha256": "eba77cd654a528e0189f71d53931cb9359d21075d0b8f453ac2256d385dc7794",
+      "bytes": 1596511,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 194,
+      "caption": "让我瞅瞅呀",
+      "series": "弹幕互动",
+      "path": "stickers/194-让我瞅瞅呀.png",
+      "scene": "lean far forward, lifting tiny round glasses with a curious squint",
+      "sha256": "2ee4496d49953085ed0d566befca9d201bbc2e0f06722524cafa8097228e4d67",
+      "bytes": 1696307,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 195,
+      "caption": "你们好会说",
+      "series": "弹幕互动",
+      "path": "stickers/195-你们好会说.png",
+      "scene": "cover the mouth while laughing, holding a blank speech bubble",
+      "sha256": "9924202f274125c4feeb6244515103935f13fd266d087eda36010eafecb074c8",
+      "bytes": 1638199,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 196,
+      "caption": "弹幕别急嘛",
+      "series": "弹幕互动",
+      "path": "stickers/196-弹幕别急嘛.png",
+      "scene": "pat the air gently with both hands and a calming smile",
+      "sha256": "661c6234368e4b7ee4d942d8a444c0ddf66887e23617b09e5590a983ff90b73b",
+      "bytes": 1618943,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 197,
+      "caption": "这就安排上",
+      "series": "弹幕互动",
+      "path": "stickers/197-这就安排上.png",
+      "scene": "give a firm thumbs-up while placing a star sticker on a checklist",
+      "sha256": "e33b1c4215f1523df3adb97ea8fa59dd42e651b63b190ac76703142975acabbd",
+      "bytes": 1654525,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 198,
+      "caption": "我认真看着",
+      "series": "弹幕互动",
+      "path": "stickers/198-我认真看着.png",
+      "scene": "rest chin in both hands and stare intently at a small chat screen",
+      "sha256": "ac03f06059a08e475d50d4f038cac48e2887e37b7777bf2b67c8c218f44b3d43",
+      "bytes": 1659364,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 199,
+      "caption": "谁在偷偷笑",
+      "series": "弹幕互动",
+      "path": "stickers/199-谁在偷偷笑.png",
+      "scene": "look sideways suspiciously and hold a magnifying glass near the face",
+      "sha256": "684fc77d92ea5a7c9aed2da9d26fb033f7dd9b35a7094307a7208a37ce7e36fa",
+      "bytes": 1566255,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 200,
+      "caption": "收到这条啦",
+      "series": "弹幕互动",
+      "path": "stickers/200-收到这条啦.png",
+      "scene": "catch a floating blank message card with a triumphant wink",
+      "sha256": "14329c2eca99381c84d8eab187ae8c52030c8a253be74ad911e38df731ae6849",
+      "bytes": 1627409,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
       "id": 331,
       "caption": "桃子来啦",
       "series": "日常招呼",
@@ -710,6 +910,126 @@
       "scene": "She raises a fist at sunrise, bright determined blue eyes.",
       "sha256": "080e16dec4253f82e35c8a513ae0161216d5204520dc2ad52758ed94bcac6ff3",
       "bytes": 1864146,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 351,
+      "caption": "干饭铃响了",
+      "series": "吃饭零食",
+      "path": "stickers/351-干饭铃响了.png",
+      "scene": "She proudly presents a steaming rice bowl with chopsticks.",
+      "sha256": "bedacaa62532d655178d9905b56c341f383e769cfabb88d2be932dee233609ce",
+      "bytes": 2043396,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 352,
+      "caption": "先炫一口",
+      "series": "吃饭零食",
+      "path": "stickers/352-先炫一口.png",
+      "scene": "She takes an oversized happy bite from a rice ball, cheeks puffed.",
+      "sha256": "bcea02f845626703a643a4e36f6520a0a99f43dc2533d4f71c2cf3133ccb0a7e",
+      "bytes": 1730665,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 353,
+      "caption": "奶茶续命",
+      "series": "吃饭零食",
+      "path": "stickers/353-奶茶续命.png",
+      "scene": "She hugs a big bubble-tea cup and sips with relieved half-closed eyes.",
+      "sha256": "d860ee74f5e51065aa85e4847b044c7fac674865f2a545307c5eb444005d1d3b",
+      "bytes": 1796525,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 354,
+      "caption": "饿扁了啦",
+      "series": "吃饭零食",
+      "path": "stickers/354-饿扁了啦.png",
+      "scene": "She lies flat with tiny rumbling belly lines, imagining a small bun.",
+      "sha256": "ec7609808f83d145c120bc4cf950fb9d910ce4f0e06f7af08e171383cd6c74c9",
+      "bytes": 1967396,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 355,
+      "caption": "好吃到转圈",
+      "series": "吃饭零食",
+      "path": "stickers/355-好吃到转圈.png",
+      "scene": "She spins joyfully holding a little cake fork, crumbs on cheek.",
+      "sha256": "ef0c668e4c9a52f0431bc1c8346bcbd4adf133e6a995cfa1e12dc76eaea5a97e",
+      "bytes": 2068592,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 356,
+      "caption": "留我一口",
+      "series": "吃饭零食",
+      "path": "stickers/356-留我一口.png",
+      "scene": "She reaches yearningly toward a small plate of cookies, puppy eyes.",
+      "sha256": "34d4968b517c291ac50f63f79972123c5742871cb006b538c40931a61e2dc759",
+      "bytes": 1819764,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 357,
+      "caption": "快乐干饭",
+      "series": "吃饭零食",
+      "path": "stickers/357-快乐干饭.png",
+      "scene": "She rapidly shovels rice with chopsticks, cheerful puffed cheeks.",
+      "sha256": "c8a00333330333ba27362188e167e9fd567a21b17498fe3a61a1d9d2fbe43a5d",
+      "bytes": 1860214,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 358,
+      "caption": "零食交出来",
+      "series": "吃饭零食",
+      "path": "stickers/358-零食交出来.png",
+      "scene": "She holds out both palms sternly but cutely toward a snack bag.",
+      "sha256": "972657474ca16fe286ccd23a35fce27a5317fa3851d536f98c7fad617ffd6f87",
+      "bytes": 1923623,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 359,
+      "caption": "再吃亿点",
+      "series": "吃饭零食",
+      "path": "stickers/359-再吃亿点.png",
+      "scene": "She sits beside a stack of snacks, sneaking another cookie.",
+      "sha256": "4db338106b547bb5c506147f6be8451410f2ad3add3f642525e917eeb86443e5",
+      "bytes": 1779817,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 360,
+      "caption": "饱了饱了",
+      "series": "吃饭零食",
+      "path": "stickers/360-饱了饱了.png",
+      "scene": "She leans back contentedly patting a round full belly, empty bowl beside her.",
+      "sha256": "399cd63582ab438c9f04dedf4a89ee76d0a728a859176c666dac881c63a28600",
+      "bytes": 1804741,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 361,
+      "caption": "开工开工",
+      "series": "上班",
+      "path": "stickers/361-开工开工.png",
+      "scene": "She rolls up her sleeves at a tiny work desk, determined face.",
+      "sha256": "4b8995d6e7b0c3de2480691fed88d63a6bca98e3dac4f3789a29469309adae06",
+      "bytes": 1804357,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 362,
+      "caption": "搬砖去了",
+      "series": "上班",
+      "path": "stickers/362-搬砖去了.png",
+      "scene": "She carries two cartoon bricks wearing a little yellow safety helmet.",
+      "sha256": "e1401d0c9d8de25d9074b74f89750f7e25ceffeaf19af48b710592bf30158d7c",
+      "bytes": 1816034,
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     }
   ]
