@@ -1,6 +1,6 @@
 {
   "target": 500,
-  "completed": 103,
+  "completed": 135,
   "items": [
     {
       "id": 1,
@@ -413,6 +413,116 @@
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {
+      "id": 42,
+      "caption": "摆哪都好看",
+      "series": "家园装修",
+      "path": "stickers/042-摆哪都好看.png",
+      "scene": "抱一只小花瓶左右犹豫，满脸幸福",
+      "sha256": "4f48a16e58837d3bb91d24533e73ab298c091e4afb2023af96098682d7ed10ff",
+      "bytes": 1919511,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 43,
+      "caption": "家具不够了",
+      "series": "家园装修",
+      "path": "stickers/043-家具不够了.png",
+      "scene": "跪坐空空小地毯上，抱靠枕委屈",
+      "sha256": "4d84d906fe75e742948668a9d497b36a90d5ff584680b1b56786648ad5899ae2",
+      "bytes": 1798530,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 44,
+      "caption": "这就叫审美",
+      "series": "家园装修",
+      "path": "stickers/044-这就叫审美.png",
+      "scene": "戴画家帽举小色卡，得意叉腰",
+      "sha256": "1c3c64fbfdcfd35bd15466110e884c17a501620d2371ae0cf6b604a9e3f45095",
+      "bytes": 1844987,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 45,
+      "caption": "再挪一点点",
+      "series": "家园装修",
+      "path": "stickers/045-再挪一点点.png",
+      "scene": "推一只小凳子费劲移动，认真眯眼",
+      "sha256": "de4e6ae5436cb43e3ddbe7c7dbfb9f23af85b31845ce1273db93c33d1538876d",
+      "bytes": 1728134,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 46,
+      "caption": "家园大改造",
+      "series": "家园装修",
+      "path": "stickers/046-家园大改造.png",
+      "scene": "抱着卷起的设计图，另一手高举刷子",
+      "sha256": "4bda665a932eede2082a0472960823906b37f18063cfaa8b1549c9cdceb2de30",
+      "bytes": 1979894,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 47,
+      "caption": "我有艺术细胞",
+      "series": "家园装修",
+      "path": "stickers/047-我有艺术细胞.png",
+      "scene": "手和脸沾少量颜料，拿调色盘自信笑",
+      "sha256": "9facbe6b290c2d34dbd10577bb4e5af1ee59699f4dd3f7a91d0d2386a3390ffa",
+      "bytes": 1921480,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 48,
+      "caption": "先摆了再说",
+      "series": "家园装修",
+      "path": "stickers/048-先摆了再说.png",
+      "scene": "双手抱三只不搭的小摆件，理直气壮",
+      "sha256": "214cb49d584c866407ce4a85ca3d5f8d33df3bb7fd0614836d9c71b1d6ebb2f9",
+      "bytes": 1752149,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 49,
+      "caption": "小窝真舒服",
+      "series": "家园装修",
+      "path": "stickers/049-小窝真舒服.png",
+      "scene": "窝在巨大软抱枕里，舒服闭眼微笑",
+      "sha256": "538f891f8f3eab7ebdeb0a5fcee6a3c83cf52cebbfa3213dbdad19d31d509b90",
+      "bytes": 1922107,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 50,
+      "caption": "请来我家玩",
+      "series": "家园装修",
+      "path": "stickers/050-请来我家玩.png",
+      "scene": "站在小门框旁礼貌鞠躬，手掌欢迎",
+      "sha256": "7b38ee78760a85c3b467072b3cb001462934b22f1f44fef2048d26b5ed6a8854",
+      "bytes": 1913152,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 51,
+      "caption": "摸摸小动物",
+      "series": "畜牧动物",
+      "path": "stickers/051-摸摸小动物.png",
+      "scene": "轻轻抚摸一只毛茸茸小鸡，温柔笑",
+      "sha256": "0ba36fbc31434870f04d0a65ac3d926994cdd34de8e7f16dd635de0933d84be0",
+      "bytes": 1741322,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 52,
+      "caption": "鸡崽别乱跑",
+      "series": "畜牧动物",
+      "path": "stickers/052-鸡崽别乱跑.png",
+      "scene": "追赶一只小鸡，双手慌张往前扑",
+      "sha256": "7bd7b139ad2d3c0757160c864adc94b1ada93b326bfb91939607d842793ea1fa",
+      "bytes": 1978055,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
       "id": 171,
       "caption": "桃纸上线啦",
       "series": "开播",
@@ -710,6 +820,106 @@
       "scene": "catch a floating blank message card with a triumphant wink",
       "sha256": "14329c2eca99381c84d8eab187ae8c52030c8a253be74ad911e38df731ae6849",
       "bytes": 1627409,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 201,
+      "caption": "师傅带带桃",
+      "series": "师徒互动",
+      "path": "stickers/201-师傅带带桃.png",
+      "scene": "cling cutely to a large guiding arrow with pleading watery eyes",
+      "sha256": "624a53bd6d99c98d6e1453e14f1173a234523725ac284f680135ec1a0d6c1929",
+      "bytes": 1678437,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 202,
+      "caption": "徒弟来报到",
+      "series": "师徒互动",
+      "path": "stickers/202-徒弟来报到.png",
+      "scene": "stand straight with a salute while holding a small school satchel",
+      "sha256": "40925a3833ee71b35cd25992c6c6e2c222c9f8dc3da94f83d135a7ce7c6fd110",
+      "bytes": 1583643,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 203,
+      "caption": "这题师傅会",
+      "series": "师徒互动",
+      "path": "stickers/203-这题师傅会.png",
+      "scene": "hold a confusing puzzle board toward the viewer with hopeful blue eyes",
+      "sha256": "19edf4f320998c0bad93006025919305a2c53b39d46437d5ba1bdb98714510ca",
+      "bytes": 1721266,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 204,
+      "caption": "先听师傅讲",
+      "series": "师徒互动",
+      "path": "stickers/204-先听师傅讲.png",
+      "scene": "sit cross-legged with a notebook and a raised attentive ear",
+      "sha256": "9405c2dbe0d50ed6c65c5f9b2a486db24f043b808b472bb5b165af810118d9dc",
+      "bytes": 1528004,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 205,
+      "caption": "桃纸学会啦",
+      "series": "师徒互动",
+      "path": "stickers/205-桃纸学会啦.png",
+      "scene": "jump with joy while holding a notebook with a big check mark",
+      "sha256": "90f878b4e4ffb264eff2459ec8704afa26042d356b2eb4db43438e127b6426a3",
+      "bytes": 1792186,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 206,
+      "caption": "师傅看我秀",
+      "series": "师徒互动",
+      "path": "stickers/206-师傅看我秀.png",
+      "scene": "strike a confident pose balancing a harmless toy sword",
+      "sha256": "9024865711c970c201c3e4e2611bd90a3118cfd2c42f3b82d15824ff423db959",
+      "bytes": 1744847,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 207,
+      "caption": "这步怎么走",
+      "series": "师徒互动",
+      "path": "stickers/207-这步怎么走.png",
+      "scene": "hover one foot above a small stepping stone with a confused expression",
+      "sha256": "9fc228858776841ff690d61149c3e954c37f11a4e1452942f914d39f759ff0c9",
+      "bytes": 1524281,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 208,
+      "caption": "徒弟又懂了",
+      "series": "师徒互动",
+      "path": "stickers/208-徒弟又懂了.png",
+      "scene": "tap the temple proudly beside a glowing light bulb",
+      "sha256": "6b9a7e360e8ae263b985ba0af9f2832a66d6963020cc32aecf0b4cccb30ca01b",
+      "bytes": 1702357,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 209,
+      "caption": "师傅辛苦啦",
+      "series": "师徒互动",
+      "path": "stickers/209-师傅辛苦啦.png",
+      "scene": "offer a warm mug with both hands and a grateful bow",
+      "sha256": "661afdf0b60126e2797f7981338702315b6bd96c5d50b447faef65f60e432f9d",
+      "bytes": 1489321,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 210,
+      "caption": "跟紧师傅啦",
+      "series": "师徒互动",
+      "path": "stickers/210-跟紧师傅啦.png",
+      "scene": "carry a small backpack, gripping a guiding rope with a determined smile",
+      "sha256": "7c1fe9c4a1fc88679aa298fc0da1edb4fd414f7af4a0c221a9268fb93f562e56",
+      "bytes": 1589039,
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {
@@ -1030,6 +1240,116 @@
       "scene": "She carries two cartoon bricks wearing a little yellow safety helmet.",
       "sha256": "e1401d0c9d8de25d9074b74f89750f7e25ceffeaf19af48b710592bf30158d7c",
       "bytes": 1816034,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 363,
+      "caption": "打工桃上线",
+      "series": "上班",
+      "path": "stickers/363-打工桃上线.png",
+      "scene": "She clips on a plain blank work badge and sits at a laptop.",
+      "sha256": "8830e13e23548cd074995a9e77082b3d21eced60d3502f8000c97ad967958ba2",
+      "bytes": 1733831,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 364,
+      "caption": "摸鱼片刻",
+      "series": "上班",
+      "path": "stickers/364-摸鱼片刻.png",
+      "scene": "She secretly hugs a little toy fish behind an office folder, sly sideways look.",
+      "sha256": "179e43479724971c940b870763c41947d6ab33e469af16fe16e238cecd2400b3",
+      "bytes": 1662635,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 365,
+      "caption": "会议听着呢",
+      "series": "上班",
+      "path": "stickers/365-会议听着呢.png",
+      "scene": "She sits very upright taking notes, eyes drifting sleepily while holding a pen.",
+      "sha256": "e3c2b03e20304b34e522ba95346648f390c5febda240026ee6d0c292d304079e",
+      "bytes": 1724272,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 366,
+      "caption": "收到就办",
+      "series": "上班",
+      "path": "stickers/366-收到就办.png",
+      "scene": "She salutes with one hand and lifts a neat task clipboard with the other.",
+      "sha256": "431c6f66a9b0b5b80e8aa8e34ec613228041013a4efe53b02ac20b9b89b819fa",
+      "bytes": 1866411,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 367,
+      "caption": "下班倒计时",
+      "series": "上班",
+      "path": "stickers/367-下班倒计时.png",
+      "scene": "She stares intensely at a small wall clock, chin propped in both hands.",
+      "sha256": "012cda4e9888353cf8f724a8be08677e1c94f936c195e4f70affd2b4f9c90ee3",
+      "bytes": 1795404,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 368,
+      "caption": "下班快乐",
+      "series": "上班",
+      "path": "stickers/368-下班快乐.png",
+      "scene": "She joyfully throws a plain work folder in the air and jumps.",
+      "sha256": "068221e47009e109e856165d54dd0a4a73af71182a0f1838acad7efdd8a1322a",
+      "bytes": 1966102,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 369,
+      "caption": "老板看这边",
+      "series": "上班",
+      "path": "stickers/369-老板看这边.png",
+      "scene": "She raises a tiny blank report high with a nervous polite smile.",
+      "sha256": "40cc06b12b7a1e0ee2b81767fe853dfc25d4c26d18a0f9ed2386fae50a15d2a1",
+      "bytes": 1846618,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 370,
+      "caption": "今日已交付",
+      "series": "上班",
+      "path": "stickers/370-今日已交付.png",
+      "scene": "She proudly pushes forward a neatly tied completed document stack.",
+      "sha256": "b05fcf419bd44fb806d2a110bb94553b8b29856ee2103d2e8c0652b2e779cf07",
+      "bytes": 1830039,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 371,
+      "caption": "学习启动",
+      "series": "学习",
+      "path": "stickers/371-学习启动.png",
+      "scene": "She opens a thick textbook and grips a pencil, sparkling determined eyes.",
+      "sha256": "55a3552abce75a34e17630edd10bd552d45bfba12030452f5e69c840069224e6",
+      "bytes": 1952289,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 372,
+      "caption": "我再想想",
+      "series": "学习",
+      "path": "stickers/372-我再想想.png",
+      "scene": "She taps her temple with pencil, eyebrows furrowed, three tiny thought dots as shapes.",
+      "sha256": "46fe7484c17cf67d0b287ddbfd3744c74353455ebfc01c1733208927e3c80d71",
+      "bytes": 1742778,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 373,
+      "caption": "笔记记好了",
+      "series": "学习",
+      "path": "stickers/373-笔记记好了.png",
+      "scene": "She proudly shows a notebook of neat lines and checkmarks without readable text.",
+      "sha256": "ccf4f295f9d750db3fd67357a4c09815b8e975be64bf1017b2a2cf335b01e1fd",
+      "bytes": 1938112,
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     }
   ]
