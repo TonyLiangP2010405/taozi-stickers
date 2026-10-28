@@ -1,6 +1,6 @@
 {
   "target": 500,
-  "completed": 195,
+  "completed": 197,
   "items": [
     {
       "id": 1,
@@ -750,6 +750,16 @@
       "scene": "戴厨师帽举小勺，自信叉腰",
       "sha256": "3429de0b5723922f23fddecde3b02b226539abeac81bc2dc7e70c11c4f292242",
       "bytes": 1927462,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 76,
+      "caption": "糊了但能吃",
+      "series": "料理",
+      "path": "stickers/076-糊了但能吃.png",
+      "scene": "端着微黑吐司，强装镇定竖拇指",
+      "sha256": "416dd3001586af0d1198edcd24c90681a2f99596287f9fd19fcf219ec7cfabe5",
+      "bytes": 1807615,
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {
@@ -1950,6 +1960,16 @@
       "scene": "She extends a fist toward the viewer for a friendly fist bump.",
       "sha256": "028eaec7ad56a2b39760483e56f7a54c829b109871d13f4ff57aea3915dfbd4b",
       "bytes": 1788365,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 391,
+      "caption": "好嘞好嘞",
+      "series": "简短应答",
+      "path": "stickers/391-好嘞好嘞.png",
+      "scene": "She nods cheerfully twice with a tiny motion arc and one raised thumb.",
+      "sha256": "ab9bb08ef338bddf35fda15e218668d5bdb0c5bd0498a91f18e923bd0afedd79",
+      "bytes": 1764591,
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     }
   ]

@@ -59,11 +59,19 @@ def build():
     (ROOT / 'index.html').write_text(page.replace('COMPLETE', str(len(complete))).replace('CARDS', ''.join(cards)))
     preview = '\n'.join(f'| {i["id"]:03d} {i["caption"]} | ![{i["caption"]}]({i["path"]}) |' for i in complete[:10])
     state = '已完成' if len(complete) == TARGET else '制作中'
+    quota_note = ''
+    status_file = ROOT / 'status.json'
+    if status_file.exists() and len(complete) < TARGET:
+        status = json.loads(status_file.read_text())
+        if status.get('state') == 'waiting_for_image_quota':
+            state = '等待出图额度恢复'
+            quota_note = '\n内置图像生成额度已用完，预计 2026-10-29 19:34（上海时间）重置。剩余图片尚未生成。[续做记录](docs/resume.md) · [制作状态](status.json)\n'
     readme = f'''# 小小桃纸哟表情包
 
 围绕 [小小桃纸哟（UID 6867955）](https://space.bilibili.com/6867955) 公开内容创作的 Q 版透明表情包。
 
 **{state}：{len(complete)} / {TARGET} 张。** 每张独立绘制，统一橘发蓝眼、白领粉衣小熊形象。图片以实际落盘文件计数。
+{quota_note}
 
 - [全部图片](stickers/)：三位编号 + 中文文案，透明 PNG。
 - [完整索引](catalog.json)：文案、主题、路径、SHA-256 校验值。
