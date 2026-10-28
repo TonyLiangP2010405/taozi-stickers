@@ -1,6 +1,6 @@
 {
   "target": 500,
-  "completed": 10,
+  "completed": 17,
   "items": [
     {
       "id": 1,
@@ -100,6 +100,76 @@
       "scene": "",
       "sha256": "3ff9ecab429699ecb8ea56cb6c7c508def765a7fff6303fab5dbbdba0eea5c25",
       "bytes": 1596569,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 11,
+      "caption": "收菜去喽",
+      "series": "种田",
+      "path": "stickers/011-收菜去喽.png",
+      "scene": "笑着举起一篮刚摘下来的胡萝卜，开心奔向农田",
+      "sha256": "999a2a615a6db2be2f0c2172017cf84835acc20037a23c4cd4586bc4e9b50900",
+      "bytes": 2044414,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 12,
+      "caption": "先浇个水",
+      "series": "种田",
+      "path": "stickers/012-先浇个水.png",
+      "scene": "认真抱着绿色浇水壶，水花浇向小苗",
+      "sha256": "0b7977b340f1602782732f2157a4cdd60f873f14214231d814ee299a53494727",
+      "bytes": 1758760,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 13,
+      "caption": "这瓜真大",
+      "series": "种田",
+      "path": "stickers/013-这瓜真大.png",
+      "scene": "被一只巨大南瓜挤到画面边缘，震惊张嘴",
+      "sha256": "a4c07a5605e3ca57ca5b219e484130e812ebe4679b10338df3cec1f7c5fc12d6",
+      "bytes": 1956405,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 171,
+      "caption": "桃纸上线啦",
+      "series": "开播",
+      "path": "stickers/171-桃纸上线啦.png",
+      "scene": "wave both hands enthusiastically while appearing from behind a tiny streaming monitor",
+      "sha256": "f91c2b88f78d8b822b1706bf25c9ae773e3a6130c30f1fbd93ee9af8765e9544",
+      "bytes": 1707621,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 172,
+      "caption": "晚上好呀",
+      "series": "开播",
+      "path": "stickers/172-晚上好呀.png",
+      "scene": "smile warmly and lift a steaming mug beside a crescent moon",
+      "sha256": "d6ce4a71916a1e06d63eae396d5519d732a165e7bebe7c94e0f4e75246ff398c",
+      "bytes": 1641191,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 331,
+      "caption": "桃子来啦",
+      "series": "日常招呼",
+      "path": "stickers/331-桃子来啦.png",
+      "scene": "She peeks around a small door, waving brightly with one raised hand.",
+      "sha256": "35942897909c7890d2f8da4b343f8571c39117accd9a6fcdb69dbcdc77f9e1e5",
+      "bytes": 1930617,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 332,
+      "caption": "哈喽大家",
+      "series": "日常招呼",
+      "path": "stickers/332-哈喽大家.png",
+      "scene": "She waves both hands high, open happy smile, two friendly sparkles.",
+      "sha256": "e6c595bb6234b5cd64d66c0c096855ca061eaa2bfdb7865c560c0978aea07d7d",
+      "bytes": 1821864,
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     }
   ]

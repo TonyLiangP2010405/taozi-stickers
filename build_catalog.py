@@ -20,6 +20,9 @@ def build():
             assert 1 <= number <= TARGET, number
             assert number not in planned, f'Duplicate ID {number}'
             planned[number] = item
+    if not planned:
+        for item in json.loads((ROOT / 'plan.json').read_text())['items']:
+            planned[int(item['id'])] = item
     complete = []
     seen_ids = set()
     seen_hashes = set()
@@ -64,6 +67,7 @@ def build():
 
 - [全部图片](stickers/)：三位编号 + 中文文案，透明 PNG。
 - [完整索引](catalog.json)：文案、主题、路径、SHA-256 校验值。
+- [500 张制作目录](plan.json)：计划中的完整文案和主题；图片是否已完成以完整索引为准。
 - [预览画廊](index.html)：下载仓库后，用浏览器打开，可按文案和主题筛选。
 - [调研与创作说明](docs/research.md)：公开来源及文案边界。
 
