@@ -1,6 +1,6 @@
 {
   "target": 500,
-  "completed": 40,
+  "completed": 71,
   "items": [
     {
       "id": 1,
@@ -203,6 +203,106 @@
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {
+      "id": 21,
+      "caption": "鱼鱼上钩",
+      "series": "钓鱼",
+      "path": "stickers/021-鱼鱼上钩.png",
+      "scene": "用力扬起鱼竿，钓线挂着一条跳跃的小鱼",
+      "sha256": "b46d11f78dea5a54ba11337b9addda0770b4da018eb50c6c1617149b20a58571",
+      "bytes": 2036545,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 22,
+      "caption": "这竿有点沉",
+      "series": "钓鱼",
+      "path": "stickers/022-这竿有点沉.png",
+      "scene": "咬牙后仰拉鱼竿，竿尖弯成夸张弧线",
+      "sha256": "62b0efb73b69feb5774f4bdb0e4381dacdab5db097677e8862af2ac982743c83",
+      "bytes": 1967875,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 23,
+      "caption": "再钓最后一条",
+      "series": "钓鱼",
+      "path": "stickers/023-再钓最后一条.png",
+      "scene": "抱鱼竿困倦又倔强，身旁月牙和小鱼桶",
+      "sha256": "229f7f7d88079482aa220f02a238f9d6f213246db2714cb4b811e73d2905d641",
+      "bytes": 1899167,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 24,
+      "caption": "空军归来",
+      "series": "钓鱼",
+      "path": "stickers/024-空军归来.png",
+      "scene": "拎空桶耷拉肩膀，嘴角颤抖",
+      "sha256": "d528bfb5885b4755511338f628291b9c7099e10986f45ce73c15aec6592f58aa",
+      "bytes": 1501250,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 25,
+      "caption": "鱼王在哪",
+      "series": "钓鱼",
+      "path": "stickers/025-鱼王在哪.png",
+      "scene": "举放大镜盯着小鱼缸，疑惑挑眉",
+      "sha256": "12add2bef1e020f3793734f7d5046201529504917a36a726a0f10494c81d086d",
+      "bytes": 1865997,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 26,
+      "caption": "饵都吃完了",
+      "series": "钓鱼",
+      "path": "stickers/026-饵都吃完了.png",
+      "scene": "翻开空饵盒发呆，盒里只剩小碎屑",
+      "sha256": "d00c6dabe2d17b3b08f5e50450586df490e93ff0b761c98dc72de734aee18a39",
+      "bytes": 1909778,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 27,
+      "caption": "别跑啊鱼",
+      "series": "钓鱼",
+      "path": "stickers/027-别跑啊鱼.png",
+      "scene": "两手慌忙追一条滑走的小鱼，动作狼狈",
+      "sha256": "c4fb9c180acb1d922c7e20589cca13ca1b1f5f8ed6ba6a0b6e1721d84331bc3f",
+      "bytes": 1970103,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 28,
+      "caption": "钓到宝了",
+      "series": "钓鱼",
+      "path": "stickers/028-钓到宝了.png",
+      "scene": "高举钓上来的小宝箱，惊喜发光",
+      "sha256": "333f02d437d69e655cf24865b83bec97c4d81bcb818364a9c98bdf47735425d8",
+      "bytes": 1977411,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 29,
+      "caption": "钓个寂寞",
+      "series": "钓鱼",
+      "path": "stickers/029-钓个寂寞.png",
+      "scene": "钓竿挂着旧靴子，死鱼眼无语",
+      "sha256": "3c7eb0c5078661811aab70a558835997178e35f3c06cea8e960dcf14d01c5cb6",
+      "bytes": 1935651,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 30,
+      "caption": "静等大货",
+      "series": "钓鱼",
+      "path": "stickers/030-静等大货.png",
+      "scene": "坐小板凳托腮看浮漂，神情淡定",
+      "sha256": "1feea4e8ee1c27391b7dce3d9caeefa5c0ac8d9b630756d5ef4d98fcf0944619",
+      "bytes": 1696137,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
       "id": 171,
       "caption": "桃纸上线啦",
       "series": "开播",
@@ -303,6 +403,116 @@
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {
+      "id": 181,
+      "caption": "桃纸收工啦",
+      "series": "下播",
+      "path": "stickers/181-桃纸收工啦.png",
+      "scene": "stretch both arms overhead with a relieved smile beside a closed laptop",
+      "sha256": "c4cecb73da44e0771d62781aea8472933142fb1247e11c40f5b3b731d81fe09d",
+      "bytes": 1720557,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 182,
+      "caption": "今日打烊啦",
+      "series": "下播",
+      "path": "stickers/182-今日打烊啦.png",
+      "scene": "gently turn off a tiny desk lamp while smiling sleepily",
+      "sha256": "729a864dee38f3fd9e051bfdcf807bc2de699a4bbbe1a62f02543a66db1781e3",
+      "bytes": 1491868,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 183,
+      "caption": "关灯睡觉啦",
+      "series": "下播",
+      "path": "stickers/183-关灯睡觉啦.png",
+      "scene": "hold a bedtime candle and wear a loose soft nightcap over familiar hair",
+      "sha256": "90d6f6e4e42e326d5c7a5cd3da831bbafb8ccf03ef287302a9fdc06f933b65a1",
+      "bytes": 1793751,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 184,
+      "caption": "晚安小桃们",
+      "series": "下播",
+      "path": "stickers/184-晚安小桃们.png",
+      "scene": "hug a peach-shaped pillow with eyes half closed",
+      "sha256": "b1216cb51a131f02f6c0420bde7e4b0b65fd55f82d557527b3c8ddfdf4550207",
+      "bytes": 1712167,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 185,
+      "caption": "存档再见啦",
+      "series": "下播",
+      "path": "stickers/185-存档再见啦.png",
+      "scene": "press a save icon on a handheld console and wave goodbye",
+      "sha256": "9cf99b7f756ba693430abe5c94def532fedcf1b6a5f2856ecd4b7c4bde826fa5",
+      "bytes": 1690104,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 186,
+      "caption": "下次接着聊",
+      "series": "下播",
+      "path": "stickers/186-下次接着聊.png",
+      "scene": "sit sideways in a chair, turning back to wave with a bright grin",
+      "sha256": "5c11dbb00b873f7b69a346d5c75569654687b15338184f2512cd964055c3e7db",
+      "bytes": 1609420,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 187,
+      "caption": "被窝召唤我",
+      "series": "下播",
+      "path": "stickers/187-被窝召唤我.png",
+      "scene": "get gently pulled into a fluffy blanket while clinging to its edge",
+      "sha256": "f73b25bde0ed0d4bd2078d4c3584d0990eb29691b0013e29500efe26abf47a72",
+      "bytes": 1691722,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 188,
+      "caption": "明天再种田",
+      "series": "下播",
+      "path": "stickers/188-明天再种田.png",
+      "scene": "carry a watering can away with sleepy drooping shoulders",
+      "sha256": "a605e879976bce0304b411b171132f6a9c8cef696cb2332da85ac0bdd9a443c4",
+      "bytes": 1475199,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 189,
+      "caption": "电量见底啦",
+      "series": "下播",
+      "path": "stickers/189-电量见底啦.png",
+      "scene": "slump over a desk with a tiny empty battery prop beside her",
+      "sha256": "7620b74cd12bf8f7af72e9cf4a87baaf6605a2782e3b916486caa9740c27cb0b",
+      "bytes": 1653063,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 190,
+      "caption": "桃纸撤退咯",
+      "series": "下播",
+      "path": "stickers/190-桃纸撤退咯.png",
+      "scene": "tiptoe away with a little bundle over the shoulder and a mischievous smile",
+      "sha256": "97e3cbd5a167101f0a7f039be025e16ab52fddeca385faf86717985fe2abdd03",
+      "bytes": 1614736,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 191,
+      "caption": "弹幕慢点飞",
+      "series": "弹幕互动",
+      "path": "stickers/191-弹幕慢点飞.png",
+      "scene": "hold both palms outward with dizzy eyes while blank chat bubbles zoom past",
+      "sha256": "fae85bb3f9ff680bcec37b34168ba205e556c1aa5d2f7e2448b3fb0cce289fb7",
+      "bytes": 1858745,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
       "id": 331,
       "caption": "桃子来啦",
       "series": "日常招呼",
@@ -400,6 +610,106 @@
       "scene": "She walks sideways across the frame, glancing back and waving.",
       "sha256": "7062b24e11a0885aef0e4b5d76eeca8e29bcad87952da547b131c594aac5ceae",
       "bytes": 1680525,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 341,
+      "caption": "早安桃桃",
+      "series": "早晚问候",
+      "path": "stickers/341-早安桃桃.png",
+      "scene": "She stretches both arms overhead beside a tiny rising sun.",
+      "sha256": "732ec9bd36fff8e9dbf200c91233b4272af2c89dd6ffdc6d999574a5722334df",
+      "bytes": 1904330,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 342,
+      "caption": "起床啦",
+      "series": "早晚问候",
+      "path": "stickers/342-起床啦.png",
+      "scene": "She lifts a quilt and sits up in bed, tousled hair, surprised awake eyes.",
+      "sha256": "ae7f695c95faa3a160fc953ef78d1ed51fca106595928abd8e10a6eb1888a9f1",
+      "bytes": 1747322,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 343,
+      "caption": "午安呀",
+      "series": "早晚问候",
+      "path": "stickers/343-午安呀.png",
+      "scene": "She naps with cheek on a small desk and a sunflower nearby.",
+      "sha256": "366490e22e7ea4ca3e236565601196e1d8661be98f78e25b2740d03b3d432bd9",
+      "bytes": 1704557,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 344,
+      "caption": "下午好呀",
+      "series": "早晚问候",
+      "path": "stickers/344-下午好呀.png",
+      "scene": "She elegantly holds a little teacup and smiles in greeting.",
+      "sha256": "ccc1c52f9a07287ae87a0c68bf7ae54fd1c037ec800db03c701b6d1452145343",
+      "bytes": 1842687,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 345,
+      "caption": "晚风问个好",
+      "series": "早晚问候",
+      "path": "stickers/345-晚风问个好.png",
+      "scene": "She waves under a small crescent moon and stars.",
+      "sha256": "e69a790913c02e9a5f6ae81d1768f5260363210b924bf0f7e5f12a42d5a74b66",
+      "bytes": 1804406,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 346,
+      "caption": "晚安好梦",
+      "series": "早晚问候",
+      "path": "stickers/346-晚安好梦.png",
+      "scene": "She sleeps peacefully curled under a peach-colored blanket.",
+      "sha256": "2b94b576804e095e8f0dccdbbf5100146c3be56142f38d7e7a3055f2dc9527df",
+      "bytes": 2014779,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 347,
+      "caption": "早点休息",
+      "series": "早晚问候",
+      "path": "stickers/347-早点休息.png",
+      "scene": "She points gently toward a little bedside clock, soft concerned smile.",
+      "sha256": "941cd2dd02c53bb3f2cfbab23b9f0fff2736e15b84bf482736f7ca6307d35cac",
+      "bytes": 1801570,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 348,
+      "caption": "明天见啦",
+      "series": "早晚问候",
+      "path": "stickers/348-明天见啦.png",
+      "scene": "She waves goodbye while holding a small night lantern.",
+      "sha256": "2c42ad7dfb8bc4e1eda096fc5a94d501388d21d01ea62c27ef59266b18b7639c",
+      "bytes": 1784756,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 349,
+      "caption": "睡醒再聊",
+      "series": "早晚问候",
+      "path": "stickers/349-睡醒再聊.png",
+      "scene": "She hugs a pillow with one hand and gives a sleepy little wave.",
+      "sha256": "8a688d413187a472d79b1d8c48b222a4d67399ca60b36d0b8eef5b7315ccde5a",
+      "bytes": 1741919,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 350,
+      "caption": "今日元气满",
+      "series": "早晚问候",
+      "path": "stickers/350-今日元气满.png",
+      "scene": "She raises a fist at sunrise, bright determined blue eyes.",
+      "sha256": "080e16dec4253f82e35c8a513ae0161216d5204520dc2ad52758ed94bcac6ff3",
+      "bytes": 1864146,
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     }
   ]
