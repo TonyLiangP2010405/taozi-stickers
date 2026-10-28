@@ -1,6 +1,6 @@
 {
   "target": 500,
-  "completed": 17,
+  "completed": 40,
   "items": [
     {
       "id": 1,
@@ -133,6 +133,76 @@
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {
+      "id": 14,
+      "caption": "种点小钱",
+      "series": "种田",
+      "path": "stickers/014-种点小钱.png",
+      "scene": "蹲下把金色小种子埋进土里，期待星星眼",
+      "sha256": "6eeeaf2f1152a49697014e5de935c49fcc02543832da6ea55e9758b58938656b",
+      "bytes": 1887106,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 15,
+      "caption": "丰收啦",
+      "series": "种田",
+      "path": "stickers/015-丰收啦.png",
+      "scene": "双手举着玉米和番茄，笑得合不拢嘴",
+      "sha256": "10fbd216d4d4d4c88515e66a01a65ddb4158f771e7f896125238bbf4228dbfa0",
+      "bytes": 2016821,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 16,
+      "caption": "别踩我菜",
+      "series": "种田",
+      "path": "stickers/016-别踩我菜.png",
+      "scene": "护住两株白菜，鼓脸警惕伸手拦住观众",
+      "sha256": "e92cf7dbf9b505739bab3e8e8e9fabaf91e6d7812f2b1ba519bb35c2e2daadd7",
+      "bytes": 1900928,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 17,
+      "caption": "地还没种完",
+      "series": "种田",
+      "path": "stickers/017-地还没种完.png",
+      "scene": "握小锄头累到冒汗，身旁只放一小块未翻土地",
+      "sha256": "c9e3ad78f5f0c69617ea63529eda052e825cffb6268d25104476c2eab13e477c",
+      "bytes": 1675518,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 18,
+      "caption": "苗苗快长大",
+      "series": "种田",
+      "path": "stickers/018-苗苗快长大.png",
+      "scene": "捧小盆栽温柔鼓励，额前一滴汗",
+      "sha256": "496b775af9c68169ef7f4e8e57ba5a0e82559e5dd032a00d1d2ccd0d9fdf5807",
+      "bytes": 1688016,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 19,
+      "caption": "田里见",
+      "series": "种田",
+      "path": "stickers/019-田里见.png",
+      "scene": "戴草帽扛小锄头，回头自信招手",
+      "sha256": "ab95c758b87fcc9e4cb27e21b0b7055c9ce1aa277ae1e467b904596f765a831a",
+      "bytes": 1970579,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 20,
+      "caption": "今日份收成",
+      "series": "种田",
+      "path": "stickers/020-今日份收成.png",
+      "scene": "坐在装满草莓的小木箱旁，满足地竖起大拇指",
+      "sha256": "262ebd5bfc2c9e333325162379f8002bb706f60dd67fc817c8fdc11c83f7b18e",
+      "bytes": 1839527,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
       "id": 171,
       "caption": "桃纸上线啦",
       "series": "开播",
@@ -153,6 +223,86 @@
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {
+      "id": 173,
+      "caption": "今日份开工",
+      "series": "开播",
+      "path": "stickers/173-今日份开工.png",
+      "scene": "roll up imaginary sleeves and confidently press a large start button",
+      "sha256": "36cb68349acf24ecbb30c8a4efa741a1bf62308299409d121e4e9fd33d949350",
+      "bytes": 1647938,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 174,
+      "caption": "麦克风准备",
+      "series": "开播",
+      "path": "stickers/174-麦克风准备.png",
+      "scene": "lean toward a desktop microphone and tap it with one curious finger",
+      "sha256": "903ac9af79e2d537c33befa5063a009272f521511474a5ed5a7752c77aa23044",
+      "bytes": 1538055,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 175,
+      "caption": "直播小灯亮",
+      "series": "开播",
+      "path": "stickers/175-直播小灯亮.png",
+      "scene": "hold a tiny glowing desk lamp high with a delighted open mouth",
+      "sha256": "2c3799b2e2745b4d725654c484f212c942326c9e5e9d01a994c5e8cccf4aefdf",
+      "bytes": 1639288,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 176,
+      "caption": "椅子坐稳啦",
+      "series": "开播",
+      "path": "stickers/176-椅子坐稳啦.png",
+      "scene": "sit on a swivel chair gripping both armrests with a determined expression",
+      "sha256": "21408b8e218a70cdc5891cfab32623b4cefc322c4a2d107ad690bfb26fe23b27",
+      "bytes": 1634338,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 177,
+      "caption": "信号接通啦",
+      "series": "开播",
+      "path": "stickers/177-信号接通啦.png",
+      "scene": "wear large headphones and make an OK sign beside cute signal arcs",
+      "sha256": "6d8157cb730d2369b171263497195af77b3f4122f808a68d09746ee51f0111b9",
+      "bytes": 1777999,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 178,
+      "caption": "欢迎来坐坐",
+      "series": "开播",
+      "path": "stickers/178-欢迎来坐坐.png",
+      "scene": "invite the viewer with an open palm toward a small pink cushion",
+      "sha256": "dfd79efedafd39ca7417f696c9f0c9bae106ffa1da4802966251384e7905090e",
+      "bytes": 1513617,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 179,
+      "caption": "快乐开机中",
+      "series": "开播",
+      "path": "stickers/179-快乐开机中.png",
+      "scene": "hug a smiling laptop while a few sparkles swirl overhead",
+      "sha256": "d247c7f8038f31c23f43f08fc817bf214a80e483826e01db24514484736e4ef1",
+      "bytes": 1666947,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 180,
+      "caption": "今晚也见面",
+      "series": "开播",
+      "path": "stickers/180-今晚也见面.png",
+      "scene": "peek happily around a curtain and give a shy friendly wave",
+      "sha256": "92a41711cb6664c031cce7291563860d91e57742a7125e17aff76a3842627202",
+      "bytes": 1603223,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
       "id": 331,
       "caption": "桃子来啦",
       "series": "日常招呼",
@@ -170,6 +320,86 @@
       "scene": "She waves both hands high, open happy smile, two friendly sparkles.",
       "sha256": "e6c595bb6234b5cd64d66c0c096855ca061eaa2bfdb7865c560c0978aea07d7d",
       "bytes": 1821864,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 333,
+      "caption": "冒个小泡",
+      "series": "日常招呼",
+      "path": "stickers/333-冒个小泡.png",
+      "scene": "She pops up from behind a large soap bubble, curious smile.",
+      "sha256": "83f8c73074e4ed9deaa77be79442dba9d301399db3b465d1b9b0a3286d72e3ba",
+      "bytes": 1844547,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 334,
+      "caption": "我在这里",
+      "series": "日常招呼",
+      "path": "stickers/334-我在这里.png",
+      "scene": "She points both index fingers at herself, confidently smiling.",
+      "sha256": "b94165e260d390a4371c33e3e01af429b4d6f04ba6cc1959eafbed507233e2dc",
+      "bytes": 1737578,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 335,
+      "caption": "来串个门",
+      "series": "日常招呼",
+      "path": "stickers/335-来串个门.png",
+      "scene": "She carries a small peach-shaped gift basket and politely knocks on a little door.",
+      "sha256": "d7aeae1bb1c669958e81b6b4ffc50840642fb9862b85ea15bf9cc90cbc671969",
+      "bytes": 1985177,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 336,
+      "caption": "好久不见",
+      "series": "日常招呼",
+      "path": "stickers/336-好久不见.png",
+      "scene": "She runs forward with arms outstretched for a reunion hug.",
+      "sha256": "3669702baee5fcafbcdb5f8ccb36f766f402805e1efbfa07fb9234f9968de60f",
+      "bytes": 1952905,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 337,
+      "caption": "欢迎回来",
+      "series": "日常招呼",
+      "path": "stickers/337-欢迎回来.png",
+      "scene": "She opens her arms beside a small welcome ribbon with no text, beaming.",
+      "sha256": "2e6b94d7a963a81576ffb43ecf898d9d6e023374127fbe0f1c0df11d735a0ca0",
+      "bytes": 1818406,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 338,
+      "caption": "悄悄出现",
+      "series": "日常招呼",
+      "path": "stickers/338-悄悄出现.png",
+      "scene": "She tiptoes with finger to lips, mischievous smile.",
+      "sha256": "c3f14899d505db3cdd0ee17f63443243f1b368f642a54851dededf39933bed95",
+      "bytes": 1766367,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 339,
+      "caption": "举手报到",
+      "series": "日常招呼",
+      "path": "stickers/339-举手报到.png",
+      "scene": "She stands upright and raises one hand neatly like answering roll call.",
+      "sha256": "afa3e76186e85156a07569cc04dce126f8deddcb82aec307557093a2aa4e8560",
+      "bytes": 1642449,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 340,
+      "caption": "路过一下",
+      "series": "日常招呼",
+      "path": "stickers/340-路过一下.png",
+      "scene": "She walks sideways across the frame, glancing back and waving.",
+      "sha256": "7062b24e11a0885aef0e4b5d76eeca8e29bcad87952da547b131c594aac5ceae",
+      "bytes": 1680525,
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     }
   ]
