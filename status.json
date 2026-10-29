@@ -1,15 +1,15 @@
 {
-  "state": "waiting_for_image_quota",
+  "state": "generating",
   "target": 500,
-  "completed": 197,
-  "remaining": 303,
-  "reason": "内置图像生成工具返回429 usage_limit_reached，已保留全部成功图片，不再重试额度错误。",
+  "completed": 201,
+  "remaining": 299,
+  "reason": "2026-10-29晚内置出图额度恢复，077单张验证成功，继续补缺失编号。",
   "resume_after": "2026-10-29T19:34:27+08:00",
   "resume_ranges": [
     {
-      "from": 77,
+      "from": 81,
       "to": 170,
-      "count": 94
+      "count": 90
     },
     {
       "from": 231,
@@ -24,10 +24,6 @@
   ],
   "generation_mode": "built-in ImageGen",
   "missing_ids": [
-    77,
-    78,
-    79,
-    80,
     81,
     82,
     83,
@@ -331,5 +327,6 @@
   "automatic_resume": {
     "enabled": true,
     "schedule": "每日19:40（Asia/Shanghai），从2026-10-29开始，补齐500张后停止"
-  }
+  },
+  "resumed_at": "2026-10-29T21:09:22.390007+08:00"
 }

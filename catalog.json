@@ -1,6 +1,6 @@
 {
   "target": 500,
-  "completed": 197,
+  "completed": 201,
   "items": [
     {
       "id": 1,
@@ -760,6 +760,46 @@
       "scene": "端着微黑吐司，强装镇定竖拇指",
       "sha256": "416dd3001586af0d1198edcd24c90681a2f99596287f9fd19fcf219ec7cfabe5",
       "bytes": 1807615,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 77,
+      "caption": "让我尝一口",
+      "series": "料理",
+      "path": "stickers/077-让我尝一口.png",
+      "scene": "捧小蛋糕偷吃一勺，满足眯眼",
+      "sha256": "0567162551057ffcde477fddff354628ad4e5ed491360884d418c7e2c51f8f19",
+      "bytes": 1885699,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 78,
+      "caption": "食材不够了",
+      "series": "料理",
+      "path": "stickers/078-食材不够了.png",
+      "scene": "拿空菜篮望着一根葱，泪眼无奈",
+      "sha256": "d6227246745962b9b724b7307fa9a6631f7408e88ed811086ca1ee6c876641bf",
+      "bytes": 2006770,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 79,
+      "caption": "香迷糊了",
+      "series": "料理",
+      "path": "stickers/079-香迷糊了.png",
+      "scene": "抱一碗面陶醉闻香，眼睛弯弯",
+      "sha256": "d7c4cb884d338feca69545e3c29097f484cde14f3da8621cddc828d920aed766",
+      "bytes": 1803274,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 80,
+      "caption": "先吃饱再说",
+      "series": "料理",
+      "path": "stickers/080-先吃饱再说.png",
+      "scene": "双手抱饭碗鼓着腮帮，坚定点头",
+      "sha256": "cf3b618cd567eccde3c767b1bcfa31a710505b50c62826ae73933a709a50b22c",
+      "bytes": 1911865,
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {

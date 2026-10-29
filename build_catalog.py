@@ -61,9 +61,23 @@ def build():
     state = '已完成' if len(complete) == TARGET else '制作中'
     quota_note = ''
     status_file = ROOT / 'status.json'
-    if status_file.exists() and len(complete) < TARGET:
+    if status_file.exists():
         status = json.loads(status_file.read_text())
-        if status.get('state') == 'waiting_for_image_quota':
+        missing = sorted(set(range(1, TARGET + 1)) - seen_ids)
+        ranges = []
+        for number in missing:
+            if ranges and number == ranges[-1]['to'] + 1:
+                ranges[-1]['to'] = number
+                ranges[-1]['count'] += 1
+            else:
+                ranges.append({'from': number, 'to': number, 'count': 1})
+        status.update(completed=len(complete), remaining=len(missing),
+                      missing_ids=missing, resume_ranges=ranges)
+        if not missing:
+            status['state'] = 'complete'
+            status['reason'] = '500张图片已生成，已通过本地目录与完整性检查。'
+        status_file.write_text(json.dumps(status, ensure_ascii=False, indent=2) + '\n')
+        if missing and status.get('state') == 'waiting_for_image_quota':
             state = '等待出图额度恢复'
             quota_note = '\n内置图像生成额度已用完，预计 2026-10-29 19:34（上海时间）重置。剩余图片尚未生成。[续做记录](docs/resume.md) · [制作状态](status.json)\n'
     readme = f'''# 小小桃纸哟表情包
