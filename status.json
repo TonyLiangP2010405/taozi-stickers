@@ -327,5 +327,9 @@
     498,
     499,
     500
-  ]
+  ],
+  "automatic_resume": {
+    "enabled": true,
+    "schedule": "每日19:40（Asia/Shanghai），从2026-10-29开始，补齐500张后停止"
+  }
 }
