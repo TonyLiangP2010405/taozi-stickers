@@ -1,6 +1,6 @@
 {
   "target": 500,
-  "completed": 228,
+  "completed": 253,
   "items": [
     {
       "id": 1,
@@ -943,6 +943,136 @@
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {
+      "id": 95,
+      "caption": "体力见底",
+      "series": "资源见底",
+      "path": "stickers/095-体力见底.png",
+      "scene": "坐在地上累趴，头顶小电池只剩红条",
+      "sha256": "d83c4831b7b49a2d4e8edd6f0d532cda37340f5dc6d09ef3c48dab3ff79a8fb2",
+      "bytes": 1767662,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 96,
+      "caption": "省着点花",
+      "series": "资源见底",
+      "path": "stickers/096-省着点花.png",
+      "scene": "紧紧护住一枚硬币，严肃皱眉",
+      "sha256": "bb4020dd7f11561112ead316fab85813ad8008a50e525cd195dbef04f2dcff39",
+      "bytes": 1720539,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 97,
+      "caption": "今天先吃土",
+      "series": "资源见底",
+      "path": "stickers/097-今天先吃土.png",
+      "scene": "抱一盆土举小勺，夸张自嘲苦笑，不真吃",
+      "sha256": "89182e1251851dfcad234838b89c3881a7c4ef3aa10cfa826ed9add5b5841394",
+      "bytes": 1843439,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 98,
+      "caption": "余额很冷静",
+      "series": "资源见底",
+      "path": "stickers/098-余额很冷静.png",
+      "scene": "盯着空透明零钱罐，表情冷静到麻木",
+      "sha256": "d25cad200b7ec22e5539f31adb8d3cf671885efbbf3681b6ce8e77963dfaf2e4",
+      "bytes": 1742083,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 99,
+      "caption": "打工去了",
+      "series": "资源见底",
+      "path": "stickers/099-打工去了.png",
+      "scene": "背小工具包低头认命挥手",
+      "sha256": "1b967f2da749928483ae6c98074ad52ec4ab4e0df4e2f11d43e80cb6a39de773",
+      "bytes": 1699574,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 100,
+      "caption": "一夜回到解放前",
+      "series": "资源见底",
+      "path": "stickers/100-一夜回到解放前.png",
+      "scene": "抱空纸箱跌坐，欲哭无泪",
+      "sha256": "7f01b2754a12b5299223722ed59bcd0ffc99ac9997ed582a02cdef21c8773cf8",
+      "bytes": 1776708,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 101,
+      "caption": "任务接满了",
+      "series": "游戏任务",
+      "path": "stickers/101-任务接满了.png",
+      "scene": "抱一大叠任务卷轴，眼神绝望",
+      "sha256": "b94d54d5e33afe3d2fd0d6f018acdfe7ac7710bb03cef35fb64cf6ed52c0961b",
+      "bytes": 2136451,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 102,
+      "caption": "先做个日常",
+      "series": "游戏任务",
+      "path": "stickers/102-先做个日常.png",
+      "scene": "拿小清单认真打勾，元气微笑",
+      "sha256": "42638f6f726e01622815bbd25aeb08afb5c14073234f4230207bdbcb8b394a74",
+      "bytes": 1857719,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 103,
+      "caption": "主线等我一下",
+      "series": "游戏任务",
+      "path": "stickers/103-主线等我一下.png",
+      "scene": "一手抱花盆一手摆暂停手势，忙碌冒汗",
+      "sha256": "40c0a90df5d90a9f7681fe75f7b4cce4ae8a40eeb784f4ceaa3cc3b08a4942fe",
+      "bytes": 1875545,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 104,
+      "caption": "支线真好玩",
+      "series": "游戏任务",
+      "path": "stickers/104-支线真好玩.png",
+      "scene": "捧着小藏宝图转圈，忘乎所以笑",
+      "sha256": "355fa5f1605a816902209013f6950805275c4c181568fe30faf1bab9b6f37480",
+      "bytes": 2034620,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 105,
+      "caption": "怎么又要跑腿",
+      "series": "游戏任务",
+      "path": "stickers/105-怎么又要跑腿.png",
+      "scene": "拎两个小包裹，累到眼神放空",
+      "sha256": "c0d510d9318321de0f48457cded87249cf28bd10ee35ea70146bf202f65aba33",
+      "bytes": 1851695,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 106,
+      "caption": "这任务有意思",
+      "series": "游戏任务",
+      "path": "stickers/106-这任务有意思.png",
+      "scene": "指着打开的任务卷轴，兴奋探头",
+      "sha256": "dd5d57043e5460dc19bab40967733de704e57baa01d55ca50f152b8a28e1dad5",
+      "bytes": 1956286,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 107,
+      "caption": "奖励我来了",
+      "series": "游戏任务",
+      "path": "stickers/107-奖励我来了.png",
+      "scene": "向一只装着礼物的小箱子飞扑",
+      "sha256": "7f035265e38e796966337cf361b98e00442f88e3bbe556fea0812f85aa8bbaeb",
+      "bytes": 1983662,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
       "id": 171,
       "caption": "桃纸上线啦",
       "series": "开播",
@@ -1633,6 +1763,46 @@
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {
+      "id": 240,
+      "caption": "自信先拉满",
+      "series": "桃神自嘲",
+      "path": "stickers/240-自信先拉满.png",
+      "scene": "stand hands on hips on a tiny step stool with a dazzling grin",
+      "sha256": "9bfefd5378e246cc38ea66564a685217a20af0a33d0cb4d922cb627731cf8d70",
+      "bytes": 1527614,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 241,
+      "caption": "小帽子集合",
+      "series": "帽子冠军",
+      "path": "stickers/241-小帽子集合.png",
+      "scene": "hug a heap of tiny colorful witch hats with delighted eyes",
+      "sha256": "e8f780a439b160a2160ba6d9a9a37751ea34565dd50438582ea7f5b16339ca40",
+      "bytes": 1901671,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 242,
+      "caption": "帽险家出发",
+      "series": "帽子冠军",
+      "path": "stickers/242-帽险家出发.png",
+      "scene": "wear a small floppy witch hat and carry a tiny hiking backpack",
+      "sha256": "6c231c1e4e14234bfa36e1103280e0f391428bd9ea1024e44b1d12d4e382e1ad",
+      "bytes": 1765768,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 243,
+      "caption": "今日戴哪顶",
+      "series": "帽子冠军",
+      "path": "stickers/243-今日戴哪顶.png",
+      "scene": "hold two different cute hats at shoulder height with a thoughtful expression",
+      "sha256": "f4e72662377d88eb06250fdf00a55571a4385470a0d08e675cd3d207f5352ec0",
+      "bytes": 1775988,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
       "id": 331,
       "caption": "桃子来啦",
       "series": "日常招呼",
@@ -2280,6 +2450,86 @@
       "scene": "She raises one index finger politely while holding a tiny hourglass.",
       "sha256": "b83bf809df62b8d74731a20324abcab13abdb4fd717071c33d0948cf10ff70ac",
       "bytes": 1661238,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 396,
+      "caption": "可以可以",
+      "series": "简短应答",
+      "path": "stickers/396-可以可以.png",
+      "scene": "She lifts two thumbs with a calm approving smile.",
+      "sha256": "8cd6ca3fa744919679b1389020a43e48db70c09be6b32e1ce779f9a5c861bc3d",
+      "bytes": 1877541,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 397,
+      "caption": "安排上啦",
+      "series": "简短应答",
+      "path": "stickers/397-安排上啦.png",
+      "scene": "She stamps a blank checklist with a big checkmark stamp.",
+      "sha256": "1ed4bf9b746cd7fd1c988c75d1fbfc8fde909cf5bf355d91708c58b68754b619",
+      "bytes": 1874055,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 398,
+      "caption": "谢谢你呀",
+      "series": "简短应答",
+      "path": "stickers/398-谢谢你呀.png",
+      "scene": "She bows gratefully holding a tiny bouquet of daisies.",
+      "sha256": "8a9b268a24d6611caaee2e21967ba4361aa54b5c309a60ed4e383ed94c84f03c",
+      "bytes": 1837538,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 399,
+      "caption": "不客气呀",
+      "series": "简短应答",
+      "path": "stickers/399-不客气呀.png",
+      "scene": "She gives a modest open-palm wave, blushing softly.",
+      "sha256": "ef5fa45540384cc4e17820e4be73f9460523e122e83f91697b8f33cb144af9d2",
+      "bytes": 1661294,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 400,
+      "caption": "懂你意思",
+      "series": "简短应答",
+      "path": "stickers/400-懂你意思.png",
+      "scene": "She points playfully at viewer with a knowing wink.",
+      "sha256": "4042fd4d0b1a187435396afee28911a8f40396c822a60e28cc10de20f7e4db0a",
+      "bytes": 1779482,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 401,
+      "caption": "开心到起飞",
+      "series": "快乐",
+      "path": "stickers/401-开心到起飞.png",
+      "scene": "She jumps upward with little wing-like sleeves motion and joyful closed eyes.",
+      "sha256": "6caecbbf5ab067b4dbbc407ae10acb6d3c1f8e0ac3962b51a50aeda3df3ca5e7",
+      "bytes": 2024957,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 402,
+      "caption": "忍不住笑",
+      "series": "快乐",
+      "path": "stickers/402-忍不住笑.png",
+      "scene": "She covers her mouth with both hands trying to contain laughter.",
+      "sha256": "ef901861b02b3a1b55e3d1792fd3abd33ad59361f5599c5562861c61bf211b86",
+      "bytes": 1720687,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 403,
+      "caption": "笑到打滚",
+      "series": "快乐",
+      "path": "stickers/403-笑到打滚.png",
+      "scene": "She rolls on her back laughing, hands holding belly.",
+      "sha256": "243f28676e5b0d47a507827317085acf3ba7604690a1f3d1f896bb91507ba7cf",
+      "bytes": 1977007,
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     }
   ]
