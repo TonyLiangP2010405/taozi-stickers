@@ -1,6 +1,6 @@
 {
   "target": 500,
-  "completed": 201,
+  "completed": 228,
   "items": [
     {
       "id": 1,
@@ -803,6 +803,146 @@
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {
+      "id": 81,
+      "caption": "老板便宜点",
+      "series": "商店买卖",
+      "path": "stickers/081-老板便宜点.png",
+      "scene": "双手合十向前求情，精明又可爱的眼神",
+      "sha256": "4dc2f3280a2fe3c632c9edc242f297ba1f994a6f76dce7c1fcc04d8c8033b45d",
+      "bytes": 1918020,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 82,
+      "caption": "这价不对吧",
+      "series": "商店买卖",
+      "path": "stickers/082-这价不对吧.png",
+      "scene": "拿小价签指给观众看，震惊瞪大眼",
+      "sha256": "f17f44afa9d84b340bb21b72f578c91c89d207497b950ab4f4acc1faf8e0c411",
+      "bytes": 1864793,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 83,
+      "caption": "买都买了",
+      "series": "商店买卖",
+      "path": "stickers/083-买都买了.png",
+      "scene": "抱购物袋尴尬笑，另一手摆出无奈手势",
+      "sha256": "3619b859ec8b3c6ecc5980e8b085aa4df45726aa7c507f5f44043e3b56345138",
+      "bytes": 1804932,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 84,
+      "caption": "这个我有了",
+      "series": "商店买卖",
+      "path": "stickers/084-这个我有了.png",
+      "scene": "指着怀里两件一样的小摆件，平静拒绝",
+      "sha256": "8b00aa2436fba4b1fa89592a8e99c2a738b5567adc29cb4ea09ff7b9a2d12fb3",
+      "bytes": 1748733,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 85,
+      "caption": "再逛一家",
+      "series": "商店买卖",
+      "path": "stickers/085-再逛一家.png",
+      "scene": "拎小购物篮兴冲冲迈步，眼睛发亮",
+      "sha256": "3b370d5ddbdb42bbd496f92593275aa3b31b206bb7ec161a4b3d53aa87b1fc58",
+      "bytes": 1891079,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 86,
+      "caption": "小店开张",
+      "series": "商店买卖",
+      "path": "stickers/086-小店开张.png",
+      "scene": "戴店员小帽举欢迎小旗，开心招手",
+      "sha256": "455e59871ddc83402624cc4f1af34169d0c2c92441b68a3e610fc2300f4adaf6",
+      "bytes": 1775192,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 87,
+      "caption": "客官里面请",
+      "series": "商店买卖",
+      "path": "stickers/087-客官里面请.png",
+      "scene": "礼貌弯腰一手引向小摊位，甜甜微笑",
+      "sha256": "85e50e5d654ddce9791f87f67591de33e023005fb5a1f954d24d1c8c16f8bfa0",
+      "bytes": 1854065,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 88,
+      "caption": "卖个好价钱",
+      "series": "商店买卖",
+      "path": "stickers/088-卖个好价钱.png",
+      "scene": "举起一颗亮晶晶宝石，期待搓手",
+      "sha256": "bdb5e394dd4e978ecedaeec9149731b20725e13344404d6584ce14be299c334b",
+      "bytes": 1917088,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 89,
+      "caption": "我的零钱呢",
+      "series": "商店买卖",
+      "path": "stickers/089-我的零钱呢.png",
+      "scene": "把小钱包倒过来，只有一枚铜币掉出",
+      "sha256": "332ffedd18253702bb2b6b94f96f5d1aedb1f29983988910b4d2c8b2a9b20bcd",
+      "bytes": 1847717,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 90,
+      "caption": "这波赚到了",
+      "series": "商店买卖",
+      "path": "stickers/090-这波赚到了.png",
+      "scene": "抱装金币的小袋，得意眯眼偷笑",
+      "sha256": "a22a0afebf64bb094d9c8802cb056df1327df40179c6cac4a8083164d3f902be",
+      "bytes": 1912182,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 91,
+      "caption": "穷得很稳定",
+      "series": "资源见底",
+      "path": "stickers/091-穷得很稳定.png",
+      "scene": "抱一只空存钱罐，淡定死鱼眼",
+      "sha256": "c05262437a388fa0042c223ce2e743b236aadc0009427e8e10c08643d597fc1c",
+      "bytes": 1737232,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 92,
+      "caption": "钱包漏风",
+      "series": "资源见底",
+      "path": "stickers/092-钱包漏风.png",
+      "scene": "掰开空钱包，一缕风线飘出，茫然脸",
+      "sha256": "96de7c28caa74d56a1b661a909ca13e2499b01aa92feeed64b6bb21e48477f8f",
+      "bytes": 1786512,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 93,
+      "caption": "一滴都没有了",
+      "series": "资源见底",
+      "path": "stickers/093-一滴都没有了.png",
+      "scene": "把空水壶倒转，瞪眼等待最后一滴",
+      "sha256": "7755ccbcb4bec0a87ff9ab50ee0cfd2bd607f5a64676398c20fd3061adadc3a7",
+      "bytes": 1929092,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 94,
+      "caption": "材料又不够",
+      "series": "资源见底",
+      "path": "stickers/094-材料又不够.png",
+      "scene": "拿着缺一角的小材料清单，崩溃抓头",
+      "sha256": "02d794ec459c795bd429db7592ca6768859c1fbf18e174d8b3d984685b6fcccf",
+      "bytes": 1945266,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
       "id": 171,
       "caption": "桃纸上线啦",
       "series": "开播",
@@ -1400,6 +1540,96 @@
       "scene": "lead two white peach mascots shaking small pompoms",
       "sha256": "89df172bc45a4756ad8bb8968c240db3a7f5c6a15e1df8124829017168ebdad3",
       "bytes": 1782362,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 231,
+      "caption": "桃神也会迷",
+      "series": "桃神自嘲",
+      "path": "stickers/231-桃神也会迷.png",
+      "scene": "wear a tiny crooked halo while studying an upside-down paper map",
+      "sha256": "c823bf141c50546818a89271642905f014d69ee2f359a3462e5d466b49b9e407",
+      "bytes": 1701429,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 232,
+      "caption": "本桃尽力啦",
+      "series": "桃神自嘲",
+      "path": "stickers/232-本桃尽力啦.png",
+      "scene": "collapse into a beanbag with arms spread and an exhausted comic smile",
+      "sha256": "6445ff87b5854d99629b525c07fb37f612fc3ba87e71737af0562adf1434f8a2",
+      "bytes": 1751366,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 233,
+      "caption": "聪明桃上线",
+      "series": "桃神自嘲",
+      "path": "stickers/233-聪明桃上线.png",
+      "scene": "wear oversized pretend scholar glasses and point at a blank chalkboard proudly",
+      "sha256": "366133c86df29c7a5d4d893cfc541cfa48db430c057c6c6f3cc4ddbc5dcf9700",
+      "bytes": 1772381,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 234,
+      "caption": "怎么又是我",
+      "series": "桃神自嘲",
+      "path": "stickers/234-怎么又是我.png",
+      "scene": "point at own face with wide shocked eyes and a small sweat drop",
+      "sha256": "9a1748e8fac99ffad90de453ee8398020e49d27100c03480edd3c4f7d65e74c6",
+      "bytes": 1536898,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 235,
+      "caption": "桃神缓冲中",
+      "series": "桃神自嘲",
+      "path": "stickers/235-桃神缓冲中.png",
+      "scene": "freeze in a blank stare with three little circular buffering dots above the head",
+      "sha256": "9847021716ba55f568831a8632d53447d6da0c968ac7dd0b8201e3ffd69109b0",
+      "bytes": 1458342,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 236,
+      "caption": "桃纸小失误",
+      "series": "桃神自嘲",
+      "path": "stickers/236-桃纸小失误.png",
+      "scene": "awkwardly hide a spilled cup behind the back with a nervous smile",
+      "sha256": "50d3ef383c8746f16f45ac6f404540401d3f9fb273d930915294fd6da3b33ca7",
+      "bytes": 1597914,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 237,
+      "caption": "技术偶尔有",
+      "series": "桃神自嘲",
+      "path": "stickers/237-技术偶尔有.png",
+      "scene": "spin a toy game controller on one finger with a smug wink",
+      "sha256": "548e208968e7853d3028ff44e8e2ef9023f478eda698dbf4c567f86676f24cb9",
+      "bytes": 1679413,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 238,
+      "caption": "我先装懂啦",
+      "series": "桃神自嘲",
+      "path": "stickers/238-我先装懂啦.png",
+      "scene": "nod seriously while holding a book upside down",
+      "sha256": "fc45031483043dfef5f3c1e2a4618dd9a55a7402346af2b0003a9fd7db9957b8",
+      "bytes": 1577356,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 239,
+      "caption": "这也算发挥",
+      "series": "桃神自嘲",
+      "path": "stickers/239-这也算发挥.png",
+      "scene": "pose proudly beside a very small handmade trophy",
+      "sha256": "9e6903c68bfc25ef269a774fb9618783e91328332978a58b0c0ac9d6f9245d19",
+      "bytes": 1555149,
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {
@@ -2010,6 +2240,46 @@
       "scene": "She nods cheerfully twice with a tiny motion arc and one raised thumb.",
       "sha256": "ab9bb08ef338bddf35fda15e218668d5bdb0c5bd0498a91f18e923bd0afedd79",
       "bytes": 1764591,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 392,
+      "caption": "明白啦",
+      "series": "简短应答",
+      "path": "stickers/392-明白啦.png",
+      "scene": "She touches her temple in an understanding gesture, small lightbulb above.",
+      "sha256": "1b213bf9d4d4c6f3ce969ebe6db5c33d4db2f175eae29b4cb155699eb396808a",
+      "bytes": 1717343,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 393,
+      "caption": "没问题呀",
+      "series": "简短应答",
+      "path": "stickers/393-没问题呀.png",
+      "scene": "She makes a clear OK hand gesture and winks confidently.",
+      "sha256": "37ace0faa61696bad5323f97d28fa6804fd35eb90b20d69e8e54538aec97e253",
+      "bytes": 1811649,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 394,
+      "caption": "马上就来",
+      "series": "简短应答",
+      "path": "stickers/394-马上就来.png",
+      "scene": "She runs forward with hurried steps and one hand waving.",
+      "sha256": "ed32eba852f1e25e04d3aefe5741fc89ec4e4595ceeecc89f45a38da17c00840",
+      "bytes": 1948198,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 395,
+      "caption": "稍等一下",
+      "series": "简短应答",
+      "path": "stickers/395-稍等一下.png",
+      "scene": "She raises one index finger politely while holding a tiny hourglass.",
+      "sha256": "b83bf809df62b8d74731a20324abcab13abdb4fd717071c33d0948cf10ff70ac",
+      "bytes": 1661238,
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     }
   ]
