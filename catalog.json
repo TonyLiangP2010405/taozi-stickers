@@ -1,6 +1,6 @@
 {
   "target": 500,
-  "completed": 380,
+  "completed": 392,
   "items": [
     {
       "id": 1,
@@ -2803,6 +2803,46 @@
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {
+      "id": 281,
+      "caption": "桃纸开嗓啦",
+      "series": "歌粉与唱歌",
+      "path": "stickers/281-桃纸开嗓啦.png",
+      "scene": "hold a microphone and sing joyfully with a few simple music notes",
+      "sha256": "55d721ec2fbb5bb7b07d3fa4407902a68fa6915b8da67cf1a57b151e93f19fcf",
+      "bytes": 1733894,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 282,
+      "caption": "歌粉请入座",
+      "series": "歌粉与唱歌",
+      "path": "stickers/282-歌粉请入座.png",
+      "scene": "gesture toward a tiny comfy stool while holding a microphone",
+      "sha256": "0e7cea1cfbd4abb5502ca2cefd65bd04d51bf3684a4f2f98d764cd6ff1510538",
+      "bytes": 1551070,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 283,
+      "caption": "这首我会点",
+      "series": "歌粉与唱歌",
+      "path": "stickers/283-这首我会点.png",
+      "scene": "raise one finger confidently beside a small karaoke screen with no text",
+      "sha256": "6d12482bd1936e3dbf9c6db650827985ec5cd417124397840f7a324bb3a45a40",
+      "bytes": 1678658,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 284,
+      "caption": "跟我哼一下",
+      "series": "歌粉与唱歌",
+      "path": "stickers/284-跟我哼一下.png",
+      "scene": "hum with eyes closed and one hand gently keeping the beat",
+      "sha256": "d14ae83ce24a69a9ac432128c0bffeecca498783288191c76a516667ab28e2f8",
+      "bytes": 1651597,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
       "id": 331,
       "caption": "桃子来啦",
       "series": "日常招呼",
@@ -3800,6 +3840,86 @@
       "scene": "She wears tiny detective-style magnifier near one eye, suspicious squint.",
       "sha256": "5fe8f8edba0ebb2da5a7f866c989c2d9cec8aec093f36645ab3e7a15758c4e10",
       "bytes": 1795689,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 431,
+      "caption": "哇的一声",
+      "series": "惊讶",
+      "path": "stickers/431-哇的一声.png",
+      "scene": "She throws both hands beside face, enormous blue eyes and round surprised mouth.",
+      "sha256": "e57a0f3c898a71f01551d3a1a5ce13cf69c25d57f4f25535a816ff10f4f7b12b",
+      "bytes": 1817317,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 432,
+      "caption": "我看到了啥",
+      "series": "惊讶",
+      "path": "stickers/432-我看到了啥.png",
+      "scene": "She rubs both eyes while staring ahead in disbelief.",
+      "sha256": "48b0b240b2450a47726e718728317d1dc3d1e5a05709906fa00fddd4ba50e413",
+      "bytes": 1865272,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 433,
+      "caption": "还有这种事",
+      "series": "惊讶",
+      "path": "stickers/433-还有这种事.png",
+      "scene": "She leans backward with one hand on chest, startled smile.",
+      "sha256": "c519d223bf9803614e4809d30e71e895a43437e29684dd9271c78053d77647ad",
+      "bytes": 1861684,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 471,
+      "caption": "再试一次",
+      "series": "努力",
+      "path": "stickers/471-再试一次.png",
+      "scene": "She gets back up with one knee on ground and a determined fist.",
+      "sha256": "89893da4f7b33b8564b6c4a2028281d233c718a1a077e8fc6baa94aadcc1a932",
+      "bytes": 1854981,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 472,
+      "caption": "一点点进步",
+      "series": "努力",
+      "path": "stickers/472-一点点进步.png",
+      "scene": "She climbs three small pastel steps, looking upward confidently.",
+      "sha256": "0823ca4f1739ce4ab7cce567f48244ee7c5415b4c9313bfe3b5f76ee65a0b78f",
+      "bytes": 1701624,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 473,
+      "caption": "桃桃冲呀",
+      "series": "努力",
+      "path": "stickers/473-桃桃冲呀.png",
+      "scene": "She sprints forward with fierce cute determination and motion arcs.",
+      "sha256": "e53c56313f48152afd4081ea5e2971f432c204e368cd5f3f2610fc6bead59c96",
+      "bytes": 2079036,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 474,
+      "caption": "继续向前走",
+      "series": "努力",
+      "path": "stickers/474-继续向前走.png",
+      "scene": "She walks steadily holding a small lantern, eyes focused ahead.",
+      "sha256": "17a50345a423e0fa8811015b70e294c3d7e62049b42019cf5009ff1f797e6c2c",
+      "bytes": 1867899,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 475,
+      "caption": "今天不认输",
+      "series": "努力",
+      "path": "stickers/475-今天不认输.png",
+      "scene": "She tightens a little headband with both hands, resolute smile.",
+      "sha256": "77fb09ceb55baa70f1269b92791fc799fff3800a5728cae9982a9340620d3805",
+      "bytes": 1985274,
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     }
   ]

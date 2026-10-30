@@ -1,28 +1,29 @@
 {
-  "state": "generating",
+  "state": "waiting_for_image_quota",
   "target": 500,
-  "completed": 380,
-  "remaining": 120,
-  "reason": "2026-10-29晚内置出图额度恢复，077单张验证成功，继续补缺失编号。",
-  "resume_after": "2026-10-29T19:34:27+08:00",
+  "completed": 392,
+  "remaining": 108,
+  "reason": "内置ImageGen再次返回429 usage_limit_reached；保留所有成功图片，等待额度恢复后补齐。",
+  "resume_after": "2026-10-30T21:02:41+08:00",
   "resume_ranges": [
     {
-      "from": 281,
+      "from": 285,
       "to": 330,
-      "count": 50
+      "count": 46
     },
     {
-      "from": 431,
+      "from": 434,
+      "to": 470,
+      "count": 37
+    },
+    {
+      "from": 476,
       "to": 500,
-      "count": 70
+      "count": 25
     }
   ],
   "generation_mode": "built-in ImageGen",
   "missing_ids": [
-    281,
-    282,
-    283,
-    284,
     285,
     286,
     287,
@@ -69,9 +70,6 @@
     328,
     329,
     330,
-    431,
-    432,
-    433,
     434,
     435,
     436,
@@ -109,11 +107,6 @@
     468,
     469,
     470,
-    471,
-    472,
-    473,
-    474,
-    475,
     476,
     477,
     478,
@@ -142,7 +135,7 @@
   ],
   "automatic_resume": {
     "enabled": true,
-    "schedule": "每日19:40（Asia/Shanghai），从2026-10-29开始，补齐500张后停止"
+    "schedule": "每日21:10（Asia/Shanghai），从2026-10-30开始，补齐500张后停止"
   },
   "resumed_at": "2026-10-29T21:09:22.390007+08:00"
 }
