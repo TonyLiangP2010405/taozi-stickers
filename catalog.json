@@ -1,6 +1,6 @@
 {
   "target": 500,
-  "completed": 317,
+  "completed": 334,
   "items": [
     {
       "id": 1,
@@ -1403,6 +1403,106 @@
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {
+      "id": 141,
+      "caption": "再刷一把",
+      "series": "刷本",
+      "path": "stickers/141-再刷一把.png",
+      "scene": "握手柄燃起小斗志，坚定看前方",
+      "sha256": "599e637d80d6cd22f508e5de0ea6eda61cb42b619b6bb8cf9f68fcf2114605da",
+      "bytes": 1888182,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 142,
+      "caption": "这把一定行",
+      "series": "刷本",
+      "path": "stickers/142-这把一定行.png",
+      "scene": "握拳对自己打气，额头闪光",
+      "sha256": "ccbe460ce4e684bb97a90c325a7906bd856320fdf7d0ca71697c4dfa6945927b",
+      "bytes": 1771003,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 143,
+      "caption": "掉落看看我",
+      "series": "刷本",
+      "path": "stickers/143-掉落看看我.png",
+      "scene": "双手合十盯小宝箱，虔诚期待",
+      "sha256": "bd49d1d39030759641e6a6b4cf085cbb13fd327ad6afd4db5632b8bb37764dec",
+      "bytes": 1964109,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 144,
+      "caption": "又是保底",
+      "series": "刷本",
+      "path": "stickers/144-又是保底.png",
+      "scene": "拿着普通灰色小石头，眼神空洞",
+      "sha256": "af1bd131958f664690b6aaf1129c6610ea1b24fe14c095e1f1a86702a06f192c",
+      "bytes": 1735141,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 145,
+      "caption": "毕业还早着呢",
+      "series": "刷本",
+      "path": "stickers/145-毕业还早着呢.png",
+      "scene": "背着装满小装备的背包，苦笑冒汗",
+      "sha256": "ea5006784d9d2663625d02a5987a83428a0276d35dabf820136718bd9b414e59",
+      "bytes": 2002321,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 146,
+      "caption": "队友等等我",
+      "series": "刷本",
+      "path": "stickers/146-队友等等我.png",
+      "scene": "抱装备一边跑一边伸手招呼",
+      "sha256": "2051c0c503af678f758c8e87e29d4088d879f47f253ac0dcc1062758863a5a3a",
+      "bytes": 2063770,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 147,
+      "caption": "今日份开刷",
+      "series": "刷本",
+      "path": "stickers/147-今日份开刷.png",
+      "scene": "把小头巾扎紧，举手柄准备",
+      "sha256": "950231adbdc3b0689c31d0dc5eae7f76ffc86f55bce254c83513ffcf39155543",
+      "bytes": 1951122,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 148,
+      "caption": "背包要满了",
+      "series": "刷本",
+      "path": "stickers/148-背包要满了.png",
+      "scene": "抱着膨胀鼓起的小背包，惊慌脸",
+      "sha256": "54fe18a8fa90bea2da79aedeadf5af5e6aea50603345a88cd3a20290bf6f26e2",
+      "bytes": 1876609,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 149,
+      "caption": "又刷到天亮",
+      "series": "刷本",
+      "path": "stickers/149-又刷到天亮.png",
+      "scene": "抱手柄打哈欠，旁边小太阳刚升起",
+      "sha256": "7479eb83a12748398d86e6ae7c9fa6e852516bcd7f069c8a6eb546fe70a4c381",
+      "bytes": 1949231,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 150,
+      "caption": "肝先借我用用",
+      "series": "刷本",
+      "path": "stickers/150-肝先借我用用.png",
+      "scene": "抱着空电池道具眼神恳求，幽默无器官画面",
+      "sha256": "594b22e6fe2b9321fffd9c9ff99469ce11503001d963568c1494e1f4bf1ee94c",
+      "bytes": 1796762,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
       "id": 171,
       "caption": "桃纸上线啦",
       "series": "开播",
@@ -2270,6 +2370,36 @@
       "scene": "hug a little memory album close with a tender smile",
       "sha256": "b59613630225447cafaa7f3238ffa8b443f6c10804beb2ae6761b1fd5bfcbdb1",
       "bytes": 1557173,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 258,
+      "caption": "再看一遍吧",
+      "series": "剧情共鸣",
+      "path": "stickers/258-再看一遍吧.png",
+      "scene": "hug a storybook while pointing at a looping arrow prop",
+      "sha256": "ad54ca7438132d8b742e860212b3e3d89c522b9bebe02f40e15adb44afed5e0b",
+      "bytes": 1661287,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 259,
+      "caption": "这一幕真好",
+      "series": "剧情共鸣",
+      "path": "stickers/259-这一幕真好.png",
+      "scene": "frame the scene with both hands and look moved with sparkling blue eyes",
+      "sha256": "3f5b34f161219a487bb1af0e0415378e770232a5a6486dc0633f5efac4d04b0e",
+      "bytes": 1637600,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 260,
+      "caption": "陪你到结尾",
+      "series": "剧情共鸣",
+      "path": "stickers/260-陪你到结尾.png",
+      "scene": "sit next to an open book holding a tiny warm lamp with a devoted expression",
+      "sha256": "7bde0cc3f858b0cec7e020c79913c9630e4f020169f951c822fd7886b725f760",
+      "bytes": 1612355,
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {
@@ -3170,6 +3300,46 @@
       "scene": "She peeks shyly from behind folded arms, offering an expectant sideways glance.",
       "sha256": "7c417c45de56f18dffbfefb6edd48fddfbb6412b7d5ff479a8cb69ff7834fb2b",
       "bytes": 1815049,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 421,
+      "caption": "这是什么呀",
+      "series": "疑惑",
+      "path": "stickers/421-这是什么呀.png",
+      "scene": "She holds a mysterious little wrapped object at arm's length, head tilted.",
+      "sha256": "a1a361e55aa2468e8d6451d3947e3acb940f26c4954fc14bc55a9d3bfe2e8b5e",
+      "bytes": 1743734,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 422,
+      "caption": "怎么回事呢",
+      "series": "疑惑",
+      "path": "stickers/422-怎么回事呢.png",
+      "scene": "She scratches her head with confused raised eyebrow, question-shaped curl above.",
+      "sha256": "1e624ae0e779c5025e4e93e37bba400d7d9730c89932ad7582c1e9eea476ffbb",
+      "bytes": 1651715,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 423,
+      "caption": "我没听懂",
+      "series": "疑惑",
+      "path": "stickers/423-我没听懂.png",
+      "scene": "She cups both ears with a puzzled wide-eyed face.",
+      "sha256": "d4bbd58cd864da332ece8a1980d1a4c93316dc4118e301408e9ef845e23498fd",
+      "bytes": 1827509,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 424,
+      "caption": "脑子拐弯了",
+      "series": "疑惑",
+      "path": "stickers/424-脑子拐弯了.png",
+      "scene": "She traces a winding arrow in the air while thinking intensely.",
+      "sha256": "f4b47734c51e37583ac2ccf3b87b4d2916f567233acd0db85dd81ca128c648fb",
+      "bytes": 1759475,
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     }
   ]
