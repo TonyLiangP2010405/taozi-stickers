@@ -3,6 +3,7 @@ import hashlib
 import html
 import json
 import re
+from datetime import datetime
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
@@ -93,7 +94,8 @@ def build():
         status_file.write_text(json.dumps(status, ensure_ascii=False, indent=2) + '\n')
         if missing and status.get('state') == 'waiting_for_image_quota':
             state = '等待出图额度恢复'
-            quota_note = '\n内置图像生成额度已用完，预计 2026-10-29 19:34（上海时间）重置。剩余图片尚未生成。[续做记录](docs/resume.md) · [制作状态](status.json)\n'
+            resume_at = datetime.fromisoformat(status['resume_after']).strftime('%Y-%m-%d %H:%M')
+            quota_note = f'\n内置图像生成额度已用完，预计 {resume_at}（上海时间）重置。剩余图片尚未全部完成。[续做记录](docs/resume.md) · [制作状态](status.json)\n'
     readme = f'''# 小小桃纸哟表情包
 
 围绕 [小小桃纸哟（UID 6867955）](https://space.bilibili.com/6867955) 公开内容创作的 Q 版透明表情包。

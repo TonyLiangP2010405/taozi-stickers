@@ -1,6 +1,6 @@
 {
   "target": 500,
-  "completed": 280,
+  "completed": 287,
   "items": [
     {
       "id": 1,
@@ -1203,6 +1203,46 @@
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {
+      "id": 121,
+      "caption": "大佬带带我",
+      "series": "战斗求带",
+      "path": "stickers/121-大佬带带我.png",
+      "scene": "双手抱住一块大盾牌，眼含期待抬头",
+      "sha256": "81b74a6087afbeec57ffce709e6d9069839014b72c568e945716881c22a24839",
+      "bytes": 1795136,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 122,
+      "caption": "我负责鼓掌",
+      "series": "战斗求带",
+      "path": "stickers/122-我负责鼓掌.png",
+      "scene": "坐小板凳用力鼓掌，开心欢呼",
+      "sha256": "1c402b2238c9281114dd3b3a4dd5c09633bbb64b2013ce77d723521e65aeb743",
+      "bytes": 1747649,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 123,
+      "caption": "救救小萌新",
+      "series": "战斗求带",
+      "path": "stickers/123-救救小萌新.png",
+      "scene": "抱小木剑缩成一团，泪汪汪",
+      "sha256": "b6213acf1924524fe2659cc1e63429df73376f48830315310762971f792ae5dd",
+      "bytes": 1934692,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 124,
+      "caption": "我先躲一下",
+      "series": "战斗求带",
+      "path": "stickers/124-我先躲一下.png",
+      "scene": "躲在大盾牌后露一只眼，紧张冒汗",
+      "sha256": "724868795a232ee5e3a646308e1cc044e548da9ab0903579a49af6f4d3e56501",
+      "bytes": 1877085,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
       "id": 171,
       "caption": "桃纸上线啦",
       "series": "开播",
@@ -2000,6 +2040,36 @@
       "scene": "arrange three little witch hats on a shelf with a proud satisfied smile",
       "sha256": "1b2caa3b30d8e5bcfa1357bdf8ad97b0492bda01c53058036b2ffe598f5c430c",
       "bytes": 1627422,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 251,
+      "caption": "这段我懂了",
+      "series": "剧情共鸣",
+      "path": "stickers/251-这段我懂了.png",
+      "scene": "press a hand to the heart and nod softly beside an open storybook",
+      "sha256": "05a44deb95476b3a9ff0241bb116d5f914abe228c5a9eada36881adc0b89ae86",
+      "bytes": 1629098,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 252,
+      "caption": "故事接上啦",
+      "series": "剧情共鸣",
+      "path": "stickers/252-故事接上啦.png",
+      "scene": "connect two large puzzle pieces with excited understanding",
+      "sha256": "95ff5248f8fe5f1bfd916be314c78c897bbd4b6e4621c500fde62f49898492af",
+      "bytes": 1563579,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 253,
+      "caption": "原来是这样",
+      "series": "剧情共鸣",
+      "path": "stickers/253-原来是这样.png",
+      "scene": "hold a story scroll while a small light bulb appears overhead",
+      "sha256": "1c44d631922b2a02aea7ebd4304fd67237846659a6b074c90e5d438c03b966a5",
+      "bytes": 1721678,
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {
