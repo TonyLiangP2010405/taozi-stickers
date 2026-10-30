@@ -1,15 +1,15 @@
 {
   "state": "generating",
   "target": 500,
-  "completed": 287,
-  "remaining": 213,
+  "completed": 299,
+  "remaining": 201,
   "reason": "2026-10-29晚内置出图额度恢复，077单张验证成功，继续补缺失编号。",
   "resume_after": "2026-10-29T19:34:27+08:00",
   "resume_ranges": [
     {
-      "from": 125,
+      "from": 131,
       "to": 170,
-      "count": 46
+      "count": 40
     },
     {
       "from": 254,
@@ -17,19 +17,13 @@
       "count": 77
     },
     {
-      "from": 411,
+      "from": 417,
       "to": 500,
-      "count": 90
+      "count": 84
     }
   ],
   "generation_mode": "built-in ImageGen",
   "missing_ids": [
-    125,
-    126,
-    127,
-    128,
-    129,
-    130,
     131,
     132,
     133,
@@ -147,12 +141,6 @@
     328,
     329,
     330,
-    411,
-    412,
-    413,
-    414,
-    415,
-    416,
     417,
     418,
     419,

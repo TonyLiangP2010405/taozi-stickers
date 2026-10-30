@@ -1,6 +1,6 @@
 {
   "target": 500,
-  "completed": 287,
+  "completed": 299,
   "items": [
     {
       "id": 1,
@@ -1240,6 +1240,66 @@
       "scene": "躲在大盾牌后露一只眼，紧张冒汗",
       "sha256": "724868795a232ee5e3a646308e1cc044e548da9ab0903579a49af6f4d3e56501",
       "bytes": 1877085,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 125,
+      "caption": "师傅看我操作",
+      "series": "战斗求带",
+      "path": "stickers/125-师傅看我操作.png",
+      "scene": "举小木剑自信迈步，身后小汗滴",
+      "sha256": "b42343b725ae3795ef669e39265e6579480b79d48dc7e25a8c1bb658f93a85ba",
+      "bytes": 1955974,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 126,
+      "caption": "我有在输出",
+      "series": "战斗求带",
+      "path": "stickers/126-我有在输出.png",
+      "scene": "咬牙挥动迷你木剑，细小可爱冲击线",
+      "sha256": "2f37e0ef7dd2c2bb96d3353ab9a10e302f5910409a1ed3a6281c30aec1413f1b",
+      "bytes": 1870144,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 127,
+      "caption": "等我补个血",
+      "series": "战斗求带",
+      "path": "stickers/127-等我补个血.png",
+      "scene": "慌忙抱小药瓶喝一口，脸颊恢复红润",
+      "sha256": "975a750790dd99f6151b2ad7631f659de1390cee7dfff45c6966f94c9cedfb02",
+      "bytes": 1903005,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 128,
+      "caption": "盾呢我的盾",
+      "series": "战斗求带",
+      "path": "stickers/128-盾呢我的盾.png",
+      "scene": "翻找空背包，慌张睁大双眼",
+      "sha256": "9a78ade89c66bd2f1ae15d4f2ab2fc8364038ee491a13d39137c941794320840",
+      "bytes": 1925020,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 129,
+      "caption": "这怪有点凶",
+      "series": "战斗求带",
+      "path": "stickers/129-这怪有点凶.png",
+      "scene": "抱木剑后仰，被一只小史莱姆吓到",
+      "sha256": "51edeecf76a3cfbd4b17b48836f7dce5c33ee6ad4709d01a121428e354d4f11d",
+      "bytes": 1999422,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 130,
+      "caption": "带我躺一把",
+      "series": "战斗求带",
+      "path": "stickers/130-带我躺一把.png",
+      "scene": "舒舒服服躺小躺椅，抱着小盾牌期待笑",
+      "sha256": "199077e7b7fa09275ea15cd3dee68cce829f67826ab129eba331a09d900035eb",
+      "bytes": 1956116,
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {
@@ -2870,6 +2930,66 @@
       "scene": "She laughs with head tilted back and one hand slapping her knee.",
       "sha256": "ab626e6e9057677895724e84fcee08522ac7b05a2aa8cb089affc4556adf03ad",
       "bytes": 1804465,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 411,
+      "caption": "桃桃生气了",
+      "series": "轻微生气",
+      "path": "stickers/411-桃桃生气了.png",
+      "scene": "She puffs cheeks and crosses arms, tiny harmless steam puff above.",
+      "sha256": "8d09fe94041dfb092860b8f4c73b125408a70a77ac8563786ce926eaa28f4d63",
+      "bytes": 1679441,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 412,
+      "caption": "哼不理你",
+      "series": "轻微生气",
+      "path": "stickers/412-哼不理你.png",
+      "scene": "She turns her head away with chin up, arms folded.",
+      "sha256": "7db5d24dc93aa8967f7548123daace2ec498367c464e263dc4c317b73ffb6f31",
+      "bytes": 1772867,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 413,
+      "caption": "别逗我啦",
+      "series": "轻微生气",
+      "path": "stickers/413-别逗我啦.png",
+      "scene": "She points a finger at viewer with embarrassed annoyed red cheeks.",
+      "sha256": "9585747bc85158996f659102e38d0ab4b445ca6e625a0f977b354aa05e955519",
+      "bytes": 1822957,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 414,
+      "caption": "小心我挠你",
+      "series": "轻微生气",
+      "path": "stickers/414-小心我挠你.png",
+      "scene": "She raises two little claw hands, mock fierce kitten expression.",
+      "sha256": "2f827da90dc8780d75ebc2d7f446b92bfcbf81a76247e29d44daed1904095b55",
+      "bytes": 1771561,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 415,
+      "caption": "气成河豚",
+      "series": "轻微生气",
+      "path": "stickers/415-气成河豚.png",
+      "scene": "She puffs both cheeks very round, hands on hips, tiny pufferfish icon.",
+      "sha256": "faedcd6e66a64cc78deb6d470efcaa8867079579f588c3bbb19e04e8b45637ed",
+      "bytes": 1730032,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 416,
+      "caption": "你再说一遍",
+      "series": "轻微生气",
+      "path": "stickers/416-你再说一遍.png",
+      "scene": "She leans forward with narrowed eyes and one hand cupping ear.",
+      "sha256": "221a42922eb4b3fff5cc011ed3edc90483b5e6655558ee289fe81bc7ad6ae9cd",
+      "bytes": 1719841,
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     }
   ]
