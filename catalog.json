@@ -1,6 +1,6 @@
 {
   "target": 500,
-  "completed": 358,
+  "completed": 380,
   "items": [
     {
       "id": 1,
@@ -1603,6 +1603,106 @@
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {
+      "id": 161,
+      "caption": "今天不卷",
+      "series": "慢生活",
+      "path": "stickers/161-今天不卷.png",
+      "scene": "靠着大抱枕喝小茶，悠闲半眯眼",
+      "sha256": "f5f29074d79f70ac216f1a0f3382e8f477bff17d5bc82bda237815c502288543",
+      "bytes": 1866319,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 162,
+      "caption": "慢慢来嘛",
+      "series": "慢生活",
+      "path": "stickers/162-慢慢来嘛.png",
+      "scene": "两手轻轻向下做放慢手势，温柔笑",
+      "sha256": "d50c056dd81ed2ade63b472b6ac98aa26e76f9dfba421f205804acfcd655cdb4",
+      "bytes": 1827363,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 163,
+      "caption": "先发会儿呆",
+      "series": "慢生活",
+      "path": "stickers/163-先发会儿呆.png",
+      "scene": "托腮望空中小云朵，眼神放空",
+      "sha256": "06739260d368fa86c68ab8019c5157c6853820c0765ce3d5894bc5604036afa2",
+      "bytes": 1759702,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 164,
+      "caption": "摸鱼时间到",
+      "series": "慢生活",
+      "path": "stickers/164-摸鱼时间到.png",
+      "scene": "抱一只小鱼玩偶偷笑，靠小靠垫",
+      "sha256": "7fc074b367209ce860203067cff684615cc8d48dd889a5f866358aa3d422c6e4",
+      "bytes": 1916474,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 165,
+      "caption": "陪你看日落",
+      "series": "慢生活",
+      "path": "stickers/165-陪你看日落.png",
+      "scene": "坐小板凳望一轮小橙色落日，温柔侧脸",
+      "sha256": "84dab0d8a91198203d8b6cbbd53cfcb560676d4eb546dabab597fcc2f3360d6b",
+      "bytes": 1816162,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 166,
+      "caption": "歇一会儿",
+      "series": "慢生活",
+      "path": "stickers/166-歇一会儿.png",
+      "scene": "趴在软枕头上闭眼，满足小呼气",
+      "sha256": "752bb70fb5f2386d0784968b10b213be879a4bd64d39442c09a6c76fad18956b",
+      "bytes": 1771937,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 167,
+      "caption": "快乐最重要",
+      "series": "慢生活",
+      "path": "stickers/167-快乐最重要.png",
+      "scene": "双手比出爱心，开怀大笑",
+      "sha256": "4b76d6d846cf0a98f1fb221ebb61cf25928f65b301e818eed03310eff09c8b21",
+      "bytes": 1804445,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 168,
+      "caption": "不急不急",
+      "series": "慢生活",
+      "path": "stickers/168-不急不急.png",
+      "scene": "端茶杯摆摆手，淡定微笑",
+      "sha256": "cacd9ac9c84d318c81f9df60ab41b7d52332f988ef3df64959ebab7b9df42f4f",
+      "bytes": 1707380,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 169,
+      "caption": "今日份治愈",
+      "series": "慢生活",
+      "path": "stickers/169-今日份治愈.png",
+      "scene": "抱一盆开花小植物，温柔闭眼",
+      "sha256": "6e73ca4d256245d465bd96d6c00785c4ee953874ba949d544087ae017d302720",
+      "bytes": 1873907,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 170,
+      "caption": "明天再努力",
+      "series": "慢生活",
+      "path": "stickers/170-明天再努力.png",
+      "scene": "抱被子窝着，困倦又满足挥手",
+      "sha256": "ba9084d9d6bc87b0abb80b5a1c83da95cadeb4dfdd2b95dd4fda4c5c34869e49",
+      "bytes": 1927412,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
       "id": 171,
       "caption": "桃纸上线啦",
       "series": "开播",
@@ -2603,6 +2703,106 @@
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {
+      "id": 271,
+      "caption": "这也太帅啦",
+      "series": "角色欣赏",
+      "path": "stickers/271-这也太帅啦.png",
+      "scene": "hold both cheeks with amazed sparkling blue eyes and an open smile",
+      "sha256": "af8ce781d4ea33e747b71a109246c10367ea126fd81e5eb600d2d280678b7654",
+      "bytes": 1594312,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 272,
+      "caption": "美貌暴击啦",
+      "series": "角色欣赏",
+      "path": "stickers/272-美貌暴击啦.png",
+      "scene": "stagger backward theatrically while holding a little heart near the chest",
+      "sha256": "326cd4566e10f963b952bcac08b109dccff35cf4145066b8a646bdea6c106e87",
+      "bytes": 1633999,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 273,
+      "caption": "我先欣赏会",
+      "series": "角色欣赏",
+      "path": "stickers/273-我先欣赏会.png",
+      "scene": "rest chin in both hands with dreamy respectful starry eyes",
+      "sha256": "00310d81edb3f07fbcfbd3d493c81a9aebf91f0542706cc5fe517c10e97ad97f",
+      "bytes": 1637252,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 274,
+      "caption": "帅桃看呆啦",
+      "series": "角色欣赏",
+      "path": "stickers/274-帅桃看呆啦.png",
+      "scene": "freeze while a handheld controller slips gently from relaxed hands",
+      "sha256": "98cefec82ddc966269a4705c365f01ab7f1a09bd651f571d0ae2fdc15582c940",
+      "bytes": 1590062,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 275,
+      "caption": "这套好好看",
+      "series": "角色欣赏",
+      "path": "stickers/275-这套好好看.png",
+      "scene": "hold a little clothing hanger with a cute stylish costume sketch",
+      "sha256": "43a6d88a94ecf432667a6a05bbf63154589b8c61aba8875f587784ed387d6b95",
+      "bytes": 1857582,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 276,
+      "caption": "心动一下下",
+      "series": "角色欣赏",
+      "path": "stickers/276-心动一下下.png",
+      "scene": "press a hand to the cheek while tiny pastel hearts float nearby",
+      "sha256": "e022d5d34ed2bf9478c41fc8c7b1959076c8e80c05ae22bef133497b537958eb",
+      "bytes": 1546870,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 277,
+      "caption": "声音真好听",
+      "series": "角色欣赏",
+      "path": "stickers/277-声音真好听.png",
+      "scene": "wear headphones and close eyes happily, a little music note nearby",
+      "sha256": "fa25a44c74a7b1b51bc16e6e2a78f2ca68c37819f128ef99c2ec23f82c70cec3",
+      "bytes": 1733774,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 278,
+      "caption": "魅力挡不住",
+      "series": "角色欣赏",
+      "path": "stickers/278-魅力挡不住.png",
+      "scene": "hold a tiny toy shield against a shower of harmless little hearts",
+      "sha256": "d9353ef1dbd7ed98c5fa20454449215abb9c480160e8d994477950fcc74cce4e",
+      "bytes": 1841902,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 279,
+      "caption": "角色好有趣",
+      "series": "角色欣赏",
+      "path": "stickers/279-角色好有趣.png",
+      "scene": "hold an open character story card with a delighted curious expression",
+      "sha256": "d5c02bb2e304d20f207b02fb420ca3dfa5a372beb8f13c1b1a44a8c9bfdeb20d",
+      "bytes": 1569709,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 280,
+      "caption": "让我夸两句",
+      "series": "角色欣赏",
+      "path": "stickers/280-让我夸两句.png",
+      "scene": "lift a small microphone with enthusiastic sparkling eyes and a raised index finger",
+      "sha256": "974a8de1c3645674071e459734b468eb1bf9094d68dc304a8d717fb44b20fab5",
+      "bytes": 1731141,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
       "id": 331,
       "caption": "桃子来啦",
       "series": "日常招呼",
@@ -3580,6 +3780,26 @@
       "scene": "She holds up a blank diagram clipboard, other hand open in questioning gesture.",
       "sha256": "154832e4c9193bb0923f51a7a58cbe5589af4fb5caa5eddc6e09df6f2f3716fc",
       "bytes": 1888749,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 429,
+      "caption": "我先打个问号",
+      "series": "疑惑",
+      "path": "stickers/429-我先打个问号.png",
+      "scene": "She lifts a large soft question-mark shaped pillow.",
+      "sha256": "5df59cf9b5140f9d4a8a0f0baabe030de7cba8a9934ca44e1327595b0fa09b29",
+      "bytes": 1799165,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 430,
+      "caption": "事情不简单",
+      "series": "疑惑",
+      "path": "stickers/430-事情不简单.png",
+      "scene": "She wears tiny detective-style magnifier near one eye, suspicious squint.",
+      "sha256": "5fe8f8edba0ebb2da5a7f866c989c2d9cec8aec093f36645ab3e7a15758c4e10",
+      "bytes": 1795689,
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     }
   ]
