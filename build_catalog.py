@@ -32,11 +32,9 @@ def build():
     if reviewed_file.exists():
         reviewed = json.loads(reviewed_file.read_text())
         approved = set(reviewed['ids'])
-        for name in ['progress-a.json', 'progress-b.json', 'progress-c.json']:
-            progress_file = ROOT / name
-            if progress_file.exists():
-                progress = json.loads(progress_file.read_text())
-                approved.update(progress.get('visual_review_passed_ids', []))
+        for progress_file in sorted(ROOT.glob('progress-*.json')):
+            progress = json.loads(progress_file.read_text())
+            approved.update(progress.get('visual_review_passed_ids', []))
         reviewed['ids'] = sorted(approved)
         reviewed_file.write_text(json.dumps(reviewed, ensure_ascii=False, indent=2) + '\n')
     for file in sorted((ROOT / 'stickers').glob('*.png')):

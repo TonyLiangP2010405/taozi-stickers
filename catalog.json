@@ -1,6 +1,6 @@
 {
   "target": 500,
-  "completed": 334,
+  "completed": 358,
   "items": [
     {
       "id": 1,
@@ -1503,6 +1503,106 @@
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {
+      "id": 151,
+      "caption": "新游戏快来",
+      "series": "休闲新游期待",
+      "path": "stickers/151-新游戏快来.png",
+      "scene": "抱手柄坐等，望着小日历期待星星眼",
+      "sha256": "d1b31703ad325c76bef335245dce1b0140b78e0d9176d568f384020a74b22758",
+      "bytes": 1842456,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 152,
+      "caption": "这画风我喜欢",
+      "series": "休闲新游期待",
+      "path": "stickers/152-这画风我喜欢.png",
+      "scene": "捧小画框爱不释手，脸红微笑",
+      "sha256": "fbc555bcf137cdcee978daca6b89d0c0d12524ea54ddebdb500e3af658cbdc5d",
+      "bytes": 2046762,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 153,
+      "caption": "想玩想玩",
+      "series": "休闲新游期待",
+      "path": "stickers/153-想玩想玩.png",
+      "scene": "双手举过头顶欢呼，小星星弹跳",
+      "sha256": "a737b6f100a820fbf2af34a3e281dbd4556b5c5aa32eb107a40bd328e8660c2c",
+      "bytes": 2000130,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 154,
+      "caption": "先加愿望单",
+      "series": "休闲新游期待",
+      "path": "stickers/154-先加愿望单.png",
+      "scene": "拿铅笔往清单上画大爱心，认真开心",
+      "sha256": "0dd0e73043db48db03b51704ae70428110dd54d31ad1e388df31322a4fcffe38",
+      "bytes": 1885532,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 155,
+      "caption": "测试资格看看我",
+      "series": "休闲新游期待",
+      "path": "stickers/155-测试资格看看我.png",
+      "scene": "捧空信封期待张望，小汗滴",
+      "sha256": "5357d5bca89fbf99c0a0fed8b094ed3f79cf2b8e4dd5fa428e31d397a640c8e8",
+      "bytes": 1770732,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 156,
+      "caption": "这个有点可爱",
+      "series": "休闲新游期待",
+      "path": "stickers/156-这个有点可爱.png",
+      "scene": "捧一只小云朵玩偶，眼睛发光",
+      "sha256": "436167ef9a70bcc7ea292673ba1830a05c9afa0769dc73fd5e0e24c36ed75683",
+      "bytes": 1864102,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 157,
+      "caption": "等得花都谢了",
+      "series": "休闲新游期待",
+      "path": "stickers/157-等得花都谢了.png",
+      "scene": "抱一盆垂头小花，半眯眼无奈",
+      "sha256": "9da1cb5dccf2749d0f8be1b04bcdac9bfa9129d1e66b7bdef2def206ab4ac7da",
+      "bytes": 1768799,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 158,
+      "caption": "终于等到你",
+      "series": "休闲新游期待",
+      "path": "stickers/158-终于等到你.png",
+      "scene": "双手举小礼盒感动泪眼，灿烂笑",
+      "sha256": "c9b7b39eefcb9c2d1da60d8de0d9962e841f6525660d521a58e7af566a858942",
+      "bytes": 1889549,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 159,
+      "caption": "又想开新坑",
+      "series": "休闲新游期待",
+      "path": "stickers/159-又想开新坑.png",
+      "scene": "一手抱旧手柄一手伸向新手柄，心动犹豫",
+      "sha256": "ba9865623172c07f8d3009202d2e60def47c3c005127682a4a1b2b25be1991e3",
+      "bytes": 1869880,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 160,
+      "caption": "休闲党狂喜",
+      "series": "休闲新游期待",
+      "path": "stickers/160-休闲党狂喜.png",
+      "scene": "抱软靠枕开心蹦起来，周围小花朵",
+      "sha256": "82981785dd103e76a0eee347a935c9730f5864ae941c5d7efb2a0a8fc8b07eb1",
+      "bytes": 1886923,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
       "id": 171,
       "caption": "桃纸上线啦",
       "series": "开播",
@@ -2400,6 +2500,106 @@
       "scene": "sit next to an open book holding a tiny warm lamp with a devoted expression",
       "sha256": "7bde0cc3f858b0cec7e020c79913c9630e4f020169f951c822fd7886b725f760",
       "bytes": 1612355,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 261,
+      "caption": "小珍珠掉啦",
+      "series": "剧情哭哭",
+      "path": "stickers/261-小珍珠掉啦.png",
+      "scene": "cup both hands under the cheeks catching oversized cartoon tears",
+      "sha256": "be2cb8fac042c52225a5f44800d60f6fd1385e620105ef7fd1f219ea17547d86",
+      "bytes": 1590840,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 262,
+      "caption": "纸巾借我点",
+      "series": "剧情哭哭",
+      "path": "stickers/262-纸巾借我点.png",
+      "scene": "reach out with one hand while holding a nearly empty tissue box",
+      "sha256": "0a9bcc3aaf60dc0e51765546974a6335b46c6300eb5aa1e03fe6eea572c9a482",
+      "bytes": 1592433,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 263,
+      "caption": "我缓一缓嘛",
+      "series": "剧情哭哭",
+      "path": "stickers/263-我缓一缓嘛.png",
+      "scene": "sit wrapped in a cozy shawl dabbing one eye with a tissue",
+      "sha256": "e4582a415c46f9be3c899ca37af0035e057ef9e6a8e1f879dd7b0802884f1503",
+      "bytes": 1691675,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 264,
+      "caption": "怎么又刀我",
+      "series": "剧情哭哭",
+      "path": "stickers/264-怎么又刀我.png",
+      "scene": "hug a soft heart pillow pierced only by a harmless paper arrow, watery eyes",
+      "sha256": "ca16ba4dd1f61572c9df85cdf03eedb48da2c08a328d2ee2970a790b4ceffb9a",
+      "bytes": 1565027,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 265,
+      "caption": "眼睛进剧情",
+      "series": "剧情哭哭",
+      "path": "stickers/265-眼睛进剧情.png",
+      "scene": "rub one eye while holding a little storybook with the other hand",
+      "sha256": "aef17b33212d82cecfe705883025c183f1a8e7916c9bc92d259f7efedd320ef3",
+      "bytes": 1621811,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 266,
+      "caption": "哭桃暂停下",
+      "series": "剧情哭哭",
+      "path": "stickers/266-哭桃暂停下.png",
+      "scene": "hold a tiny pause paddle while tears stream comically down cheeks",
+      "sha256": "5a8e68c48fbf76c91a5a4b14d30cb1e38b2155e44977a1b4c6638c3aa12a7928",
+      "bytes": 1780338,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 267,
+      "caption": "这关有点泪",
+      "series": "剧情哭哭",
+      "path": "stickers/267-这关有点泪.png",
+      "scene": "stand in a shallow puddle of cartoon tears with a stunned expression",
+      "sha256": "5faf4e9cbb2d7597af726291f8fb83753ec432e8c8073f8e6d61b72d6f0d0b80",
+      "bytes": 1619251,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 268,
+      "caption": "鼻子酸酸啦",
+      "series": "剧情哭哭",
+      "path": "stickers/268-鼻子酸酸啦.png",
+      "scene": "hold a crumpled tissue under the nose and look upward trying not to cry",
+      "sha256": "b323c8477130b4608637ac2a558048577c802a8e266b346c8a030546013a2ecc",
+      "bytes": 1535637,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 269,
+      "caption": "心软成桃泥",
+      "series": "剧情哭哭",
+      "path": "stickers/269-心软成桃泥.png",
+      "scene": "melt cutely into a peach-shaped beanbag with trembling lips and tears",
+      "sha256": "bcec8b0bb58203517a3a56de68c6defa0a7e465ae30c887dac3ca05554908590",
+      "bytes": 1679035,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 270,
+      "caption": "抱抱就好啦",
+      "series": "剧情哭哭",
+      "path": "stickers/270-抱抱就好啦.png",
+      "scene": "hug a big soft pillow tight with watery hopeful eyes",
+      "sha256": "5be713bab4b2dd3f43958e16ac0f2448db0d07cc43f504606d25cfe07f5a80d2",
+      "bytes": 1663528,
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {
@@ -3340,6 +3540,46 @@
       "scene": "She traces a winding arrow in the air while thinking intensely.",
       "sha256": "f4b47734c51e37583ac2ccf3b87b4d2916f567233acd0db85dd81ca128c648fb",
       "bytes": 1759475,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 425,
+      "caption": "让我缓缓",
+      "series": "疑惑",
+      "path": "stickers/425-让我缓缓.png",
+      "scene": "She raises one palm to pause and rubs her temple.",
+      "sha256": "590d069a7ae75c3e0407632b20232a180a6ef47b9b22a6fa757cf327fa7abd71",
+      "bytes": 1798253,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 426,
+      "caption": "真的可以吗",
+      "series": "疑惑",
+      "path": "stickers/426-真的可以吗.png",
+      "scene": "She hesitantly extends one hand toward a glowing harmless button.",
+      "sha256": "405cf5b816b8a96b6ecca42148cc7972eaca6ba7251dd4beeb87225d8c950c76",
+      "bytes": 1636207,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 427,
+      "caption": "哪一步错了",
+      "series": "疑惑",
+      "path": "stickers/427-哪一步错了.png",
+      "scene": "She examines a small tangled ribbon with a baffled expression.",
+      "sha256": "165795e330bf7e976f9e2b142b83be8396403d3e8f0c326279361dd36a955c39",
+      "bytes": 1811832,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 428,
+      "caption": "谁能解释下",
+      "series": "疑惑",
+      "path": "stickers/428-谁能解释下.png",
+      "scene": "She holds up a blank diagram clipboard, other hand open in questioning gesture.",
+      "sha256": "154832e4c9193bb0923f51a7a58cbe5589af4fb5caa5eddc6e09df6f2f3716fc",
+      "bytes": 1888749,
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     }
   ]
