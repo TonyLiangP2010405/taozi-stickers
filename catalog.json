@@ -1,6 +1,6 @@
 {
   "target": 500,
-  "completed": 299,
+  "completed": 317,
   "items": [
     {
       "id": 1,
@@ -1303,6 +1303,106 @@
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {
+      "id": 131,
+      "caption": "欧气来了",
+      "series": "出货好运",
+      "path": "stickers/131-欧气来了.png",
+      "scene": "双手捧小幸运四叶草，金色星光围绕",
+      "sha256": "4233476f4d7f944f8023dc2e0c9640fbad2c67d35f0345e373393cdbd3c97e24",
+      "bytes": 1947046,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 132,
+      "caption": "这运气可以",
+      "series": "出货好运",
+      "path": "stickers/132-这运气可以.png",
+      "scene": "抱亮晶晶小宝石，满意竖起大拇指",
+      "sha256": "f9e517b98959a442d1f76b45665f5b56c7f62b49266c992ab30a7b8ba5c06cbd",
+      "bytes": 1819530,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 133,
+      "caption": "一发入魂",
+      "series": "出货好运",
+      "path": "stickers/133-一发入魂.png",
+      "scene": "举着一张发光小奖券，震惊到张嘴",
+      "sha256": "e1c00e2dbe5f85242b1b12a8a8aa0ba03dd20970651cd002ee8e3699a432278e",
+      "bytes": 2022670,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 134,
+      "caption": "好运接住",
+      "series": "出货好运",
+      "path": "stickers/134-好运接住.png",
+      "scene": "双手向上接住掉下来的小幸运星",
+      "sha256": "b5d327e55e7d8922d2dcfe7aacd3a5aba240e6e8fee25bc09c7aeaf088df3ce7",
+      "bytes": 1916513,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 135,
+      "caption": "今天有点欧",
+      "series": "出货好运",
+      "path": "stickers/135-今天有点欧.png",
+      "scene": "戴四叶草发夹叉腰，得意眯眼",
+      "sha256": "8e5b91b0e8926af029b0244326213b21ca0f82629519339ee31259a537059486",
+      "bytes": 1853811,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 136,
+      "caption": "幸运桃上线",
+      "series": "出货好运",
+      "path": "stickers/136-幸运桃上线.png",
+      "scene": "捧桃形幸运符，笑着向观众展示",
+      "sha256": "fe0e8fcc0f319696398dd1c841deb8d21b9178f24cff7a8bcdccba32d0da7708",
+      "bytes": 1847434,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 137,
+      "caption": "让我蹭点欧气",
+      "series": "出货好运",
+      "path": "stickers/137-让我蹭点欧气.png",
+      "scene": "双手蹭着发光四叶草，小心期待脸",
+      "sha256": "ce646fff02ae87061194b54a23ca3c2bd1947c41ed869e8132538105c57d7023",
+      "bytes": 1867982,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 138,
+      "caption": "这波不亏",
+      "series": "出货好运",
+      "path": "stickers/138-这波不亏.png",
+      "scene": "抱两只小礼盒点头，满足微笑",
+      "sha256": "abfaf760b736b2ef2d72d1f14ee5218e8172ff2a736cb6d09647ecd142149967",
+      "bytes": 1918115,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 139,
+      "caption": "福气满满",
+      "series": "出货好运",
+      "path": "stickers/139-福气满满.png",
+      "scene": "抱大福袋喜气洋洋，小金色光点",
+      "sha256": "514c60ce041a8d59f4b1e66ecfb952c3ff1ed677e0c8834f5dbdd0ec91e782df",
+      "bytes": 2011955,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 140,
+      "caption": "好运别走",
+      "series": "出货好运",
+      "path": "stickers/140-好运别走.png",
+      "scene": "伸手挽留一颗飞走的小星星，急切可爱",
+      "sha256": "9c34db71faa68d9aeff9a1f685fa542fcfb36c1aa1052ab3b6495ec21ca5a07d",
+      "bytes": 1860482,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
       "id": 171,
       "caption": "桃纸上线啦",
       "series": "开播",
@@ -2130,6 +2230,46 @@
       "scene": "hold a story scroll while a small light bulb appears overhead",
       "sha256": "1c44d631922b2a02aea7ebd4304fd67237846659a6b074c90e5d438c03b966a5",
       "bytes": 1721678,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 254,
+      "caption": "我听进去了",
+      "series": "剧情共鸣",
+      "path": "stickers/254-我听进去了.png",
+      "scene": "sit quietly with both hands folded and deeply attentive eyes",
+      "sha256": "ee492797a0f13b63461e112a7189d2522d5128f3efd7a0fc62f0386120d5a14b",
+      "bytes": 1617000,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 255,
+      "caption": "这句戳到我",
+      "series": "剧情共鸣",
+      "path": "stickers/255-这句戳到我.png",
+      "scene": "gently touch the chest with wet bright eyes and a tiny heart sparkle",
+      "sha256": "08898508e6f521c79dccf24a8bad75b7544717854e2e2dc1208407bb45bb135d",
+      "bytes": 1659292,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 256,
+      "caption": "一起走下去",
+      "series": "剧情共鸣",
+      "path": "stickers/256-一起走下去.png",
+      "scene": "extend an inviting hand toward the viewer while holding a travel lantern",
+      "sha256": "9049c2ec12c74166e71616b03f0d252b07e54adcb631f4bb5e47923ace9742a6",
+      "bytes": 1641545,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 257,
+      "caption": "我记住你啦",
+      "series": "剧情共鸣",
+      "path": "stickers/257-我记住你啦.png",
+      "scene": "hug a little memory album close with a tender smile",
+      "sha256": "b59613630225447cafaa7f3238ffa8b443f6c10804beb2ae6761b1fd5bfcbdb1",
+      "bytes": 1557173,
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {
@@ -2990,6 +3130,46 @@
       "scene": "She leans forward with narrowed eyes and one hand cupping ear.",
       "sha256": "221a42922eb4b3fff5cc011ed3edc90483b5e6655558ee289fe81bc7ad6ae9cd",
       "bytes": 1719841,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 417,
+      "caption": "抗议抗议",
+      "series": "轻微生气",
+      "path": "stickers/417-抗议抗议.png",
+      "scene": "She holds a blank little protest sign, stern pout.",
+      "sha256": "5acba296afa7d736e8014d5b64a7ada9a1065732c4d2b44ba2ba995a8988a74f",
+      "bytes": 1869744,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 418,
+      "caption": "不许欺负我",
+      "series": "轻微生气",
+      "path": "stickers/418-不许欺负我.png",
+      "scene": "She pulls up a little peach-shaped shield in front of herself.",
+      "sha256": "8ce3e85a4dddf9a91932332bbe9d9627fb9b22c8657b811318448059714c45b6",
+      "bytes": 1855392,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 419,
+      "caption": "我有小情绪",
+      "series": "轻微生气",
+      "path": "stickers/419-我有小情绪.png",
+      "scene": "She sits hugging knees with a tiny gray cloud overhead.",
+      "sha256": "741981c2ac837cf1e079140fb6f3b8433bfc37b3cae3bf7f8e719a273f0c5bd7",
+      "bytes": 1731176,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 420,
+      "caption": "哄哄就好",
+      "series": "轻微生气",
+      "path": "stickers/420-哄哄就好.png",
+      "scene": "She peeks shyly from behind folded arms, offering an expectant sideways glance.",
+      "sha256": "7c417c45de56f18dffbfefb6edd48fddfbb6412b7d5ff479a8cb69ff7834fb2b",
+      "bytes": 1815049,
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     }
   ]
