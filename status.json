@@ -1,15 +1,15 @@
 {
   "state": "generating",
   "target": 500,
-  "completed": 416,
-  "remaining": 84,
+  "completed": 424,
+  "remaining": 76,
   "reason": "2026-10-31内置ImageGen恢复，已成功生成476号，继续补齐实际缺失编号。",
   "resume_after": "2026-10-30T21:02:41+08:00",
   "resume_ranges": [
     {
-      "from": 291,
+      "from": 299,
       "to": 330,
-      "count": 40
+      "count": 32
     },
     {
       "from": 441,
@@ -24,14 +24,6 @@
   ],
   "generation_mode": "built-in ImageGen",
   "missing_ids": [
-    291,
-    292,
-    293,
-    294,
-    295,
-    296,
-    297,
-    298,
     299,
     300,
     301,

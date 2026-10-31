@@ -1,6 +1,6 @@
 {
   "target": 500,
-  "completed": 416,
+  "completed": 424,
   "items": [
     {
       "id": 1,
@@ -2900,6 +2900,86 @@
       "scene": "dance with a tiny handheld mic, hair swishing and huge cheerful eyes",
       "sha256": "19fd490b50eae2f948da8132bf9418c2f57cdb152e0e5c373835f98f9ddcb16b",
       "bytes": 2007521,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 291,
+      "caption": "老板娘在吗",
+      "series": "AI老板娘问答",
+      "path": "stickers/291-老板娘在吗.png",
+      "scene": "lean over a tiny cafe counter with a curious wave",
+      "sha256": "6464113c71e65652c531d3f939561f1c71d08c52c2de51cc8ac64863587ff3f0",
+      "bytes": 1813569,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 292,
+      "caption": "桃纸来提问",
+      "series": "AI老板娘问答",
+      "path": "stickers/292-桃纸来提问.png",
+      "scene": "raise a hand holding a blank question card beside a little coffee cup",
+      "sha256": "90dcf7e74c9ba38d412217b46f838931e2b00e04c96ca9af72e57aa763ebcd3a",
+      "bytes": 1773854,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 293,
+      "caption": "让我问个事",
+      "series": "AI老板娘问答",
+      "path": "stickers/293-让我问个事.png",
+      "scene": "tap the chin and lean forward with a thoughtful expression",
+      "sha256": "010c59e48a366f9e2a52934f5db2d886ea1545e817374a64364d4db43f01dcc3",
+      "bytes": 1725127,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 294,
+      "caption": "这题有意思",
+      "series": "AI老板娘问答",
+      "path": "stickers/294-这题有意思.png",
+      "scene": "hold a large question-mark shaped prop with bright curious eyes",
+      "sha256": "14034f8b05e186d59c0feffabc35b9ead050376225734fe01c165a21867835a8",
+      "bytes": 1878868,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 295,
+      "caption": "答案慢慢想",
+      "series": "AI老板娘问答",
+      "path": "stickers/295-答案慢慢想.png",
+      "scene": "sit beside a steaming mug and contemplate with a pencil near the mouth",
+      "sha256": "6f8173f43866a992c73194d43331c79694b721bd08c0695d8597551b0cd84041",
+      "bytes": 1904118,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 296,
+      "caption": "谁才是智能",
+      "series": "AI老板娘问答",
+      "path": "stickers/296-谁才是智能.png",
+      "scene": "look between own notebook and a little friendly robot figurine with puzzled eyes",
+      "sha256": "3208e58c47cac9b90c71b28fceb3632b7b8989b2bc99c776397d7413ead1cc83",
+      "bytes": 1872120,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 297,
+      "caption": "咖啡续一杯",
+      "series": "AI老板娘问答",
+      "path": "stickers/297-咖啡续一杯.png",
+      "scene": "offer an empty coffee cup with both hands and a hopeful smile",
+      "sha256": "baa065cbdcff9ddbbecc4198dd183b34108f0664b47d2743e8fc14b87e25f1bf",
+      "bytes": 1733179,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 298,
+      "caption": "认真问一句",
+      "series": "AI老板娘问答",
+      "path": "stickers/298-认真问一句.png",
+      "scene": "adjust small glasses while opening a notebook at a cafe table",
+      "sha256": "9b1a4410aa6a9b58abfb5c5a996af4b1a5ef6e4ed90e3eaebcc5ea5638610200",
+      "bytes": 1730545,
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {
