@@ -1,6 +1,6 @@
 {
   "target": 500,
-  "completed": 399,
+  "completed": 416,
   "items": [
     {
       "id": 1,
@@ -3933,6 +3933,76 @@
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {
+      "id": 434,
+      "caption": "桃桃震惊",
+      "series": "惊讶",
+      "path": "stickers/434-桃桃震惊.png",
+      "scene": "She freezes stiffly with hair slightly puffed and two tiny lightning shapes.",
+      "sha256": "c7c6eb12053144cd591791018ed09d0158bdf8be2cbb04eef2a9185f8d0a5a5f",
+      "bytes": 1878271,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 435,
+      "caption": "居然是真的",
+      "series": "惊讶",
+      "path": "stickers/435-居然是真的.png",
+      "scene": "She points at a tiny glowing gift box, stunned joyful eyes.",
+      "sha256": "45e8a4a9c567760f6be6f7a4d8c0d870f5242abc76098b1d97ab50b7af0aa0c1",
+      "bytes": 1882468,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 436,
+      "caption": "这谁顶得住",
+      "series": "惊讶",
+      "path": "stickers/436-这谁顶得住.png",
+      "scene": "She fans her rosy cheeks with a small paper fan, overwhelmed delighted surprise.",
+      "sha256": "0b82e6b0c85196fb3e8efcfb1923cdd5c38ba8ed920e99bff1346b9d4aea4477",
+      "bytes": 2001959,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 437,
+      "caption": "直接看呆",
+      "series": "惊讶",
+      "path": "stickers/437-直接看呆.png",
+      "scene": "She sits statue-still with wide empty blue eyes and tiny open mouth.",
+      "sha256": "e273c434b576ec1da4694d7be15d3582ab73c9adf75483e7e452e2f79658b456",
+      "bytes": 1701673,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 438,
+      "caption": "意想不到",
+      "series": "惊讶",
+      "path": "stickers/438-意想不到.png",
+      "scene": "She opens a little box and a harmless spring star pops out.",
+      "sha256": "1e3043053a63a4570263497b1f82493cb0045de74a1c4016d20fd22ccebb4344",
+      "bytes": 1841547,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 439,
+      "caption": "我的天呐",
+      "series": "惊讶",
+      "path": "stickers/439-我的天呐.png",
+      "scene": "She places both hands on her head, astonished open mouth.",
+      "sha256": "5246a9fa325f19fcb8ccbdec5b81741df30bf662a8da0f7da622fe81627fc59d",
+      "bytes": 1914158,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 440,
+      "caption": "心跳漏一拍",
+      "series": "惊讶",
+      "path": "stickers/440-心跳漏一拍.png",
+      "scene": "She clutches a little heart-shaped pillow against chest, startled blush.",
+      "sha256": "85be18185ff8583d64a4e8ec957660247bf5986aead1cd4a38d0653fbb964928",
+      "bytes": 1868288,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
       "id": 471,
       "caption": "再试一次",
       "series": "努力",
@@ -3990,6 +4060,106 @@
       "scene": "She plants feet firmly and points a thumb toward herself.",
       "sha256": "03f8b002d3e962878a81048cac87d8db3725fb287b66c909cb519f8aa29d8c97",
       "bytes": 1781306,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 477,
+      "caption": "攒点小勇气",
+      "series": "努力",
+      "path": "stickers/477-攒点小勇气.png",
+      "scene": "She drops a tiny star into a heart-shaped courage jar.",
+      "sha256": "02125c7f1538398f0361d4f527a7a8d2220a31e77836f84ed931599bf11367bc",
+      "bytes": 1857050,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 478,
+      "caption": "先迈一小步",
+      "series": "努力",
+      "path": "stickers/478-先迈一小步.png",
+      "scene": "She carefully steps over a tiny pebble, arms out for balance.",
+      "sha256": "df66c6c4ae34529b714123d3e5ea6d176e01afce809368e65ca526e9357e15f1",
+      "bytes": 1783724,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 479,
+      "caption": "慢也在前进",
+      "series": "努力",
+      "path": "stickers/479-慢也在前进.png",
+      "scene": "She rides a friendly little turtle while holding a small blank flag.",
+      "sha256": "833943828202d111e9f5991783ceb83109a559938969aec608811f547f91281f",
+      "bytes": 1919585,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 480,
+      "caption": "努力有回声",
+      "series": "努力",
+      "path": "stickers/480-努力有回声.png",
+      "scene": "She cups hands to call toward a little hill, echo arcs as shapes.",
+      "sha256": "249edc3a125a7585ea59bcee1782be4528bf29b0a608ff109b8601d01d2648cd",
+      "bytes": 1800203,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 481,
+      "caption": "好期待呀",
+      "series": "期待",
+      "path": "stickers/481-好期待呀.png",
+      "scene": "She clasps hands under chin with sparkling huge blue eyes.",
+      "sha256": "c67ad5b7b02c7a34d2af36fbb3b8efe989025e1043f9ba1d4f81336f3a2fa331",
+      "bytes": 1866142,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 482,
+      "caption": "搓手等一个",
+      "series": "期待",
+      "path": "stickers/482-搓手等一个.png",
+      "scene": "She rubs both hands eagerly in front of chest, excited grin.",
+      "sha256": "a44c78f00aaddae2f8a09cb2f910f6a39368864e87ce3c221dfea49bd4dae16f",
+      "bytes": 1894208,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 483,
+      "caption": "礼物快来吧",
+      "series": "期待",
+      "path": "stickers/483-礼物快来吧.png",
+      "scene": "She hugs a small unopened ribbon gift and looks at it hopefully.",
+      "sha256": "17f9cb074534a1f0cfd56f7911fa057bafe82ee465732a3c3505c14966da6093",
+      "bytes": 1844105,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 484,
+      "caption": "什么时候呀",
+      "series": "期待",
+      "path": "stickers/484-什么时候呀.png",
+      "scene": "She gazes eagerly at a little calendar with blank squares.",
+      "sha256": "b47bfb16a2ea7f9336f4ac2af029f577c0f8f10f8ff9edc46a14b035f5a051e5",
+      "bytes": 1853008,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 485,
+      "caption": "已经等不及",
+      "series": "期待",
+      "path": "stickers/485-已经等不及.png",
+      "scene": "She bounces on tiptoes with hands behind back, wide excited eyes.",
+      "sha256": "9cfdadb6f3ca33822d681d3d34ca9cd3cc790f91f1d97e6c0a59e0e89e6cd0e6",
+      "bytes": 1886645,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 486,
+      "caption": "好运快降临",
+      "series": "期待",
+      "path": "stickers/486-好运快降临.png",
+      "scene": "She holds a four-leaf clover under a soft shooting star.",
+      "sha256": "c083963f5ab7aae98a28c404c5d9838a542b07b82719f6eb68ad60d51f091dc5",
+      "bytes": 1977957,
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     }
   ]
