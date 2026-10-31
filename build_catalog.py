@@ -101,6 +101,7 @@ def build():
 **{state}：{len(complete)} / {TARGET} 张。** 每张独立绘制，统一橘发蓝眼、白领粉衣小熊形象。图片以实际落盘文件计数。
 {quota_note}
 
+- [下载 {len(complete)} 张整包](https://github.com/TonyLiangP2010405/taozi-stickers/archive/refs/heads/main.zip)：解压后打开 `index.html` 浏览和搜索。
 - [全部图片](stickers/)：三位编号 + 中文文案，透明 PNG。
 - [完整索引](catalog.json)：文案、主题、路径、SHA-256 校验值。
 - [500 张制作目录](plan.json)：计划中的完整文案和主题；图片是否已完成以完整索引为准。

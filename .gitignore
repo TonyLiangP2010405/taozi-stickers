@@ -11,3 +11,4 @@
 /调研与创作说明.md
 /output/
 __pycache__/
+progress-*.lock

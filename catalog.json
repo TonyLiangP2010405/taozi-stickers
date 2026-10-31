@@ -1,6 +1,6 @@
 {
   "target": 500,
-  "completed": 392,
+  "completed": 399,
   "items": [
     {
       "id": 1,
@@ -2843,6 +2843,66 @@
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {
+      "id": 285,
+      "caption": "节拍抓住啦",
+      "series": "歌粉与唱歌",
+      "path": "stickers/285-节拍抓住啦.png",
+      "scene": "tap a small tambourine with a proud rhythmic grin",
+      "sha256": "e3b1d25cf8af387b6ba7a226b9bd3821fbf7f98e190b10d25c2dfaba782f3a2c",
+      "bytes": 1806437,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 286,
+      "caption": "跑调也快乐",
+      "series": "歌粉与唱歌",
+      "path": "stickers/286-跑调也快乐.png",
+      "scene": "sing dramatically with a microphone tilted upward and silly wavy notes",
+      "sha256": "542d697f3f7b292dcdfd0d0676a47b7ce5dfe1b02b3eef151959509dbdbb5c10",
+      "bytes": 1892643,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 287,
+      "caption": "给桃纸和声",
+      "series": "歌粉与唱歌",
+      "path": "stickers/287-给桃纸和声.png",
+      "scene": "cup one hand behind the ear inviting the viewer to sing along",
+      "sha256": "a8d04d32e7e3ed516839db88dc45ff77b42419c191588e8b59c3637e8aada371",
+      "bytes": 1788646,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 288,
+      "caption": "下一首预备",
+      "series": "歌粉与唱歌",
+      "path": "stickers/288-下一首预备.png",
+      "scene": "flip a blank song card while eagerly gripping a microphone",
+      "sha256": "3f49c3d9cc892805ed09569430652f999a5fa329913dd590bfa6205a667232c9",
+      "bytes": 1916163,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 289,
+      "caption": "麦克风归我",
+      "series": "歌粉与唱歌",
+      "path": "stickers/289-麦克风归我.png",
+      "scene": "hug a microphone stand protectively with a mischievous pout",
+      "sha256": "0a7137453357d5fee42f74ed8b265cfc33ef3ec1990996a32a18a2778bc55b57",
+      "bytes": 1766885,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 290,
+      "caption": "今天唱开心",
+      "series": "歌粉与唱歌",
+      "path": "stickers/290-今天唱开心.png",
+      "scene": "dance with a tiny handheld mic, hair swishing and huge cheerful eyes",
+      "sha256": "19fd490b50eae2f948da8132bf9418c2f57cdb152e0e5c373835f98f9ddcb16b",
+      "bytes": 2007521,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
       "id": 331,
       "caption": "桃子来啦",
       "series": "日常招呼",
@@ -3920,6 +3980,16 @@
       "scene": "She tightens a little headband with both hands, resolute smile.",
       "sha256": "77fb09ceb55baa70f1269b92791fc799fff3800a5728cae9982a9340620d3805",
       "bytes": 1985274,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 476,
+      "caption": "我能做到的",
+      "series": "努力",
+      "path": "stickers/476-我能做到的.png",
+      "scene": "She plants feet firmly and points a thumb toward herself.",
+      "sha256": "03f8b002d3e962878a81048cac87d8db3725fb287b66c909cb519f8aa29d8c97",
+      "bytes": 1781306,
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     }
   ]
