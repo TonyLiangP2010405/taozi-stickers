@@ -1,6 +1,6 @@
 {
   "target": 500,
-  "completed": 478,
+  "completed": 500,
   "items": [
     {
       "id": 1,
@@ -3143,6 +3143,66 @@
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {
+      "id": 315,
+      "caption": "小心意收好",
+      "series": "感谢观众",
+      "path": "stickers/315-小心意收好.png",
+      "scene": "offer a tiny wrapped gift tied with a peach-colored ribbon",
+      "sha256": "bf0bf4437d019f96333f583c91855641f4c6ed1609254096904015acdde03c25",
+      "bytes": 1840984,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 316,
+      "caption": "谢谢你等我",
+      "series": "感谢观众",
+      "path": "stickers/316-谢谢你等我.png",
+      "scene": "hurry into view holding a little hourglass with an apologetic warm smile",
+      "sha256": "b74be7b821b46844ae68b23cfa035f70054f1ac9e447653cb8c1a76610fa8c59",
+      "bytes": 1819514,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 317,
+      "caption": "桃纸鞠个躬",
+      "series": "感谢观众",
+      "path": "stickers/317-桃纸鞠个躬.png",
+      "scene": "make a deep cute polite bow with long orange hair falling forward",
+      "sha256": "219c4fe28a2bda1e8f586d22f08892d79270020b24272d4bd51736b482cce4be",
+      "bytes": 1742848,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 318,
+      "caption": "记得照顾自己",
+      "series": "感谢观众",
+      "path": "stickers/318-记得照顾自己.png",
+      "scene": "offer a warm scarf and mug with a caring gentle expression",
+      "sha256": "db4c60b1340aed1a785ad9ba891fadaeb107efc4312e0e098fa55e0e81a47c14",
+      "bytes": 1861948,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 319,
+      "caption": "给你比颗心",
+      "series": "感谢观众",
+      "path": "stickers/319-给你比颗心.png",
+      "scene": "make a big heart shape with both hands, eyes smiling brightly",
+      "sha256": "41ecb400a51743ce38e7ac8188a7ba6a232f671207f534b4b97ac007f4e255b8",
+      "bytes": 1828132,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 320,
+      "caption": "感谢装满啦",
+      "series": "感谢观众",
+      "path": "stickers/320-感谢装满啦.png",
+      "scene": "hug a basket overflowing with tiny peach-shaped hearts",
+      "sha256": "e384c25c02675fcd102320d119b9d03b2548b26308c024782206394ddb65a805",
+      "bytes": 1973096,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
       "id": 321,
       "caption": "小桃一起冲",
       "series": "社区应援",
@@ -3163,6 +3223,16 @@
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {
+      "id": 323,
+      "caption": "桃友来碰拳",
+      "series": "社区应援",
+      "path": "stickers/323-桃友来碰拳.png",
+      "scene": "lean forward to offer one closed cartoon fist toward the viewer in a friendly fist bump; keep the other closed fist beside her chest, cheerful smile",
+      "sha256": "6db64167c85e55f91ed9bd4cfc391f8eaec42a7fc19f78e081d6440baeda8690",
+      "bytes": 1846239,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
       "id": 324,
       "caption": "今天也加油",
       "series": "社区应援",
@@ -3180,6 +3250,56 @@
       "scene": "stand beside a large peach-shaped cushion holding it protectively with joy",
       "sha256": "a41f9d806a321d5497ea8daa775f8d7478e7dfa6672b85c3b6c2cc2e0d14e5c2",
       "bytes": 1836017,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 326,
+      "caption": "桃友坐一桌",
+      "series": "社区应援",
+      "path": "stickers/326-桃友坐一桌.png",
+      "scene": "sit at a tiny round table with two peach mascots and steaming mugs",
+      "sha256": "4c95714dbeed8f5a02a321418d6aa842ccbf0f1ac0771bf21511186899220a01",
+      "bytes": 1876508,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 327,
+      "caption": "应援灯亮啦",
+      "series": "社区应援",
+      "path": "stickers/327-应援灯亮啦.png",
+      "scene": "hold two glowing peach-colored light sticks above the head",
+      "sha256": "d72fe0f6f19f53c7984b1255ac15b5ac30b81528731d6fd7daf68fb44590ab2c",
+      "bytes": 1906272,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 328,
+      "caption": "团结一颗桃",
+      "series": "社区应援",
+      "path": "stickers/328-团结一颗桃.png",
+      "scene": "hug two tiny peach mascots into one cheerful group cuddle",
+      "sha256": "1c0dbc9514744b83d03729ff0faa0e26f5a94c1020aef02a995c4bb5c1b61dd3",
+      "bytes": 1819560,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 329,
+      "caption": "快乐不散场",
+      "series": "社区应援",
+      "path": "stickers/329-快乐不散场.png",
+      "scene": "toss a few heart-shaped confetti pieces while smiling at the viewer",
+      "sha256": "bf9f13356817fe2d7a3b42831636e6883e2a8394f4d2c804d7412cf3a04e4731",
+      "bytes": 1907205,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 330,
+      "caption": "桃纸陪着你",
+      "series": "社区应援",
+      "path": "stickers/330-桃纸陪着你.png",
+      "scene": "sit beside an empty comfy cushion and pat it invitingly with a gentle smile",
+      "sha256": "f386e2daa3abd8ad3e763659b0309f4c2c6e96d3981e2b572d218f9bebd45c9d",
+      "bytes": 1725395,
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {
@@ -4480,6 +4600,106 @@
       "scene": "She tends a small sprout growing from a cracked pot, hopeful smile.",
       "sha256": "db327861c89e614f51388409ad1d97500fa9a8932908e75321c0a1b4eae5998c",
       "bytes": 1844060,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 461,
+      "caption": "今天先摆了",
+      "series": "摆烂",
+      "path": "stickers/461-今天先摆了.png",
+      "scene": "She lounges sideways in a small beanbag chair, one hand dangling.",
+      "sha256": "d1f8c0ea1164557939a892467f036fd16e11b30d777cdf3f8c1545fa3e15c0b0",
+      "bytes": 1877432,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 462,
+      "caption": "躺平也是赢",
+      "series": "摆烂",
+      "path": "stickers/462-躺平也是赢.png",
+      "scene": "She lies comfortably on a tiny picnic mat with a smug relaxed smile.",
+      "sha256": "4ceaab8a4bf556582cb17f03ddf1a87ed3eeb6fe33d4c45f7aef6e3024274c62",
+      "bytes": 2016978,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 463,
+      "caption": "随便都可以",
+      "series": "摆烂",
+      "path": "stickers/463-随便都可以.png",
+      "scene": "She shrugs both shoulders with palms open, easygoing half-smile.",
+      "sha256": "c29c4b3b10cd824456c8056c6767bdd45b470344f8a8e999d7326851a7de85ce",
+      "bytes": 1795852,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 464,
+      "caption": "佛系一点啦",
+      "series": "摆烂",
+      "path": "stickers/464-佛系一点啦.png",
+      "scene": "She sits peacefully cross-legged with hands resting on knees and a tiny lotus.",
+      "sha256": "65ab98d570186ab1cebbc3b911da889b4f0981ee2530fbf25c14862fd22ec9e8",
+      "bytes": 1801027,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 465,
+      "caption": "能躺就不坐",
+      "series": "摆烂",
+      "path": "stickers/465-能躺就不坐.png",
+      "scene": "She sprawls across two soft pillows, blissful closed eyes.",
+      "sha256": "df20853923bbd99709deecac7e815e67c90878ce27685a1d42a2bdb0f467df7f",
+      "bytes": 1932252,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 466,
+      "caption": "先放过自己",
+      "series": "摆烂",
+      "path": "stickers/466-先放过自己.png",
+      "scene": "She loosens a little tied ribbon around a task folder and smiles gently.",
+      "sha256": "66e52c5b46f1934222ee05c3c1e0ed278329a81e97c47b2e5ea6bd0e0e17a485",
+      "bytes": 1779231,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 467,
+      "caption": "懒桃营业中",
+      "series": "摆烂",
+      "path": "stickers/467-懒桃营业中.png",
+      "scene": "She rolls slowly inside a blanket burrito, only face visible.",
+      "sha256": "b6c8bc41f62d1c640dd9e67d9f7285c197cb98e3bfb8c9f7d6a4cfa170f3dbd2",
+      "bytes": 1959450,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 468,
+      "caption": "不想动一点",
+      "series": "摆烂",
+      "path": "stickers/468-不想动一点.png",
+      "scene": "She reaches lazily for a cookie just beyond her fingertips.",
+      "sha256": "2a25fd1ce74d1198ed3abf72c6c6a6d73b0ebcb0bc30da4387b5b14babf967c0",
+      "bytes": 1757824,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 469,
+      "caption": "明日再努力",
+      "series": "摆烂",
+      "path": "stickers/469-明日再努力.png",
+      "scene": "She places a tiny blank to-do list under a pillow and grins.",
+      "sha256": "172ab35915a5a5723290351ec1227e6725def287af0197d87a504094ede5a17f",
+      "bytes": 1922578,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 470,
+      "caption": "今天就这样",
+      "series": "摆烂",
+      "path": "stickers/470-今天就这样.png",
+      "scene": "She shuts a little notebook decisively and stretches backward.",
+      "sha256": "0549b9de15a4c5b91d59af3579b296a32d6f9c35f0f116409c2ab6bc25b52968",
+      "bytes": 1829195,
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {

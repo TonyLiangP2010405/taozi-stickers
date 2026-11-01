@@ -1,60 +1,18 @@
 {
-  "state": "generating",
+  "state": "complete",
   "target": 500,
-  "completed": 478,
-  "remaining": 22,
-  "reason": "2026-10-31内置ImageGen恢复，已成功生成476号，继续补齐实际缺失编号。",
-  "resume_after": "2026-10-30T21:02:41+08:00",
-  "resume_ranges": [
-    {
-      "from": 315,
-      "to": 320,
-      "count": 6
-    },
-    {
-      "from": 323,
-      "to": 323,
-      "count": 1
-    },
-    {
-      "from": 326,
-      "to": 330,
-      "count": 5
-    },
-    {
-      "from": 461,
-      "to": 470,
-      "count": 10
-    }
-  ],
+  "completed": 500,
+  "remaining": 0,
+  "reason": "500张已全部生成并逐张目视通过，文件完整性、透明通道、编号、文案及画廊引用检查通过。",
+  "resume_after": null,
+  "resume_ranges": [],
   "generation_mode": "built-in ImageGen",
-  "missing_ids": [
-    315,
-    316,
-    317,
-    318,
-    319,
-    320,
-    323,
-    326,
-    327,
-    328,
-    329,
-    330,
-    461,
-    462,
-    463,
-    464,
-    465,
-    466,
-    467,
-    468,
-    469,
-    470
-  ],
+  "missing_ids": [],
   "automatic_resume": {
     "enabled": true,
     "schedule": "每日21:10（Asia/Shanghai），从2026-10-30开始，补齐500张后停止"
   },
-  "resumed_at": "2026-10-31T21:20:27.790658+08:00"
+  "resumed_at": "2026-10-31T21:20:27.790658+08:00",
+  "completed_at": "2026-11-01T21:48:30.923869+08:00",
+  "last_quota_reset": "2026-10-30T21:02:41+08:00"
 }
