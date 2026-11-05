@@ -1,19 +1,19 @@
 {
-  "state": "complete",
-  "target": 500,
-  "completed": 500,
+  "state": "publishing",
+  "target": 600,
+  "completed": 600,
   "remaining": 0,
-  "reason": "500张成图已逐张目视检查并通过完整性、透明通道、文案唯一性及索引检查，已同步公开GitHub仓库。",
+  "reason": "600张成图均已逐张查看，并通过PNG完整性、透明通道、文案唯一性与画廊引用校验；正在同步GitHub并核验远端。",
   "resume_after": null,
   "resume_ranges": [],
   "generation_mode": "built-in ImageGen",
   "missing_ids": [],
   "automatic_resume": {
     "enabled": false,
-    "reason": "500张已完成并核验远端，自动续做任务500已删除。"
+    "reason": "本轮正在继续制作。"
   },
   "resumed_at": "2026-10-31T21:20:27.790658+08:00",
-  "completed_at": "2026-11-01T21:48:30.923869+08:00",
+  "completed_at": null,
   "last_quota_reset": "2026-10-30T21:02:41+08:00",
   "publication": {
     "repository": "https://github.com/TonyLiangP2010405/taozi-stickers",

@@ -1,6 +1,6 @@
 {
-  "target": 500,
-  "completed": 500,
+  "target": 600,
+  "completed": 600,
   "items": [
     {
       "id": 1,
@@ -5000,6 +5000,1006 @@
       "scene": "She twirls holding a sparkling star wand, little festive stars around.",
       "sha256": "ad8b830ef16326d434db23b3740f841442391d6f58f4c9b35819a3167531825d",
       "bytes": 2077556,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 501,
+      "caption": "摄像头看这里",
+      "series": "直播日常加餐",
+      "path": "stickers/501-摄像头看这里.png",
+      "scene": "一手扶小摄像机，一手放膝头，认真把脸凑近镜头",
+      "sha256": "35c77770ed7a1f2da0c5203c4f32315836d4ff0dedd16a75cae629d0310041f0",
+      "bytes": 1784649,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 502,
+      "caption": "桃纸试个音",
+      "series": "直播日常加餐",
+      "path": "stickers/502-桃纸试个音.png",
+      "scene": "一手扶耳机，一手握麦克风，嘴巴圆圆地试音",
+      "sha256": "c14d6ac7456e0b78f6a074b203d6d5f67bdb226fabda0cb27cca90b8539580cb",
+      "bytes": 1590158,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 503,
+      "caption": "网线别闹啦",
+      "series": "直播日常加餐",
+      "path": "stickers/503-网线别闹啦.png",
+      "scene": "双手捧着松脱的一根网线，错愕地看着接头",
+      "sha256": "f8ef394439d30cf5545d3124d29b19d7c4b2881dde65d2d9aa4315a809fbc463",
+      "bytes": 1580039,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 504,
+      "caption": "卡成小幻灯",
+      "series": "直播日常加餐",
+      "path": "stickers/504-卡成小幻灯.png",
+      "scene": "双手扶脸颊，一旁漂浮三张空白小画框暗示卡顿",
+      "sha256": "687414f8102b91db390650e785a8da8706a57eea41d7a147a428139af5d47bf1",
+      "bytes": 1856025,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 505,
+      "caption": "主播先存档",
+      "series": "直播日常加餐",
+      "path": "stickers/505-主播先存档.png",
+      "scene": "一手把磁盘放入小存档盒，一手稳住盒子",
+      "sha256": "29aa1f6bdc7083a1ffa654380b5e788d43d7292316fc1109c808f03f4328af49",
+      "bytes": 1571610,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 506,
+      "caption": "椅子会封印",
+      "series": "直播日常加餐",
+      "path": "stickers/506-椅子会封印.png",
+      "scene": "两手搭在扶手，身体陷进软椅，惊讶地动弹不得",
+      "sha256": "74112d6693a713901709b4d8150572508afc58cd71937f2d38499e1691d8cc2f",
+      "bytes": 1795021,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 507,
+      "caption": "这段剪下来",
+      "series": "直播日常加餐",
+      "path": "stickers/507-这段剪下来.png",
+      "scene": "一手握圆头小剪刀，一手举空白胶片，得意眨眼",
+      "sha256": "ed6b3671fc5d5b89f7c1f71b97b57299613acc1f4fe08ffe1ab32f7bb441836b",
+      "bytes": 1597734,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 508,
+      "caption": "耳机戴反啦",
+      "series": "直播日常加餐",
+      "path": "stickers/508-耳机戴反啦.png",
+      "scene": "双手调整戴反的小耳机，尴尬鼓腮",
+      "sha256": "0cfc5298fb7a282235723e0e0eb91a05fbea9b7259d03f510e73352dab481dc4",
+      "bytes": 1596179,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 509,
+      "caption": "直播间蹲好了",
+      "series": "直播日常加餐",
+      "path": "stickers/509-直播间蹲好了.png",
+      "scene": "双手抱膝蹲在小坐垫上，眼神期待",
+      "sha256": "d60c061a23f22c04f7ca50a7183c673c68d3671763f3224ebcb43669767febb0",
+      "bytes": 1460158,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 510,
+      "caption": "桃纸已就位",
+      "series": "直播日常加餐",
+      "path": "stickers/510-桃纸已就位.png",
+      "scene": "双手握游戏手柄，坐直精神抖擞",
+      "sha256": "7f77b9c93e11761be62c4cf705649684e24c572d18a8c5bdbf78ad8a54bf5c60",
+      "bytes": 1683057,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 511,
+      "caption": "萝卜比桃高",
+      "series": "田园新节目",
+      "path": "stickers/511-萝卜比桃高.png",
+      "scene": "一手扶巨大的萝卜，一手叉腰，仰头惊叹",
+      "sha256": "0485290dc9d726fb04886ec00902c12b4e60d4d097d9c035d3b6a656e09645c8",
+      "bytes": 1637911,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 512,
+      "caption": "稻草人上岗",
+      "series": "田园新节目",
+      "path": "stickers/512-稻草人上岗.png",
+      "scene": "双手替旁边小稻草人整理草帽，笑得认真",
+      "sha256": "d528ff97f6e29d938b254d2e436df4ad863cf74863a149225c1d4a109ed78a22",
+      "bytes": 1890691,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 513,
+      "caption": "洒水器立功",
+      "series": "田园新节目",
+      "path": "stickers/513-洒水器立功.png",
+      "scene": "双手叉腰得意看着一只正在喷水的小洒水器",
+      "sha256": "df554f9621064dc5336c9b681ae5cfc032875df58275f7ade74056522bd17594",
+      "bytes": 1646174,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 514,
+      "caption": "小苗晒太阳",
+      "series": "田园新节目",
+      "path": "stickers/514-小苗晒太阳.png",
+      "scene": "双手托着一盆嫩苗，朝旁边的小太阳图形微笑",
+      "sha256": "f53eec6e3ad237218510cbf90311c9def9f740f80418302437ff84ca85bfc19b",
+      "bytes": 1616230,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 515,
+      "caption": "蜂蜜装满罐",
+      "series": "田园新节目",
+      "path": "stickers/515-蜂蜜装满罐.png",
+      "scene": "一手捧蜂蜜罐，一手举沾蜜木棒，开心看着蜂蜜",
+      "sha256": "fe24a5edd9b4b0e97aa3546557d9627bf083bde28f856dce1f0f2d870eaf0fb6",
+      "bytes": 1628108,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 516,
+      "caption": "仓鼠都羡慕",
+      "series": "田园新节目",
+      "path": "stickers/516-仓鼠都羡慕.png",
+      "scene": "双手抱着一小袋鼓鼓的谷粒，旁边一只羡慕仓鼠",
+      "sha256": "1b3fbdf46db9f6a597b2ecf291c74e5916106d047185bed1ae95b487ae1da018",
+      "bytes": 1694878,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 517,
+      "caption": "南瓜坐不下",
+      "series": "田园新节目",
+      "path": "stickers/517-南瓜坐不下.png",
+      "scene": "双手扶着身下巨大的橙色南瓜，歪坐着苦恼",
+      "sha256": "116ee016c5b0a44388600e36a13588ce02a48677aba6a5cd32aed9fd252eb8fe",
+      "bytes": 1522057,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 518,
+      "caption": "今天卖花啦",
+      "series": "田园新节目",
+      "path": "stickers/518-今天卖花啦.png",
+      "scene": "双手捧一束向日葵，开心探头",
+      "sha256": "5873cc9a0dbd66f93961e426a74d9aeff434992a4d732c71f7b941d0f6fd29d1",
+      "bytes": 1699136,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 519,
+      "caption": "果树摇一摇",
+      "series": "田园新节目",
+      "path": "stickers/519-果树摇一摇.png",
+      "scene": "双手抱着一根小果树树干轻摇，苹果落在旁边筐里",
+      "sha256": "20ac08c4f1f070d2dc3260ba06c549c4d50d914aa2b700f0b4f73a91576516e4",
+      "bytes": 1874513,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 520,
+      "caption": "把春天种下",
+      "series": "田园新节目",
+      "path": "stickers/520-把春天种下.png",
+      "scene": "一手捏一粒种子，一手扶小花盆，温柔低头",
+      "sha256": "b4292e647a394ce85e0fc480416be2342f0bd1139a05fb2fdc3011cc49acad6d",
+      "bytes": 1494131,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 521,
+      "caption": "浮漂动了哇",
+      "series": "钓鱼新节目",
+      "path": "stickers/521-浮漂动了哇.png",
+      "scene": "一手握鱼竿，一手贴胸，瞪大眼睛盯小浮漂",
+      "sha256": "749e3e1feda00eba09eb1c2ee69192f220ca4aaa0f02d384b20b5131b4573046",
+      "bytes": 1687111,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 522,
+      "caption": "鱼比桶还大",
+      "series": "钓鱼新节目",
+      "path": "stickers/522-鱼比桶还大.png",
+      "scene": "双手环抱大鱼，旁边空小桶，惊喜又为难",
+      "sha256": "6e87fb74ad38a9d9be70e296a2313b0c8c79de3ba67235e432d04a30fc3b0526",
+      "bytes": 1699501,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 523,
+      "caption": "今日放生官",
+      "series": "钓鱼新节目",
+      "path": "stickers/523-今日放生官.png",
+      "scene": "双手轻托小鱼向一小片水花放去，微笑告别",
+      "sha256": "611248faa3bb0d7772baedc964d63134d2b138cbe1e830196ca21824d99aec3b",
+      "bytes": 1623898,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 524,
+      "caption": "鱼饵先保密",
+      "series": "钓鱼新节目",
+      "path": "stickers/524-鱼饵先保密.png",
+      "scene": "双手把鱼饵小盒护在胸前，狡黠眨眼",
+      "sha256": "827f97bfcbd9daf5b76dd12546030d941e057f062df58ac9fb2eceab9e82fc3a",
+      "bytes": 1563958,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 525,
+      "caption": "水草也算收获",
+      "series": "钓鱼新节目",
+      "path": "stickers/525-水草也算收获.png",
+      "scene": "一手提钓竿，一手捏一团绿水草，苦笑",
+      "sha256": "82d4d3d28dec9a1107f5c46420fddabd2de70ac9bd002a9d430c34e7eecca461",
+      "bytes": 1755409,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 526,
+      "caption": "别咬我的漂",
+      "series": "钓鱼新节目",
+      "path": "stickers/526-别咬我的漂.png",
+      "scene": "双手握钓竿，看着小鱼啃浮漂，惊讶鼓脸",
+      "sha256": "80c3dc51283dc8a28d55154eae2c9e34b21542278732fc0eb2df87599992b60a",
+      "bytes": 1691016,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 527,
+      "caption": "鱼篓装不下",
+      "series": "钓鱼新节目",
+      "path": "stickers/527-鱼篓装不下.png",
+      "scene": "双手抱满满鱼篓，身体后仰吃力",
+      "sha256": "58671b0fdc8918f534f3597249c89d554ac34c5fcd5bef2f3e86437ebbcdc8bb",
+      "bytes": 1803670,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 528,
+      "caption": "这条要合影",
+      "series": "钓鱼新节目",
+      "path": "stickers/528-这条要合影.png",
+      "scene": "一手抱小鱼，一手握小相机面朝自己，笑得灿烂",
+      "sha256": "394bbbd10141607930f68d5824e43918c18c2819852f2779b48f003c4fb007be",
+      "bytes": 1712383,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 529,
+      "caption": "钓鱼要有仪式",
+      "series": "钓鱼新节目",
+      "path": "stickers/529-钓鱼要有仪式.png",
+      "scene": "双手将小草帽端正戴在头顶，鱼竿靠在身边",
+      "sha256": "aaf2a6384227f9b3e2aeb0640a65dbbaae79925ebc1952822433fb7c6aa69bd4",
+      "bytes": 1727195,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 530,
+      "caption": "坐等鱼来夸",
+      "series": "钓鱼新节目",
+      "path": "stickers/530-坐等鱼来夸.png",
+      "scene": "双手放膝头坐在小板凳，得意看水面",
+      "sha256": "06aa32b829363e5caf38abb2ec8e346fb7bee22bf277f01122ecb58311b665ab",
+      "bytes": 1675829,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 531,
+      "caption": "猫把位置占了",
+      "series": "家园与萌宠",
+      "path": "stickers/531-猫把位置占了.png",
+      "scene": "两手自然下垂，站在被小猫占据的软椅旁，无奈微笑",
+      "sha256": "84155da4fef6fad2024b36d01f61893ae8c42381a936015f7b1f22c8c9420829",
+      "bytes": 1668748,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 532,
+      "caption": "给小熊缝个家",
+      "series": "家园与萌宠",
+      "path": "stickers/532-给小熊缝个家.png",
+      "scene": "一手举小玩具屋屋顶，一手稳住屋身，旁边黄熊玩偶",
+      "sha256": "86656c96ba248a1dc1cd9dd265537a59ffd7d9e3de79aa199bfb6db0abab3ec0",
+      "bytes": 1998163,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 533,
+      "caption": "地毯铺歪啦",
+      "series": "家园与萌宠",
+      "path": "stickers/533-地毯铺歪啦.png",
+      "scene": "双手揪着卷起的小地毯边，歪头困惑",
+      "sha256": "7a0e66c46e2c1fff5c210533a6d9b85e9e62e4ed2e651b9aa759cd837145d469",
+      "bytes": 1785994,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 534,
+      "caption": "花瓶往左挪",
+      "series": "家园与萌宠",
+      "path": "stickers/534-花瓶往左挪.png",
+      "scene": "双手搬一只小花瓶，向左迈小步，专注",
+      "sha256": "b19bbda572531a7ef896842e821a269b5fb03380979f028862df2aeb241a0e91",
+      "bytes": 1625058,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 535,
+      "caption": "新窝请验收",
+      "series": "家园与萌宠",
+      "path": "stickers/535-新窝请验收.png",
+      "scene": "一手掀开玩具小屋门帘，一手叉腰，得意邀请",
+      "sha256": "eaf32f8df5fe8efa89a867dbc5190e5f2d2ae82c120ce772148fef84b946a431",
+      "bytes": 1905968,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 536,
+      "caption": "小鸡跟班队",
+      "series": "家园与萌宠",
+      "path": "stickers/536-小鸡跟班队.png",
+      "scene": "双手背在身后昂首走路，三只小鸡跟在脚边",
+      "sha256": "5a6b9aab51aa5fb9f3e73682f7d9abf1c7b46d9ec1fe106f955234c9d2859201",
+      "bytes": 1522411,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 537,
+      "caption": "抱到毛茸茸",
+      "series": "家园与萌宠",
+      "path": "stickers/537-抱到毛茸茸.png",
+      "scene": "双手抱一只圆圆绵羊，脸埋进软毛，幸福",
+      "sha256": "63fc3195776475a6d5c6307f9aa0497af103cf8674b026c9b439caa7fd4e77c8",
+      "bytes": 1809719,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 538,
+      "caption": "猫猫给面子",
+      "series": "家园与萌宠",
+      "path": "stickers/538-猫猫给面子.png",
+      "scene": "一手托下巴，一手摊在小猫面前，小猫用爪轻碰",
+      "sha256": "680e98d45b812e6083c2100d1c37be1c92769240eb2552af7dde7c0c88cd1abb",
+      "bytes": 1710937,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 539,
+      "caption": "狗狗来巡田",
+      "series": "家园与萌宠",
+      "path": "stickers/539-狗狗来巡田.png",
+      "scene": "一手握小狗牵绳，一手指前方，开心出发",
+      "sha256": "e41010280199879cc88622fac445d98dacb064415164e98554856471d0fe3da9",
+      "bytes": 1832390,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 540,
+      "caption": "枕头争夺赛",
+      "series": "家园与萌宠",
+      "path": "stickers/540-枕头争夺赛.png",
+      "scene": "双手抱紧软枕，枕头另一角被小猫趴住，鼓腮",
+      "sha256": "759860855048066727cd3872b96fc25a129beb2cd9b86ba8b65e98b3fe653baa",
+      "bytes": 1818016,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 541,
+      "caption": "洞口有回声",
+      "series": "探索小冒险",
+      "path": "stickers/541-洞口有回声.png",
+      "scene": "一手放嘴边呼喊，一手握小手电，面对迷你洞口",
+      "sha256": "822601c3084b0cd58ecb6413b87f95fc3140dce2de47b3fc2159f21473aed454",
+      "bytes": 1827130,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 542,
+      "caption": "宝箱先敲敲",
+      "series": "探索小冒险",
+      "path": "stickers/542-宝箱先敲敲.png",
+      "scene": "一手轻敲小宝箱，一手扶宝箱边缘，警惕眯眼",
+      "sha256": "382278add2bf2b2124cdefd7e303f523f8581ae15faff04785f6e7d349d522b3",
+      "bytes": 1586968,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 543,
+      "caption": "桥这边等我",
+      "series": "探索小冒险",
+      "path": "stickers/543-桥这边等我.png",
+      "scene": "一手扶小绳桥绳索，一手抱胸，试探迈步",
+      "sha256": "9bdf8f3615fca93d189ac6f0c6d8f2318b099eed2d4d2d9c3cbd3597599cc7c1",
+      "bytes": 1897639,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 544,
+      "caption": "蘑菇伞借一下",
+      "series": "探索小冒险",
+      "path": "stickers/544-蘑菇伞借一下.png",
+      "scene": "双手握一根大蘑菇柄把它当伞，淘气笑",
+      "sha256": "9bfdd1b9326670c823a46a6f514078e68a5a1a251446f84448631c2905b22f06",
+      "bytes": 1667221,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 545,
+      "caption": "背包压住桃",
+      "series": "探索小冒险",
+      "path": "stickers/545-背包压住桃.png",
+      "scene": "双手拉背包肩带，被鼓鼓的背包压得弯腰",
+      "sha256": "c87ae16d3694c108046c3919b5df2a9885192eeab1e5b0ef4354a07850c25e84",
+      "bytes": 1933335,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 546,
+      "caption": "小路也探完",
+      "series": "探索小冒险",
+      "path": "stickers/546-小路也探完.png",
+      "scene": "一手拿卷地图，一手握登山杖，认真看脚边路标",
+      "sha256": "4ce0bfe03747b447f0429cc9fa9d9e8d680a6ae2f18bb4c1ad9e37112082e87c",
+      "bytes": 1778391,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 547,
+      "caption": "发现隐藏角落",
+      "series": "探索小冒险",
+      "path": "stickers/547-发现隐藏角落.png",
+      "scene": "一手拨开大叶片，一手举小灯笼，惊喜探头",
+      "sha256": "ae14a1c5f58dd83930096cdd5d2ea37f9f28b6a2e093ac3d2369d914faaf1429",
+      "bytes": 1969685,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 548,
+      "caption": "山顶风真大",
+      "series": "探索小冒险",
+      "path": "stickers/548-山顶风真大.png",
+      "scene": "一手按住草帽，一手握登山杖，长发被风吹起",
+      "sha256": "5dfac9d25ffefed49f30ee95d6a6229bf4cd6f6bfe15494b63322675aa901c26",
+      "bytes": 2120198,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 549,
+      "caption": "营火烤个暖",
+      "series": "探索小冒险",
+      "path": "stickers/549-营火烤个暖.png",
+      "scene": "双手伸向一堆迷你营火取暖，满足坐着",
+      "sha256": "e3dff84a495893adba5fd394c85d76a37bca7b236bde07fc96c2390383b52e72",
+      "bytes": 1693837,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 550,
+      "caption": "月亮当路灯",
+      "series": "探索小冒险",
+      "path": "stickers/550-月亮当路灯.png",
+      "scene": "一手握小提灯，一手叉腰，抬头看月亮图形",
+      "sha256": "0e70bbc5f8db8fd44396d5aac3adbf181ecc94b18bcbb3c8db21f886cb3b7f35",
+      "bytes": 1749370,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 551,
+      "caption": "面包烤胖了",
+      "series": "桃纸厨房加餐",
+      "path": "stickers/551-面包烤胖了.png",
+      "scene": "双手端着烤盘，盘里一只鼓得很高的面包，惊叹",
+      "sha256": "2b925c91ac3d9714e476f3df23cd190e4f1d0b50509bddb0f9dda9681e2fd234",
+      "bytes": 1685627,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 552,
+      "caption": "饺子包成花",
+      "series": "桃纸厨房加餐",
+      "path": "stickers/552-饺子包成花.png",
+      "scene": "一手托一枚花形饺子，一手沾点面粉，得意笑",
+      "sha256": "30782b692beae1832d69e7a241d0da8fac5a7f8d3cd72e0fb6918b9d17889632",
+      "bytes": 1807377,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 553,
+      "caption": "糖罐抱紧点",
+      "series": "桃纸厨房加餐",
+      "path": "stickers/553-糖罐抱紧点.png",
+      "scene": "双手紧抱糖罐，警惕小表情",
+      "sha256": "9da27b02dd5a1a9d910788f0f662c5aae8718179feb551912803593aba8e352c",
+      "bytes": 1731837,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 554,
+      "caption": "这口有点烫",
+      "series": "桃纸厨房加餐",
+      "path": "stickers/554-这口有点烫.png",
+      "scene": "一手端碗，一手握勺停在嘴边，鼓起嘴吹气",
+      "sha256": "6d0338d5f9d1dce15bbd00620240cb3829dc0fa7875cabeb363af80e40c79426",
+      "bytes": 1654318,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 555,
+      "caption": "桃桃搅奶油",
+      "series": "桃纸厨房加餐",
+      "path": "stickers/555-桃桃搅奶油.png",
+      "scene": "一手扶碗，一手握打蛋器，鼻尖一点奶油",
+      "sha256": "0bc0fff653c1ba8099e9744aac1c2d5ff7949c61488228c0b27ed4bd50f9bac1",
+      "bytes": 1737745,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 556,
+      "caption": "围裙系好了",
+      "series": "桃纸厨房加餐",
+      "path": "stickers/556-围裙系好了.png",
+      "scene": "双手握围裙两根带子，准备在腰前打结，开心",
+      "sha256": "484e4ce2f0530759b65f127d019428513a3e440451aad601c6ea49dbb2df6264",
+      "bytes": 1659017,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 557,
+      "caption": "蛋黄别逃跑",
+      "series": "桃纸厨房加餐",
+      "path": "stickers/557-蛋黄别逃跑.png",
+      "scene": "一手端小碗，一手举小漏勺，盯着滑动的蛋黄",
+      "sha256": "07c8dc684082c8602217b3d8720da16583116fa6141c6ba0d70697702644362e",
+      "bytes": 1863024,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 558,
+      "caption": "汤里有星星",
+      "series": "桃纸厨房加餐",
+      "path": "stickers/558-汤里有星星.png",
+      "scene": "双手端汤碗，碗里星形蔬菜，惊喜看着",
+      "sha256": "98cf62448199eb7fe78df7f555ddbb5a275e05200faa966c5143cd3684051a26",
+      "bytes": 1723327,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 559,
+      "caption": "烤红薯真甜",
+      "series": "桃纸厨房加餐",
+      "path": "stickers/559-烤红薯真甜.png",
+      "scene": "双手捧半个烤红薯，满足眯眼",
+      "sha256": "f171673b2077875a3d3e1d8487907e81d5db8fc6326cb420d5d3fafe368101bb",
+      "bytes": 1631581,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 560,
+      "caption": "锅盖一掀香",
+      "series": "桃纸厨房加餐",
+      "path": "stickers/560-锅盖一掀香.png",
+      "scene": "一手举锅盖，一手放胸前，闻着小锅的香气微笑",
+      "sha256": "b8a339afb65e16bf72fe02598a8ccc821f4f9fbc5e4e706f6844e595756a98df",
+      "bytes": 1688422,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 561,
+      "caption": "桃纸石化中",
+      "series": "桃式小反应",
+      "path": "stickers/561-桃纸石化中.png",
+      "scene": "双手垂身侧，灰色小石块光效围着身体，蓝眼呆滞",
+      "sha256": "d70398a72b4e5f9d15660f959bf62e2b2ee2ceb1f605ca3b1914a2071e77a5e8",
+      "bytes": 1586568,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 562,
+      "caption": "笑出桃子籽",
+      "series": "桃式小反应",
+      "path": "stickers/562-笑出桃子籽.png",
+      "scene": "一手捂肚，一手捂嘴，笑得眼泪飞出",
+      "sha256": "d34927158d1067772353c0bf0525d1d36485d5560a677890db6dfccf174b1b61",
+      "bytes": 1627901,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 563,
+      "caption": "脑内下小雨",
+      "series": "桃式小反应",
+      "path": "stickers/563-脑内下小雨.png",
+      "scene": "双手撑脸，上方一朵小雨云，呆坐发愁",
+      "sha256": "3525f2b50d0e7485b3c2c0c984f524cab1265a6edccb11b55edd9d3c27e380f6",
+      "bytes": 1352971,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 564,
+      "caption": "这就红温了",
+      "series": "桃式小反应",
+      "path": "stickers/564-这就红温了.png",
+      "scene": "两手握成小拳贴脸旁，脸红到冒小蒸汽，鼓腮",
+      "sha256": "f6ba3e8a96a70894fc99957fc5e3a47f4a892b5d6cfb6a4c2738d9ece665e3b0",
+      "bytes": 1493149,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 565,
+      "caption": "给我整不会了",
+      "series": "桃式小反应",
+      "path": "stickers/565-给我整不会了.png",
+      "scene": "一手挠头，一手握手柄，茫然张嘴",
+      "sha256": "ac94ca0b7dd2dd5044ba95a7816a4a1ec81e9017b66210f96bb9f1d768ceeda8",
+      "bytes": 1747257,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 566,
+      "caption": "小脑袋冒烟",
+      "series": "桃式小反应",
+      "path": "stickers/566-小脑袋冒烟.png",
+      "scene": "双手扶太阳穴，头顶一缕轻烟，努力思考",
+      "sha256": "19d59e928a19cbcb968589e9f37c622aa2cfbcebae8bb0416481966d9c15c201",
+      "bytes": 1421177,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 567,
+      "caption": "开心敲小锣",
+      "series": "桃式小反应",
+      "path": "stickers/567-开心敲小锣.png",
+      "scene": "一手持迷你锣，一手握锣槌，开心宣布",
+      "sha256": "8e041bbbbed7b7cf79fbce481782fcc4421303db5812fb3f02545a1598c990d4",
+      "bytes": 1715811,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 568,
+      "caption": "被甜到融化",
+      "series": "桃式小反应",
+      "path": "stickers/568-被甜到融化.png",
+      "scene": "双手托脸，脸颊粉红，身旁两颗小糖果图形",
+      "sha256": "aa05a57179a9911077b7bb6e8c814a63ad7784e99b17f7060d1793d2ec0cc6e4",
+      "bytes": 1667306,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 569,
+      "caption": "桃纸原地转圈",
+      "series": "桃式小反应",
+      "path": "stickers/569-桃纸原地转圈.png",
+      "scene": "双手向两侧自然伸出，脚尖点地快乐旋转",
+      "sha256": "0767fc076ecf5b5d67bfacc5e667f0115037d370333b64fb0542564418718cc8",
+      "bytes": 1546513,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 570,
+      "caption": "先把震惊收好",
+      "series": "桃式小反应",
+      "path": "stickers/570-先把震惊收好.png",
+      "scene": "双手把一个闪电符号塞进小盒，眼睛圆圆惊讶",
+      "sha256": "5de3c9f830eec4d31149e6f42114bfd53e4263a47e82fd186f166dbbf4c05b85",
+      "bytes": 1664120,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 571,
+      "caption": "桃友递个凳",
+      "series": "桃友新互动",
+      "path": "stickers/571-桃友递个凳.png",
+      "scene": "双手捧起小凳子向前递，热情笑",
+      "sha256": "c74c3f383388324746a60acf66eb5f0d7508f180d983727dcdf6800dd34e9b2f",
+      "bytes": 1707748,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 572,
+      "caption": "弹幕借我看看",
+      "series": "桃友新互动",
+      "path": "stickers/572-弹幕借我看看.png",
+      "scene": "双手举空白长卷，凑近认真查看",
+      "sha256": "7816000beb8413577ca1a1373731d2e8a52583e23a0f73fc0e8947ba2fd36952",
+      "bytes": 1570140,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 573,
+      "caption": "夸奖先存罐里",
+      "series": "桃友新互动",
+      "path": "stickers/573-夸奖先存罐里.png",
+      "scene": "一手扶小玻璃罐，一手投入一枚心形纸片，开心",
+      "sha256": "1bf28bb74865b7798c7632378a6e2bfe41e9e8302a60b15629eb619d61cf1957",
+      "bytes": 1730423,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 574,
+      "caption": "小桃握个爪",
+      "series": "桃友新互动",
+      "path": "stickers/574-小桃握个爪.png",
+      "scene": "一手向前伸出可爱的闭合小拳，一手放胸口，温暖笑",
+      "sha256": "bc4605502413811e64d14ac60956160ab8ec2f998a233245e7be980a15e82b0b",
+      "bytes": 1631330,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 575,
+      "caption": "给你留颗糖",
+      "series": "桃友新互动",
+      "path": "stickers/575-给你留颗糖.png",
+      "scene": "一手捧糖果，一手护在糖果下方，微笑递出",
+      "sha256": "00f4ba43b089e417d056fbc8bb7401c60cb3bf792321fc44f7f6b3e04af11948",
+      "bytes": 1643091,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 576,
+      "caption": "一起数星星",
+      "series": "桃友新互动",
+      "path": "stickers/576-一起数星星.png",
+      "scene": "一手指天上三颗星形图案，一手托腮，安静微笑",
+      "sha256": "ba4bcc8c843e05b47d74b61838339f0bc1b816612473dc131070f53bdde7f1d4",
+      "bytes": 1699273,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 577,
+      "caption": "别卷桃纸啦",
+      "series": "桃友新互动",
+      "path": "stickers/577-别卷桃纸啦.png",
+      "scene": "双手抱着一卷软毯，委屈鼓腮",
+      "sha256": "b5952716c2e2376c13a6c81173579c2244a15953a42318decc349bf62f58c273",
+      "bytes": 1726188,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 578,
+      "caption": "桃友暗号对上",
+      "series": "桃友新互动",
+      "path": "stickers/578-桃友暗号对上.png",
+      "scene": "一手握对讲机，一手握拳放腰侧，狡黠眨眼",
+      "sha256": "088a04165d2687bc23ecb0136be2c1bf1607d47a6ae2d76e30cd5bd857125b3c",
+      "bytes": 1647159,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 579,
+      "caption": "小桃听令啦",
+      "series": "桃友新互动",
+      "path": "stickers/579-小桃听令啦.png",
+      "scene": "一手敬礼，一手垂身侧，神情郑重可爱",
+      "sha256": "2a67726c1fbe3688d479c71d43ef11a8d7c7f715e6c45c04db1558b91bd5b1c7",
+      "bytes": 1529199,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 580,
+      "caption": "快乐分你一半",
+      "series": "桃友新互动",
+      "path": "stickers/580-快乐分你一半.png",
+      "scene": "双手各捧半块心形饼干，笑着向前展示",
+      "sha256": "3ee0bb40763dd298635672daf3491a1cae949242065facfe80e5a4cb9aac9727",
+      "bytes": 1615570,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 581,
+      "caption": "雨天撑把桃",
+      "series": "天气与季节",
+      "path": "stickers/581-雨天撑把桃.png",
+      "scene": "一手握桃色小伞，一手伸出去接两滴雨，温柔",
+      "sha256": "4e2d1b85d8a58c12be5cbf08bc362f6f8291e71dbbe2eb2de5d9a4d8ef5038e3",
+      "bytes": 1629684,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 582,
+      "caption": "围巾绕三圈",
+      "series": "天气与季节",
+      "path": "stickers/582-围巾绕三圈.png",
+      "scene": "双手捏厚厚围巾两端，鼻尖冻红，头发仍可见",
+      "sha256": "cb0bbcc5c1ed0967c7d900bf6abe339e11a1ee8606c5803db34e218b3b516c76",
+      "bytes": 1746872,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 583,
+      "caption": "雪地踩桃印",
+      "series": "天气与季节",
+      "path": "stickers/583-雪地踩桃印.png",
+      "scene": "双手插小外套口袋，小脚踩雪留下两枚脚印，开心",
+      "sha256": "654bac430553d4e6ddb667bd54aa48c333096f6f7c040cb062800bec895c79b4",
+      "bytes": 1677578,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 584,
+      "caption": "秋叶落头顶",
+      "series": "天气与季节",
+      "path": "stickers/584-秋叶落头顶.png",
+      "scene": "一手捏头顶落叶，一手叉腰，困惑上看",
+      "sha256": "88cfe1356b10848de40ca76594c9aedde2322a5b2b7c56f3f215b1e8b8aa6a96",
+      "bytes": 1543077,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 585,
+      "caption": "夏风吹刘海",
+      "series": "天气与季节",
+      "path": "stickers/585-夏风吹刘海.png",
+      "scene": "一手握小扇，一手扶刘海，微风吹起橘发",
+      "sha256": "461c4005601f39ef527c472a368856501a69356f53bc0f40ae2328c896671594",
+      "bytes": 1857465,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 586,
+      "caption": "春困有证据",
+      "series": "天气与季节",
+      "path": "stickers/586-春困有证据.png",
+      "scene": "一手握小花枝，一手揉眼，困得张嘴",
+      "sha256": "7d3b46822f8c16d669f9c896b2bb8b6fe46b2d2f7969e8841e3df70c23af6809",
+      "bytes": 1601132,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 587,
+      "caption": "雷声吓一桃",
+      "series": "天气与季节",
+      "path": "stickers/587-雷声吓一桃.png",
+      "scene": "双手捂耳朵，一旁小闪电图形，惊慌缩肩",
+      "sha256": "9925956d5915789d4fe346aa12aa39f716a106ceb17774291cc457e6befc6096",
+      "bytes": 1681552,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 588,
+      "caption": "晒成小桃干",
+      "series": "天气与季节",
+      "path": "stickers/588-晒成小桃干.png",
+      "scene": "双手拿小遮阳板挡太阳，热得鼓腮",
+      "sha256": "b786833f51df2b7416deffa30de3fe70e02cc5e8dd6fcfe2a4c64f8963fa59d0",
+      "bytes": 1745126,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 589,
+      "caption": "雾里找桃纸",
+      "series": "天气与季节",
+      "path": "stickers/589-雾里找桃纸.png",
+      "scene": "一手举小灯笼，一手挥开两朵小雾团，探头",
+      "sha256": "3688e08b8ca5fb04fb5c506924c06628b6e21bcdd11d3a5faa7b75e5fccf4dcd",
+      "bytes": 1794564,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 590,
+      "caption": "接住一片雪",
+      "series": "天气与季节",
+      "path": "stickers/590-接住一片雪.png",
+      "scene": "双手捧成小碗接一片雪花，惊喜轻笑",
+      "sha256": "7e4f64fab96312a4e0b7db79cdb35135db4884b757382800402dcaf3d7de3fce",
+      "bytes": 1657101,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 591,
+      "caption": "袜子又失踪",
+      "series": "生活小确幸",
+      "path": "stickers/591-袜子又失踪.png",
+      "scene": "一手举单只小袜子，一手掀开小篮盖子，困惑",
+      "sha256": "e3b2dbd166baddda83aefe15607f7f7282557ba9b76195697e897197cffeb495",
+      "bytes": 1775516,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 592,
+      "caption": "闹钟先商量",
+      "series": "生活小确幸",
+      "path": "stickers/592-闹钟先商量.png",
+      "scene": "一手轻按小闹钟，一手扶枕头，困倦讨价还价",
+      "sha256": "668b0b2369788f6d0861f26bed429e99270a9a33be0d3381e2e62e310ca27d34",
+      "bytes": 1786609,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 593,
+      "caption": "杯子暖手心",
+      "series": "生活小确幸",
+      "path": "stickers/593-杯子暖手心.png",
+      "scene": "双手环抱热饮杯，微笑闭嘴，热气小小",
+      "sha256": "f309823604dc791d6a3f3879a79e03dfe19f23b5eca1b1bac6a39d06c9daf08b",
+      "bytes": 1521634,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 594,
+      "caption": "桃纸打个结",
+      "series": "生活小确幸",
+      "path": "stickers/594-桃纸打个结.png",
+      "scene": "双手在胸前给一条小礼物丝带打结，认真",
+      "sha256": "06e5c4cba812644182622896a0a55187cdade2aeea6e8c8778b7456585d220f1",
+      "bytes": 1623230,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 595,
+      "caption": "把烦恼打包",
+      "series": "生活小确幸",
+      "path": "stickers/595-把烦恼打包.png",
+      "scene": "一手压纸箱盖，一手扶箱子，表情释然",
+      "sha256": "62a85fac84b932e0d806a69043aefc4d13e0ec66bee202f4feae0fb7d00fd1bb",
+      "bytes": 1672855,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 596,
+      "caption": "快乐晒衣绳",
+      "series": "生活小确幸",
+      "path": "stickers/596-快乐晒衣绳.png",
+      "scene": "双手把一条小手帕挂在迷你衣绳，开心",
+      "sha256": "3a2c4a6452a0fb9b7c921bdddac28063186d4ed7a3a1b61cf638c3de0e74e103",
+      "bytes": 1756026,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 597,
+      "caption": "镜子夸夸桃",
+      "series": "生活小确幸",
+      "path": "stickers/597-镜子夸夸桃.png",
+      "scene": "一手握小镜子，一手托脸，自信微笑",
+      "sha256": "857260f89a79422ac896dfb9e679d2cd3f55013dac372c700deb90e874003b40",
+      "bytes": 1764955,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 598,
+      "caption": "小熊陪排队",
+      "series": "生活小确幸",
+      "path": "stickers/598-小熊陪排队.png",
+      "scene": "双手抱黄熊玩偶坐小凳，耐心等候",
+      "sha256": "487f8d6146795ae6b2e1982f99b9e9cbccb5164ab53d02db63b3418c583b86da",
+      "bytes": 1584300,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 599,
+      "caption": "给今天盖章",
+      "series": "生活小确幸",
+      "path": "stickers/599-给今天盖章.png",
+      "scene": "一手握小印章压空白纸，一手扶纸，满足",
+      "sha256": "626caa53e02815260d5054615510b11c29dde55ab672591e5a088a15cc1f0b78",
+      "bytes": 1683908,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 600,
+      "caption": "明天还来找桃",
+      "series": "生活小确幸",
+      "path": "stickers/600-明天还来找桃.png",
+      "scene": "双手抱一只桃形小抱枕，温暖期待看向观众",
+      "sha256": "e497f4bbee2934efcf9c1154664fb510515dbb2ec70a3ce87b5d69e331c4954a",
+      "bytes": 1702379,
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     }
   ]

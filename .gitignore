@@ -12,3 +12,4 @@
 /output/
 __pycache__/
 progress-*.lock
+/catalog-extra.json

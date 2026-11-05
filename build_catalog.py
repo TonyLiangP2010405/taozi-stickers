@@ -7,12 +7,12 @@ from datetime import datetime
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
-TARGET = 500
+TARGET = json.loads((ROOT / 'plan.json').read_text())['target']
 
 
 def build():
     planned = {}
-    for name in ['catalog-root.json', 'catalog-a.json', 'catalog-b.json', 'catalog-c.json']:
+    for name in ['catalog-root.json', 'catalog-a.json', 'catalog-b.json', 'catalog-c.json', 'catalog-extra.json']:
         source = ROOT / name
         if not source.exists():
             continue
@@ -24,6 +24,8 @@ def build():
     if not planned:
         for item in json.loads((ROOT / 'plan.json').read_text())['items']:
             planned[int(item['id'])] = item
+    assert len(planned) == TARGET, f'Expected {TARGET} planned items, got {len(planned)}'
+    assert len({item['caption'] for item in planned.values()}) == TARGET, 'Duplicate caption'
     complete = []
     seen_ids = set()
     seen_hashes = set()
@@ -68,8 +70,8 @@ def build():
         series = html.escape(item['series'])
         path = html.escape(item['path'], quote=True)
         cards.append(f'<a class="card" href="{path}" download data-search="{caption} {series}"><img loading="lazy" src="{path}" alt="{caption}"><span>{item["id"]:03d} · {caption}</span><small>{series}</small></a>')
-    page = '''<!doctype html><html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>小小桃纸哟 · 表情包</title><style>*{box-sizing:border-box}body{margin:0;background:#fff5eb;color:#5a3128;font-family:-apple-system,BlinkMacSystemFont,"PingFang SC",sans-serif}main{max-width:1500px;margin:auto;padding:30px}h1{font-size:30px;margin:0 0 8px}.sub,small{color:#916b5d}input{width:100%;padding:13px 16px;margin:20px 0;border:1px solid #e4bca7;border-radius:14px;background:#fffcf8;font:inherit;color:inherit}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:14px}.card{display:block;padding:10px;border-radius:20px;background:#fffcf8;border:1px solid #f1dfd1;text-align:center;color:inherit;text-decoration:none}.card img{display:block;width:100%;aspect-ratio:1;object-fit:contain}.card span,.card small{display:block;margin:6px 0}.card[hidden]{display:none}footer{margin-top:24px;color:#916b5d;font-size:13px}</style><main><h1>小小桃纸哟 · 表情包</h1><div class="sub">已完成 COMPLETE / 500 张 · 点击图片下载透明 PNG</div><input id="search" aria-label="搜索文案或主题" placeholder="搜索文案或主题，例如：钓鱼、晚安、黑桃"><div class="grid">CARDS</div><footer>粉丝二创，非主播官方出品。文案为公开内容启发的创作，不全部作为主播原话。<a href="docs/research.md">调研与来源</a> · <a href="catalog.json">图片索引</a></footer></main><script>const cards=[...document.querySelectorAll('.card')];document.querySelector('#search').addEventListener('input',e=>{const q=e.target.value.trim().toLowerCase();cards.forEach(c=>c.hidden=!c.dataset.search.toLowerCase().includes(q));});</script></html>'''
-    (ROOT / 'index.html').write_text(page.replace('COMPLETE', str(len(complete))).replace('CARDS', ''.join(cards)))
+    page = '''<!doctype html><html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>小小桃纸哟 · 表情包</title><style>*{box-sizing:border-box}body{margin:0;background:#fff5eb;color:#5a3128;font-family:-apple-system,BlinkMacSystemFont,"PingFang SC",sans-serif}main{max-width:1500px;margin:auto;padding:30px}h1{font-size:30px;margin:0 0 8px}.sub,small{color:#916b5d}input{width:100%;padding:13px 16px;margin:20px 0;border:1px solid #e4bca7;border-radius:14px;background:#fffcf8;font:inherit;color:inherit}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:14px}.card{display:block;padding:10px;border-radius:20px;background:#fffcf8;border:1px solid #f1dfd1;text-align:center;color:inherit;text-decoration:none}.card img{display:block;width:100%;aspect-ratio:1;object-fit:contain}.card span,.card small{display:block;margin:6px 0}.card[hidden]{display:none}footer{margin-top:24px;color:#916b5d;font-size:13px}</style><main><h1>小小桃纸哟 · 表情包</h1><div class="sub">已完成 COMPLETE / TARGET 张 · 点击图片下载透明 PNG</div><input id="search" aria-label="搜索文案或主题" placeholder="搜索文案或主题，例如：钓鱼、晚安、黑桃"><div class="grid">CARDS</div><footer>粉丝二创，非主播官方出品。文案为公开内容启发的创作，不全部作为主播原话。<a href="docs/research.md">调研与来源</a> · <a href="catalog.json">图片索引</a></footer></main><script>const cards=[...document.querySelectorAll('.card')];document.querySelector('#search').addEventListener('input',e=>{const q=e.target.value.trim().toLowerCase();cards.forEach(c=>c.hidden=!c.dataset.search.toLowerCase().includes(q));});</script></html>'''
+    (ROOT / 'index.html').write_text(page.replace('COMPLETE', str(len(complete))).replace('TARGET', str(TARGET)).replace('CARDS', ''.join(cards)))
     preview = '\n'.join(f'| {i["id"]:03d} {i["caption"]} | ![{i["caption"]}]({i["path"]}) |' for i in complete[:10])
     state = '已完成' if len(complete) == TARGET else '制作中'
     quota_note = ''
@@ -84,11 +86,11 @@ def build():
                 ranges[-1]['count'] += 1
             else:
                 ranges.append({'from': number, 'to': number, 'count': 1})
-        status.update(completed=len(complete), remaining=len(missing),
+        status.update(target=TARGET, completed=len(complete), remaining=len(missing),
                       missing_ids=missing, resume_ranges=ranges)
         if not missing:
             status['state'] = 'complete'
-            status['reason'] = '500张图片已生成，已通过本地目录与完整性检查。'
+            status['reason'] = f'{TARGET}张图片已生成，已通过本地目录与完整性检查。'
         status_file.write_text(json.dumps(status, ensure_ascii=False, indent=2) + '\n')
         if missing and status.get('state') == 'waiting_for_image_quota':
             state = '等待出图额度恢复'
@@ -104,7 +106,7 @@ def build():
 - [下载 {len(complete)} 张整包](https://github.com/TonyLiangP2010405/taozi-stickers/archive/refs/heads/main.zip)：解压后打开 `index.html` 浏览和搜索。
 - [全部图片](stickers/)：三位编号 + 中文文案，透明 PNG。
 - [完整索引](catalog.json)：文案、主题、路径、SHA-256 校验值。
-- [500 张制作目录](plan.json)：计划中的完整文案和主题；图片是否已完成以完整索引为准。
+- [{TARGET} 张制作目录](plan.json)：计划中的完整文案和主题；图片是否已完成以完整索引为准。
 - [预览画廊](index.html)：下载仓库后，用浏览器打开，可按文案和主题筛选。
 - [调研与创作说明](docs/research.md)：公开来源及文案边界。
 
