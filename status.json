@@ -1,18 +1,52 @@
 {
-  "state": "complete",
-  "target": 600,
-  "completed": 600,
-  "remaining": 0,
-  "reason": "600张成图均已逐张目视检查并通过完整性、透明通道、文案唯一性及索引校验，已核验公开GitHub仓库600张PNG与本地文件一致。",
-  "resume_after": null,
-  "resume_ranges": [],
+  "state": "waiting_for_image_quota",
+  "target": 700,
+  "completed": 686,
+  "remaining": 14,
+  "reason": "本批86张已逐张检查通过，尚缺14张；内置图像生成额度已用完，已停止新增，等待额度恢复后自动续做。",
+  "resume_after": "2026-11-06T22:12:06+08:00",
+  "resume_ranges": [
+    {
+      "from": 625,
+      "to": 627,
+      "count": 3
+    },
+    {
+      "from": 629,
+      "to": 634,
+      "count": 6
+    },
+    {
+      "from": 663,
+      "to": 667,
+      "count": 5
+    }
+  ],
   "generation_mode": "built-in ImageGen",
-  "missing_ids": [],
+  "missing_ids": [
+    625,
+    626,
+    627,
+    629,
+    630,
+    631,
+    632,
+    633,
+    634,
+    663,
+    664,
+    665,
+    666,
+    667
+  ],
   "automatic_resume": {
-    "enabled": false,
-    "reason": "新增100张已完成，总计600张，无需自动续做。"
+    "enabled": true,
+    "automation_id": "700",
+    "schedule": "每日22:20",
+    "timezone": "Asia/Shanghai",
+    "reason": "额度预计2026-11-06 22:12:06恢复，恢复后补齐601–700。"
   },
-  "completed_at": "2026-11-06T01:59:15.421467+08:00",
+  "completed_at": null,
   "publication": {
     "repository": "https://github.com/TonyLiangP2010405/taozi-stickers",
     "branch": "main",
@@ -21,11 +55,12 @@
   },
   "latest_batch": {
     "ids": [
-      501,
-      600
+      601,
+      700
     ],
     "target": 100,
-    "completed": 100,
-    "completed_at": "2026-11-06T01:59:15.421467+08:00"
-  }
+    "completed": 86,
+    "completed_at": null
+  },
+  "last_error_type": "usage_limit_reached"
 }
