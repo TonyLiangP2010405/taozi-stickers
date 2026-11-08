@@ -1,6 +1,6 @@
 {
   "target": 700,
-  "completed": 686,
+  "completed": 700,
   "items": [
     {
       "id": 1,
@@ -6243,6 +6243,36 @@
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {
+      "id": 625,
+      "caption": "西瓜敲三下",
+      "series": "田间小发现",
+      "path": "stickers/625-西瓜敲三下.png",
+      "scene": "一手抱小西瓜，一手握拳轻敲瓜皮，认真侧耳",
+      "sha256": "85898546f91953acedcb73e8d12da88535b0fd24070a167275c80008dc08a0c5",
+      "bytes": 1699344,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 626,
+      "caption": "稻穗沉甸甸",
+      "series": "田间小发现",
+      "path": "stickers/626-稻穗沉甸甸.png",
+      "scene": "双手抱一束金黄稻穗，身体后仰，满足微笑",
+      "sha256": "bea1d46c551f3dbc040ef85cadebf68684b18f61f3b213ffd99a5ebc1bc82724",
+      "bytes": 1842747,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 627,
+      "caption": "蜗牛慢点吃",
+      "series": "田间小发现",
+      "path": "stickers/627-蜗牛慢点吃.png",
+      "scene": "一手托趴着小蜗牛的菜叶，一手捂嘴，惊讶看小咬痕",
+      "sha256": "d809fe5554fe1652638a1e0773832e79be7e0d376fb9739713c59cee9d5d044a",
+      "bytes": 1690434,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
       "id": 628,
       "caption": "菜叶盖被子",
       "series": "田间小发现",
@@ -6250,6 +6280,66 @@
       "scene": "双手拉着一片大生菜叶盖住膝盖，坐着打哈欠",
       "sha256": "3c2f8ba35a492257c7c115bcfcbecce7b7f2e27433d181365adfe6e49df1e9cb",
       "bytes": 1734046,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 629,
+      "caption": "萤火虫点灯",
+      "series": "田间小发现",
+      "path": "stickers/629-萤火虫点灯.png",
+      "scene": "一手提无字空玻璃瓶，一手放胸口，看瓶外三点萤火虫暖光",
+      "sha256": "9ca1d0969dae456e4bb8d18fa887094eb224282dd0ec59f7168fdf995124db75",
+      "bytes": 1922677,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 630,
+      "caption": "把月光浇下",
+      "series": "田间小发现",
+      "path": "stickers/630-把月光浇下.png",
+      "scene": "双手握小浇水壶，倒出星点水滴，旁边一弯月亮图形",
+      "sha256": "bcae5a7556508a27cbf607bf4cf7d4d258d49c561af0cf11e6935347b87a292b",
+      "bytes": 1761009,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 631,
+      "caption": "螃蟹横着走",
+      "series": "海边钓鱼加餐",
+      "path": "stickers/631-螃蟹横着走.png",
+      "scene": "双手抱着小桶，歪头看脚边横走的小螃蟹",
+      "sha256": "7bfdb0802282530fb8224b8433196c1f3f5dd28c6560ee239864806833cfaef2",
+      "bytes": 1767692,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 632,
+      "caption": "贝壳听海声",
+      "series": "海边钓鱼加餐",
+      "path": "stickers/632-贝壳听海声.png",
+      "scene": "一手把海螺贴在耳边，一手放膝头，安静微笑",
+      "sha256": "5669126f6f1fe8e1a89d026b752d6b944dd16cf2de9d42c0a4fc2591796bfd0f",
+      "bytes": 1612699,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 633,
+      "caption": "鱼线又打结",
+      "series": "海边钓鱼加餐",
+      "path": "stickers/633-鱼线又打结.png",
+      "scene": "双手提起一小团打结鱼线，委屈鼓腮，鱼竿靠在一边",
+      "sha256": "ddd26975a88ecf7e6b2563b9f773993423be8fe423b3beb30b1bc5a3bd229892",
+      "bytes": 1800292,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 634,
+      "caption": "浪花亲个脚",
+      "series": "海边钓鱼加餐",
+      "path": "stickers/634-浪花亲个脚.png",
+      "scene": "双手提起裙摆两侧，小脚被一朵小浪花碰到，惊喜轻笑",
+      "sha256": "f3e5ddeb0b1e039c223085cca27c1d708c73b533e9b5ffe2611ecf427488ba2d",
+      "bytes": 1644362,
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {
@@ -6530,6 +6620,56 @@
       "scene": "双手握小竖笛放在嘴边，脸鼓鼓，身旁一条歪斜音符图形",
       "sha256": "8ff7b17e464c9075f9c9a569bba5ea640ed10148e8b900c38a9d81eb4d3d0623",
       "bytes": 1639839,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 663,
+      "caption": "琴键跳桃舞",
+      "series": "桃纸音乐剧场",
+      "path": "stickers/663-琴键跳桃舞.png",
+      "scene": "双手搭在一排迷你琴键上弹奏，笑得投入",
+      "sha256": "9f363eb939adef6c94b930e021fa96179796fe251a073677e7f05ed3219f3e3b",
+      "bytes": 1796344,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 664,
+      "caption": "沙锤摇一摇",
+      "series": "桃纸音乐剧场",
+      "path": "stickers/664-沙锤摇一摇.png",
+      "scene": "双手各握一只桃形沙锤，欢快晃动",
+      "sha256": "4f3d5cabf054f3dba7538dfd7736268d8dcb74ba80166950a0b9db132317fe68",
+      "bytes": 1890224,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 665,
+      "caption": "戏服有点长",
+      "series": "桃纸音乐剧场",
+      "path": "stickers/665-戏服有点长.png",
+      "scene": "双手提一件过长的小披风两角，困惑低头看拖地衣摆",
+      "sha256": "216811aede30ec8fe01bac76466a5e304c2e6f4bda1e77bdf2351812536631f2",
+      "bytes": 1686193,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 666,
+      "caption": "桃纸谢幕啦",
+      "series": "桃纸音乐剧场",
+      "path": "stickers/666-桃纸谢幕啦.png",
+      "scene": "一手捧花束，一手扶胸，轻轻鞠躬",
+      "sha256": "e94ba0f5e7efade60011163c1f5a4fa7f142289c2ae0409969d9d00614155cef",
+      "bytes": 1735225,
+      "text_type": "粉丝二创文案，非全部主播逐字语录"
+    },
+    {
+      "id": 667,
+      "caption": "聚光灯追桃",
+      "series": "桃纸音乐剧场",
+      "path": "stickers/667-聚光灯追桃.png",
+      "scene": "双手举到胸前握小拳，惊讶站在一圈小暖光里，头顶一个迷你灯图形",
+      "sha256": "2a589f2b41de4dc71e74633c5de1b1013d523aa043b81aa3e9443116899c6086",
+      "bytes": 1578098,
       "text_type": "粉丝二创文案，非全部主播逐字语录"
     },
     {

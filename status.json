@@ -1,44 +1,13 @@
 {
-  "state": "waiting_for_image_quota",
+  "state": "publishing",
   "target": 700,
-  "completed": 686,
-  "remaining": 14,
-  "reason": "本批86张已逐张检查通过，并已核验公开仓库总计686张与本地文件一致；尚缺14张，等待内置额度恢复后自动续做。",
-  "resume_after": "2026-11-06T22:12:06+08:00",
-  "resume_ranges": [
-    {
-      "from": 625,
-      "to": 627,
-      "count": 3
-    },
-    {
-      "from": 629,
-      "to": 634,
-      "count": 6
-    },
-    {
-      "from": 663,
-      "to": 667,
-      "count": 5
-    }
-  ],
+  "completed": 700,
+  "remaining": 0,
+  "reason": "700张成图已逐张查看并通过全量PNG、透明通道、文案唯一性和画廊引用校验，正在同步及核验远端。",
+  "resume_after": null,
+  "resume_ranges": [],
   "generation_mode": "built-in ImageGen",
-  "missing_ids": [
-    625,
-    626,
-    627,
-    629,
-    630,
-    631,
-    632,
-    633,
-    634,
-    663,
-    664,
-    665,
-    666,
-    667
-  ],
+  "missing_ids": [],
   "automatic_resume": {
     "enabled": true,
     "automation_id": "700",
@@ -59,8 +28,7 @@
       700
     ],
     "target": 100,
-    "completed": 86,
+    "completed": 100,
     "completed_at": null
-  },
-  "last_error_type": "usage_limit_reached"
+  }
 }
